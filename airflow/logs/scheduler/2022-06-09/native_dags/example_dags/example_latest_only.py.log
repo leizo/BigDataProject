@@ -1,0 +1,882 @@
+[2022-06-09 17:02:28,468] {processor.py:163} INFO - Started process (PID=4978) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:02:28,468] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:02:28,469] {logging_mixin.py:109} INFO - [2022-06-09 17:02:28,469] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:02:28,480] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:02:28,488] {logging_mixin.py:109} INFO - [2022-06-09 17:02:28,488] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:02:28,501] {logging_mixin.py:109} INFO - [2022-06-09 17:02:28,501] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:02:28.501419+00:00
+[2022-06-09 17:02:28,512] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.046 seconds
+[2022-06-09 17:03:00,162] {processor.py:163} INFO - Started process (PID=5028) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:03:00,163] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:03:00,164] {logging_mixin.py:109} INFO - [2022-06-09 17:03:00,164] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:03:00,175] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:03:00,184] {logging_mixin.py:109} INFO - [2022-06-09 17:03:00,184] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:03:00,194] {logging_mixin.py:109} INFO - [2022-06-09 17:03:00,193] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:03:00.193722+00:00
+[2022-06-09 17:03:00,206] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.046 seconds
+[2022-06-09 17:03:32,254] {processor.py:163} INFO - Started process (PID=5061) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:03:32,256] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:03:32,256] {logging_mixin.py:109} INFO - [2022-06-09 17:03:32,256] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:03:32,269] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:03:32,279] {logging_mixin.py:109} INFO - [2022-06-09 17:03:32,279] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:03:32,289] {logging_mixin.py:109} INFO - [2022-06-09 17:03:32,288] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:03:32.288633+00:00
+[2022-06-09 17:03:32,303] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.053 seconds
+[2022-06-09 17:04:09,583] {processor.py:163} INFO - Started process (PID=5886) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:04:09,588] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:04:09,589] {logging_mixin.py:109} INFO - [2022-06-09 17:04:09,589] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:04:09,610] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:04:09,631] {logging_mixin.py:109} INFO - [2022-06-09 17:04:09,631] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:04:09,647] {logging_mixin.py:109} INFO - [2022-06-09 17:04:09,647] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:04:09.646599+00:00
+[2022-06-09 17:04:09,661] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.080 seconds
+[2022-06-09 17:04:43,487] {processor.py:163} INFO - Started process (PID=7478) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:04:43,489] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:04:43,489] {logging_mixin.py:109} INFO - [2022-06-09 17:04:43,489] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:04:43,501] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:04:43,512] {logging_mixin.py:109} INFO - [2022-06-09 17:04:43,512] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:04:43,530] {logging_mixin.py:109} INFO - [2022-06-09 17:04:43,529] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:04:43.526698+00:00
+[2022-06-09 17:04:43,550] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.066 seconds
+[2022-06-09 17:05:16,113] {processor.py:163} INFO - Started process (PID=8934) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:05:16,114] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:05:16,115] {logging_mixin.py:109} INFO - [2022-06-09 17:05:16,115] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:05:16,125] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:05:16,134] {logging_mixin.py:109} INFO - [2022-06-09 17:05:16,134] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:05:16,143] {logging_mixin.py:109} INFO - [2022-06-09 17:05:16,143] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:05:16.143143+00:00
+[2022-06-09 17:05:16,155] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.045 seconds
+[2022-06-09 17:05:48,393] {processor.py:163} INFO - Started process (PID=8976) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:05:48,394] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:05:48,395] {logging_mixin.py:109} INFO - [2022-06-09 17:05:48,395] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:05:48,404] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:05:48,414] {logging_mixin.py:109} INFO - [2022-06-09 17:05:48,414] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:05:48,424] {logging_mixin.py:109} INFO - [2022-06-09 17:05:48,424] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:05:48.424319+00:00
+[2022-06-09 17:05:48,434] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.043 seconds
+[2022-06-09 17:06:20,496] {processor.py:163} INFO - Started process (PID=9009) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:06:20,497] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:06:20,497] {logging_mixin.py:109} INFO - [2022-06-09 17:06:20,497] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:06:20,507] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:06:20,517] {logging_mixin.py:109} INFO - [2022-06-09 17:06:20,516] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:06:20,526] {logging_mixin.py:109} INFO - [2022-06-09 17:06:20,526] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:06:20.525945+00:00
+[2022-06-09 17:06:20,543] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2022-06-09 17:06:53,819] {processor.py:163} INFO - Started process (PID=9902) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:06:53,821] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:06:53,822] {logging_mixin.py:109} INFO - [2022-06-09 17:06:53,822] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:06:53,832] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:06:53,845] {logging_mixin.py:109} INFO - [2022-06-09 17:06:53,845] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:06:53,856] {logging_mixin.py:109} INFO - [2022-06-09 17:06:53,856] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:06:53.855732+00:00
+[2022-06-09 17:06:53,871] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.055 seconds
+[2022-06-09 17:07:26,557] {processor.py:163} INFO - Started process (PID=10645) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:07:26,559] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:07:26,560] {logging_mixin.py:109} INFO - [2022-06-09 17:07:26,560] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:07:26,569] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:07:26,581] {logging_mixin.py:109} INFO - [2022-06-09 17:07:26,581] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:07:26,592] {logging_mixin.py:109} INFO - [2022-06-09 17:07:26,591] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:07:26.591611+00:00
+[2022-06-09 17:07:26,605] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2022-06-09 17:08:00,238] {processor.py:163} INFO - Started process (PID=13594) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:08:00,241] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:08:00,242] {logging_mixin.py:109} INFO - [2022-06-09 17:08:00,241] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:08:00,253] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:08:00,264] {logging_mixin.py:109} INFO - [2022-06-09 17:08:00,264] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:08:00,278] {logging_mixin.py:109} INFO - [2022-06-09 17:08:00,278] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:08:00.278506+00:00
+[2022-06-09 17:08:00,292] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.056 seconds
+[2022-06-09 17:08:34,067] {processor.py:163} INFO - Started process (PID=15639) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:08:34,069] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:08:34,070] {logging_mixin.py:109} INFO - [2022-06-09 17:08:34,069] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:08:34,081] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:08:34,095] {logging_mixin.py:109} INFO - [2022-06-09 17:08:34,095] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:08:34,106] {logging_mixin.py:109} INFO - [2022-06-09 17:08:34,106] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:08:34.105821+00:00
+[2022-06-09 17:08:34,119] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.056 seconds
+[2022-06-09 17:09:07,645] {processor.py:163} INFO - Started process (PID=17135) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:09:07,648] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:09:07,649] {logging_mixin.py:109} INFO - [2022-06-09 17:09:07,648] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:09:07,664] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:09:07,676] {logging_mixin.py:109} INFO - [2022-06-09 17:09:07,676] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:09:07,688] {logging_mixin.py:109} INFO - [2022-06-09 17:09:07,688] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:09:07.688517+00:00
+[2022-06-09 17:09:07,702] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.060 seconds
+[2022-06-09 17:09:41,515] {processor.py:163} INFO - Started process (PID=18881) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:09:41,518] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:09:41,518] {logging_mixin.py:109} INFO - [2022-06-09 17:09:41,518] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:09:41,529] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:09:41,538] {logging_mixin.py:109} INFO - [2022-06-09 17:09:41,538] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:09:41,548] {logging_mixin.py:109} INFO - [2022-06-09 17:09:41,548] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:09:41.547693+00:00
+[2022-06-09 17:09:41,562] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2022-06-09 17:10:15,106] {processor.py:163} INFO - Started process (PID=19748) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:10:15,107] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:10:15,107] {logging_mixin.py:109} INFO - [2022-06-09 17:10:15,107] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:10:15,119] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:10:15,131] {logging_mixin.py:109} INFO - [2022-06-09 17:10:15,130] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:10:15,145] {logging_mixin.py:109} INFO - [2022-06-09 17:10:15,145] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:10:15.144970+00:00
+[2022-06-09 17:10:15,156] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2022-06-09 17:10:48,819] {processor.py:163} INFO - Started process (PID=22054) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:10:48,823] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:10:48,823] {logging_mixin.py:109} INFO - [2022-06-09 17:10:48,823] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:10:48,836] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:10:48,846] {logging_mixin.py:109} INFO - [2022-06-09 17:10:48,846] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:10:48,859] {logging_mixin.py:109} INFO - [2022-06-09 17:10:48,859] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:10:48.858876+00:00
+[2022-06-09 17:10:48,873] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.056 seconds
+[2022-06-09 17:11:21,812] {processor.py:163} INFO - Started process (PID=24216) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:11:21,813] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:11:21,814] {logging_mixin.py:109} INFO - [2022-06-09 17:11:21,813] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:11:21,824] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:11:21,834] {logging_mixin.py:109} INFO - [2022-06-09 17:11:21,834] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:11:21,843] {logging_mixin.py:109} INFO - [2022-06-09 17:11:21,843] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:11:21.843211+00:00
+[2022-06-09 17:11:21,853] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.043 seconds
+[2022-06-09 17:11:56,277] {processor.py:163} INFO - Started process (PID=25138) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:11:56,279] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:11:56,280] {logging_mixin.py:109} INFO - [2022-06-09 17:11:56,280] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:11:56,290] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:11:56,302] {logging_mixin.py:109} INFO - [2022-06-09 17:11:56,302] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:11:56,314] {logging_mixin.py:109} INFO - [2022-06-09 17:11:56,314] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:11:56.313802+00:00
+[2022-06-09 17:11:56,328] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.053 seconds
+[2022-06-09 17:12:29,834] {processor.py:163} INFO - Started process (PID=25466) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:12:29,843] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:12:29,847] {logging_mixin.py:109} INFO - [2022-06-09 17:12:29,847] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:12:29,926] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:12:29,987] {logging_mixin.py:109} INFO - [2022-06-09 17:12:29,986] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:12:30,041] {logging_mixin.py:109} INFO - [2022-06-09 17:12:30,041] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:12:30.039713+00:00
+[2022-06-09 17:12:30,064] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.245 seconds
+[2022-06-09 17:13:04,703] {processor.py:163} INFO - Started process (PID=958) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:13:04,704] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:13:04,705] {logging_mixin.py:109} INFO - [2022-06-09 17:13:04,705] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:13:04,719] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:13:04,731] {logging_mixin.py:109} INFO - [2022-06-09 17:13:04,731] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:13:04,742] {logging_mixin.py:109} INFO - [2022-06-09 17:13:04,742] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:13:04.742440+00:00
+[2022-06-09 17:13:04,753] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2022-06-09 17:13:38,012] {processor.py:163} INFO - Started process (PID=7743) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:13:38,013] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:13:38,013] {logging_mixin.py:109} INFO - [2022-06-09 17:13:38,013] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:13:38,028] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:13:38,038] {logging_mixin.py:109} INFO - [2022-06-09 17:13:38,038] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:13:38,050] {logging_mixin.py:109} INFO - [2022-06-09 17:13:38,049] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:13:38.049686+00:00
+[2022-06-09 17:13:38,063] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2022-06-09 17:14:11,820] {processor.py:163} INFO - Started process (PID=8415) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:14:11,821] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:14:11,821] {logging_mixin.py:109} INFO - [2022-06-09 17:14:11,821] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:14:11,832] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:14:11,842] {logging_mixin.py:109} INFO - [2022-06-09 17:14:11,842] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:14:11,852] {logging_mixin.py:109} INFO - [2022-06-09 17:14:11,852] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:14:11.852097+00:00
+[2022-06-09 17:14:11,864] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.047 seconds
+[2022-06-09 17:14:45,120] {processor.py:163} INFO - Started process (PID=8498) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:14:45,124] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:14:45,124] {logging_mixin.py:109} INFO - [2022-06-09 17:14:45,124] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:14:45,136] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:14:45,145] {logging_mixin.py:109} INFO - [2022-06-09 17:14:45,145] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:14:45,157] {logging_mixin.py:109} INFO - [2022-06-09 17:14:45,157] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:14:45.156605+00:00
+[2022-06-09 17:14:45,171] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.053 seconds
+[2022-06-09 17:15:19,106] {processor.py:163} INFO - Started process (PID=9459) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:15:19,107] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:15:19,108] {logging_mixin.py:109} INFO - [2022-06-09 17:15:19,107] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:15:19,120] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:15:19,132] {logging_mixin.py:109} INFO - [2022-06-09 17:15:19,132] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:15:19,145] {logging_mixin.py:109} INFO - [2022-06-09 17:15:19,144] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:15:19.144631+00:00
+[2022-06-09 17:15:19,157] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.053 seconds
+[2022-06-09 17:15:52,375] {processor.py:163} INFO - Started process (PID=12011) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:15:52,378] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:15:52,378] {logging_mixin.py:109} INFO - [2022-06-09 17:15:52,378] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:15:52,390] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:15:52,400] {logging_mixin.py:109} INFO - [2022-06-09 17:15:52,400] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:15:52,411] {logging_mixin.py:109} INFO - [2022-06-09 17:15:52,410] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:15:52.410782+00:00
+[2022-06-09 17:15:52,423] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2022-06-09 17:16:25,241] {processor.py:163} INFO - Started process (PID=14064) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:16:25,242] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:16:25,242] {logging_mixin.py:109} INFO - [2022-06-09 17:16:25,242] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:16:25,254] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:16:25,263] {logging_mixin.py:109} INFO - [2022-06-09 17:16:25,263] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:16:25,272] {logging_mixin.py:109} INFO - [2022-06-09 17:16:25,272] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:16:25.272627+00:00
+[2022-06-09 17:16:25,285] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.047 seconds
+[2022-06-09 17:16:57,553] {processor.py:163} INFO - Started process (PID=16163) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:16:57,554] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:16:57,554] {logging_mixin.py:109} INFO - [2022-06-09 17:16:57,554] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:16:57,569] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:16:57,580] {logging_mixin.py:109} INFO - [2022-06-09 17:16:57,580] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:16:57,592] {logging_mixin.py:109} INFO - [2022-06-09 17:16:57,591] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:16:57.591565+00:00
+[2022-06-09 17:16:57,602] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2022-06-09 17:17:31,353] {processor.py:163} INFO - Started process (PID=18505) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:17:31,355] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:17:31,356] {logging_mixin.py:109} INFO - [2022-06-09 17:17:31,356] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:17:31,403] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:17:31,437] {logging_mixin.py:109} INFO - [2022-06-09 17:17:31,437] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:17:31,452] {logging_mixin.py:109} INFO - [2022-06-09 17:17:31,452] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:17:31.452401+00:00
+[2022-06-09 17:17:31,465] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.115 seconds
+[2022-06-09 17:18:04,679] {processor.py:163} INFO - Started process (PID=20847) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:18:04,681] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:18:04,681] {logging_mixin.py:109} INFO - [2022-06-09 17:18:04,681] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:18:04,691] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:18:04,700] {logging_mixin.py:109} INFO - [2022-06-09 17:18:04,700] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:18:04,710] {logging_mixin.py:109} INFO - [2022-06-09 17:18:04,710] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:18:04.710142+00:00
+[2022-06-09 17:18:04,722] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.045 seconds
+[2022-06-09 17:18:38,477] {processor.py:163} INFO - Started process (PID=22969) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:18:38,478] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:18:38,479] {logging_mixin.py:109} INFO - [2022-06-09 17:18:38,479] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:18:38,490] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:18:38,498] {logging_mixin.py:109} INFO - [2022-06-09 17:18:38,498] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:18:38,508] {logging_mixin.py:109} INFO - [2022-06-09 17:18:38,508] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:18:38.507880+00:00
+[2022-06-09 17:18:38,520] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.045 seconds
+[2022-06-09 17:19:10,161] {processor.py:163} INFO - Started process (PID=25172) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:19:10,163] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:19:10,163] {logging_mixin.py:109} INFO - [2022-06-09 17:19:10,163] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:19:10,174] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:19:10,185] {logging_mixin.py:109} INFO - [2022-06-09 17:19:10,185] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:19:10,195] {logging_mixin.py:109} INFO - [2022-06-09 17:19:10,195] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:19:10.195090+00:00
+[2022-06-09 17:19:10,208] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2022-06-09 17:19:44,166] {processor.py:163} INFO - Started process (PID=27543) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:19:44,168] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:19:44,168] {logging_mixin.py:109} INFO - [2022-06-09 17:19:44,168] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:19:44,180] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:19:44,189] {logging_mixin.py:109} INFO - [2022-06-09 17:19:44,189] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:19:44,198] {logging_mixin.py:109} INFO - [2022-06-09 17:19:44,198] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:19:44.198549+00:00
+[2022-06-09 17:19:44,212] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2022-06-09 17:20:16,807] {processor.py:163} INFO - Started process (PID=29682) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:20:16,809] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:20:16,809] {logging_mixin.py:109} INFO - [2022-06-09 17:20:16,809] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:20:16,820] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:20:16,829] {logging_mixin.py:109} INFO - [2022-06-09 17:20:16,829] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:20:16,837] {logging_mixin.py:109} INFO - [2022-06-09 17:20:16,837] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:20:16.837061+00:00
+[2022-06-09 17:20:16,850] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.047 seconds
+[2022-06-09 17:20:49,898] {processor.py:163} INFO - Started process (PID=32078) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:20:49,900] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:20:49,901] {logging_mixin.py:109} INFO - [2022-06-09 17:20:49,900] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:20:49,913] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:20:49,922] {logging_mixin.py:109} INFO - [2022-06-09 17:20:49,922] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:20:49,931] {logging_mixin.py:109} INFO - [2022-06-09 17:20:49,931] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:20:49.931376+00:00
+[2022-06-09 17:20:49,944] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2022-06-09 17:21:23,193] {processor.py:163} INFO - Started process (PID=1713) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:21:23,194] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:21:23,194] {logging_mixin.py:109} INFO - [2022-06-09 17:21:23,194] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:21:23,204] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:21:23,213] {logging_mixin.py:109} INFO - [2022-06-09 17:21:23,213] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:21:23,223] {logging_mixin.py:109} INFO - [2022-06-09 17:21:23,223] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:21:23.223242+00:00
+[2022-06-09 17:21:23,236] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.047 seconds
+[2022-06-09 17:21:55,955] {processor.py:163} INFO - Started process (PID=3952) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:21:55,958] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:21:55,958] {logging_mixin.py:109} INFO - [2022-06-09 17:21:55,958] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:21:55,970] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:21:55,981] {logging_mixin.py:109} INFO - [2022-06-09 17:21:55,980] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:21:55,994] {logging_mixin.py:109} INFO - [2022-06-09 17:21:55,994] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:21:55.994491+00:00
+[2022-06-09 17:21:56,006] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2022-06-09 17:22:28,128] {processor.py:163} INFO - Started process (PID=6021) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:22:28,129] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:22:28,129] {logging_mixin.py:109} INFO - [2022-06-09 17:22:28,129] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:22:28,139] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:22:28,149] {logging_mixin.py:109} INFO - [2022-06-09 17:22:28,149] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:22:28,158] {logging_mixin.py:109} INFO - [2022-06-09 17:22:28,158] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:22:28.158398+00:00
+[2022-06-09 17:22:28,172] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.046 seconds
+[2022-06-09 17:23:01,910] {processor.py:163} INFO - Started process (PID=8413) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:23:01,919] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:23:01,919] {logging_mixin.py:109} INFO - [2022-06-09 17:23:01,919] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:23:01,930] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:23:01,938] {logging_mixin.py:109} INFO - [2022-06-09 17:23:01,938] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:23:01,947] {logging_mixin.py:109} INFO - [2022-06-09 17:23:01,947] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:23:01.947419+00:00
+[2022-06-09 17:23:01,963] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.055 seconds
+[2022-06-09 17:23:34,273] {processor.py:163} INFO - Started process (PID=9939) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:23:34,275] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:23:34,276] {logging_mixin.py:109} INFO - [2022-06-09 17:23:34,275] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:23:34,286] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:23:34,295] {logging_mixin.py:109} INFO - [2022-06-09 17:23:34,295] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:23:34,304] {logging_mixin.py:109} INFO - [2022-06-09 17:23:34,304] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:23:34.304271+00:00
+[2022-06-09 17:23:34,318] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.047 seconds
+[2022-06-09 17:24:08,729] {processor.py:163} INFO - Started process (PID=9985) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:24:08,731] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:24:08,732] {logging_mixin.py:109} INFO - [2022-06-09 17:24:08,732] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:24:08,742] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:24:08,752] {logging_mixin.py:109} INFO - [2022-06-09 17:24:08,751] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:24:08,764] {logging_mixin.py:109} INFO - [2022-06-09 17:24:08,763] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:24:08.763597+00:00
+[2022-06-09 17:24:08,778] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2022-06-09 17:24:40,347] {processor.py:163} INFO - Started process (PID=10962) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:24:40,347] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:24:40,348] {logging_mixin.py:109} INFO - [2022-06-09 17:24:40,348] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:24:40,358] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:24:40,367] {logging_mixin.py:109} INFO - [2022-06-09 17:24:40,367] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:24:40,376] {logging_mixin.py:109} INFO - [2022-06-09 17:24:40,376] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:24:40.376225+00:00
+[2022-06-09 17:24:40,389] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.045 seconds
+[2022-06-09 17:25:13,463] {processor.py:163} INFO - Started process (PID=10995) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:25:13,466] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:25:13,467] {logging_mixin.py:109} INFO - [2022-06-09 17:25:13,467] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:25:13,478] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:25:13,488] {logging_mixin.py:109} INFO - [2022-06-09 17:25:13,488] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:25:13,499] {logging_mixin.py:109} INFO - [2022-06-09 17:25:13,499] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:25:13.499130+00:00
+[2022-06-09 17:25:13,512] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2022-06-09 17:25:46,018] {processor.py:163} INFO - Started process (PID=11028) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:25:46,019] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:25:46,020] {logging_mixin.py:109} INFO - [2022-06-09 17:25:46,019] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:25:46,030] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:25:46,040] {logging_mixin.py:109} INFO - [2022-06-09 17:25:46,040] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:25:46,052] {logging_mixin.py:109} INFO - [2022-06-09 17:25:46,052] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:25:46.052149+00:00
+[2022-06-09 17:25:46,065] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2022-06-09 17:26:19,394] {processor.py:163} INFO - Started process (PID=13333) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:26:19,397] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:26:19,397] {logging_mixin.py:109} INFO - [2022-06-09 17:26:19,397] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:26:19,408] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:26:19,421] {logging_mixin.py:109} INFO - [2022-06-09 17:26:19,421] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:26:19,432] {logging_mixin.py:109} INFO - [2022-06-09 17:26:19,432] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:26:19.432325+00:00
+[2022-06-09 17:26:19,446] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.054 seconds
+[2022-06-09 17:26:51,576] {processor.py:163} INFO - Started process (PID=15598) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:26:51,577] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:26:51,578] {logging_mixin.py:109} INFO - [2022-06-09 17:26:51,577] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:26:51,588] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:26:51,599] {logging_mixin.py:109} INFO - [2022-06-09 17:26:51,599] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:26:51,609] {logging_mixin.py:109} INFO - [2022-06-09 17:26:51,609] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:26:51.609321+00:00
+[2022-06-09 17:26:51,619] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.046 seconds
+[2022-06-09 17:27:27,756] {processor.py:163} INFO - Started process (PID=16714) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:27:27,758] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:27:27,758] {logging_mixin.py:109} INFO - [2022-06-09 17:27:27,758] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:27:27,770] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:27:27,781] {logging_mixin.py:109} INFO - [2022-06-09 17:27:27,781] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:27:27,794] {logging_mixin.py:109} INFO - [2022-06-09 17:27:27,793] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:27:27.793705+00:00
+[2022-06-09 17:27:27,810] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.056 seconds
+[2022-06-09 17:28:00,150] {processor.py:163} INFO - Started process (PID=18693) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:28:00,152] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:28:00,153] {logging_mixin.py:109} INFO - [2022-06-09 17:28:00,153] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:28:00,169] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:28:00,183] {logging_mixin.py:109} INFO - [2022-06-09 17:28:00,183] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:28:00,194] {logging_mixin.py:109} INFO - [2022-06-09 17:28:00,194] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:28:00.194113+00:00
+[2022-06-09 17:28:00,202] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.054 seconds
+[2022-06-09 17:28:33,562] {processor.py:163} INFO - Started process (PID=20890) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:28:33,563] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:28:33,564] {logging_mixin.py:109} INFO - [2022-06-09 17:28:33,564] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:28:33,577] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:28:33,591] {logging_mixin.py:109} INFO - [2022-06-09 17:28:33,590] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:28:33,603] {logging_mixin.py:109} INFO - [2022-06-09 17:28:33,603] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:28:33.602937+00:00
+[2022-06-09 17:28:33,619] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.059 seconds
+[2022-06-09 17:29:07,229] {processor.py:163} INFO - Started process (PID=21589) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:29:07,231] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:29:07,232] {logging_mixin.py:109} INFO - [2022-06-09 17:29:07,232] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:29:07,242] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:29:07,251] {logging_mixin.py:109} INFO - [2022-06-09 17:29:07,251] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:29:07,261] {logging_mixin.py:109} INFO - [2022-06-09 17:29:07,261] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:29:07.261169+00:00
+[2022-06-09 17:29:07,273] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.047 seconds
+[2022-06-09 17:29:41,206] {processor.py:163} INFO - Started process (PID=21694) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:29:41,207] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:29:41,208] {logging_mixin.py:109} INFO - [2022-06-09 17:29:41,207] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:29:41,218] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:29:41,228] {logging_mixin.py:109} INFO - [2022-06-09 17:29:41,228] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:29:41,238] {logging_mixin.py:109} INFO - [2022-06-09 17:29:41,238] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:29:41.238208+00:00
+[2022-06-09 17:29:41,253] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2022-06-09 17:30:14,869] {processor.py:163} INFO - Started process (PID=23051) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:30:14,871] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:30:14,872] {logging_mixin.py:109} INFO - [2022-06-09 17:30:14,871] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:30:14,883] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:30:14,893] {logging_mixin.py:109} INFO - [2022-06-09 17:30:14,893] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:30:14,903] {logging_mixin.py:109} INFO - [2022-06-09 17:30:14,903] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:30:14.903330+00:00
+[2022-06-09 17:30:14,913] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.046 seconds
+[2022-06-09 17:30:48,742] {processor.py:163} INFO - Started process (PID=23677) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:30:48,745] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:30:48,745] {logging_mixin.py:109} INFO - [2022-06-09 17:30:48,745] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:30:48,761] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:30:48,775] {logging_mixin.py:109} INFO - [2022-06-09 17:30:48,774] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:30:48,788] {logging_mixin.py:109} INFO - [2022-06-09 17:30:48,788] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:30:48.788103+00:00
+[2022-06-09 17:30:48,803] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.063 seconds
+[2022-06-09 17:31:20,968] {processor.py:163} INFO - Started process (PID=23709) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:31:20,968] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:31:20,969] {logging_mixin.py:109} INFO - [2022-06-09 17:31:20,969] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:31:20,979] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:31:20,989] {logging_mixin.py:109} INFO - [2022-06-09 17:31:20,989] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:31:20,998] {logging_mixin.py:109} INFO - [2022-06-09 17:31:20,998] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:31:20.997962+00:00
+[2022-06-09 17:31:21,010] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.045 seconds
+[2022-06-09 17:31:54,759] {processor.py:163} INFO - Started process (PID=23747) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:31:54,761] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:31:54,761] {logging_mixin.py:109} INFO - [2022-06-09 17:31:54,761] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:31:54,770] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:31:54,780] {logging_mixin.py:109} INFO - [2022-06-09 17:31:54,780] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:31:54,790] {logging_mixin.py:109} INFO - [2022-06-09 17:31:54,790] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:31:54.789937+00:00
+[2022-06-09 17:31:54,801] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.044 seconds
+[2022-06-09 17:32:25,868] {processor.py:163} INFO - Started process (PID=23780) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:32:25,869] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:32:25,869] {logging_mixin.py:109} INFO - [2022-06-09 17:32:25,869] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:32:25,880] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:32:25,889] {logging_mixin.py:109} INFO - [2022-06-09 17:32:25,889] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:32:25,899] {logging_mixin.py:109} INFO - [2022-06-09 17:32:25,899] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:32:25.898754+00:00
+[2022-06-09 17:32:25,912] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.046 seconds
+[2022-06-09 17:33:00,501] {processor.py:163} INFO - Started process (PID=23813) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:33:00,503] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:33:00,503] {logging_mixin.py:109} INFO - [2022-06-09 17:33:00,503] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:33:00,514] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:33:00,523] {logging_mixin.py:109} INFO - [2022-06-09 17:33:00,523] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:33:00,533] {logging_mixin.py:109} INFO - [2022-06-09 17:33:00,533] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:33:00.533009+00:00
+[2022-06-09 17:33:00,547] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2022-06-09 17:33:33,160] {processor.py:163} INFO - Started process (PID=23846) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:33:33,161] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:33:33,162] {logging_mixin.py:109} INFO - [2022-06-09 17:33:33,162] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:33:33,173] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:33:33,183] {logging_mixin.py:109} INFO - [2022-06-09 17:33:33,183] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:33:33,193] {logging_mixin.py:109} INFO - [2022-06-09 17:33:33,193] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:33:33.193361+00:00
+[2022-06-09 17:33:33,208] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2022-06-09 17:34:06,381] {processor.py:163} INFO - Started process (PID=23879) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:34:06,383] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:34:06,383] {logging_mixin.py:109} INFO - [2022-06-09 17:34:06,383] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:34:06,394] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:34:06,405] {logging_mixin.py:109} INFO - [2022-06-09 17:34:06,405] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:34:06,416] {logging_mixin.py:109} INFO - [2022-06-09 17:34:06,416] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:34:06.416254+00:00
+[2022-06-09 17:34:06,430] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.051 seconds
+[2022-06-09 17:34:40,045] {processor.py:163} INFO - Started process (PID=25196) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:34:40,047] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:34:40,047] {logging_mixin.py:109} INFO - [2022-06-09 17:34:40,047] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:34:40,058] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:34:40,073] {logging_mixin.py:109} INFO - [2022-06-09 17:34:40,073] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:34:40,087] {logging_mixin.py:109} INFO - [2022-06-09 17:34:40,087] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:34:40.087249+00:00
+[2022-06-09 17:34:40,099] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.056 seconds
+[2022-06-09 17:35:14,579] {processor.py:163} INFO - Started process (PID=25827) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:35:14,581] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:35:14,582] {logging_mixin.py:109} INFO - [2022-06-09 17:35:14,582] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:35:14,595] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:35:14,605] {logging_mixin.py:109} INFO - [2022-06-09 17:35:14,605] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:35:14,617] {logging_mixin.py:109} INFO - [2022-06-09 17:35:14,616] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:35:14.616757+00:00
+[2022-06-09 17:35:14,631] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.054 seconds
+[2022-06-09 17:35:47,219] {processor.py:163} INFO - Started process (PID=27031) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:35:47,221] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:35:47,221] {logging_mixin.py:109} INFO - [2022-06-09 17:35:47,221] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:35:47,232] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:35:47,243] {logging_mixin.py:109} INFO - [2022-06-09 17:35:47,243] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:35:47,253] {logging_mixin.py:109} INFO - [2022-06-09 17:35:47,253] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:35:47.253200+00:00
+[2022-06-09 17:35:47,267] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.051 seconds
+[2022-06-09 17:36:21,377] {processor.py:163} INFO - Started process (PID=27108) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:36:21,379] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:36:21,380] {logging_mixin.py:109} INFO - [2022-06-09 17:36:21,380] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:36:21,390] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:36:21,400] {logging_mixin.py:109} INFO - [2022-06-09 17:36:21,400] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:36:21,409] {logging_mixin.py:109} INFO - [2022-06-09 17:36:21,409] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:36:21.409476+00:00
+[2022-06-09 17:36:21,423] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.048 seconds
+[2022-06-09 17:36:54,031] {processor.py:163} INFO - Started process (PID=27140) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:36:54,032] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:36:54,033] {logging_mixin.py:109} INFO - [2022-06-09 17:36:54,032] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:36:54,043] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:36:54,053] {logging_mixin.py:109} INFO - [2022-06-09 17:36:54,053] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:36:54,062] {logging_mixin.py:109} INFO - [2022-06-09 17:36:54,062] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:36:54.062491+00:00
+[2022-06-09 17:36:54,077] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2022-06-09 17:37:27,847] {processor.py:163} INFO - Started process (PID=27181) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:37:27,851] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:37:27,851] {logging_mixin.py:109} INFO - [2022-06-09 17:37:27,851] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:37:27,860] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:37:27,869] {logging_mixin.py:109} INFO - [2022-06-09 17:37:27,869] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:37:27,879] {logging_mixin.py:109} INFO - [2022-06-09 17:37:27,879] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:37:27.878947+00:00
+[2022-06-09 17:37:27,892] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.048 seconds
+[2022-06-09 17:38:00,047] {processor.py:163} INFO - Started process (PID=27213) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:38:00,049] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:38:00,050] {logging_mixin.py:109} INFO - [2022-06-09 17:38:00,050] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:38:00,060] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:38:00,070] {logging_mixin.py:109} INFO - [2022-06-09 17:38:00,070] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:38:00,080] {logging_mixin.py:109} INFO - [2022-06-09 17:38:00,080] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:38:00.080049+00:00
+[2022-06-09 17:38:00,095] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2022-06-09 17:38:32,694] {processor.py:163} INFO - Started process (PID=27246) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:38:32,696] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:38:32,696] {logging_mixin.py:109} INFO - [2022-06-09 17:38:32,696] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:38:32,707] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:38:32,717] {logging_mixin.py:109} INFO - [2022-06-09 17:38:32,717] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:38:32,726] {logging_mixin.py:109} INFO - [2022-06-09 17:38:32,726] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:38:32.726347+00:00
+[2022-06-09 17:38:32,738] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.047 seconds
+[2022-06-09 17:39:05,762] {processor.py:163} INFO - Started process (PID=27285) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:39:05,763] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:39:05,763] {logging_mixin.py:109} INFO - [2022-06-09 17:39:05,763] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:39:05,775] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:39:05,789] {logging_mixin.py:109} INFO - [2022-06-09 17:39:05,789] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:39:05,807] {logging_mixin.py:109} INFO - [2022-06-09 17:39:05,807] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:39:05.807036+00:00
+[2022-06-09 17:39:05,823] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.063 seconds
+[2022-06-09 17:39:38,590] {processor.py:163} INFO - Started process (PID=27324) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:39:38,593] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:39:38,593] {logging_mixin.py:109} INFO - [2022-06-09 17:39:38,593] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:39:38,604] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:39:38,615] {logging_mixin.py:109} INFO - [2022-06-09 17:39:38,614] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:39:38,626] {logging_mixin.py:109} INFO - [2022-06-09 17:39:38,626] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:39:38.625843+00:00
+[2022-06-09 17:39:38,639] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2022-06-09 17:40:10,758] {processor.py:163} INFO - Started process (PID=27380) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:40:10,759] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:40:10,759] {logging_mixin.py:109} INFO - [2022-06-09 17:40:10,759] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:40:10,775] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:40:10,787] {logging_mixin.py:109} INFO - [2022-06-09 17:40:10,787] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:40:10,807] {logging_mixin.py:109} INFO - [2022-06-09 17:40:10,807] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:40:10.806569+00:00
+[2022-06-09 17:40:10,819] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.064 seconds
+[2022-06-09 17:40:44,285] {processor.py:163} INFO - Started process (PID=27417) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:40:44,286] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:40:44,287] {logging_mixin.py:109} INFO - [2022-06-09 17:40:44,287] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:40:44,297] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:40:44,308] {logging_mixin.py:109} INFO - [2022-06-09 17:40:44,308] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:40:44,318] {logging_mixin.py:109} INFO - [2022-06-09 17:40:44,318] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:40:44.317921+00:00
+[2022-06-09 17:40:44,328] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.046 seconds
+[2022-06-09 17:41:18,006] {processor.py:163} INFO - Started process (PID=4545) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:41:18,008] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:41:18,008] {logging_mixin.py:109} INFO - [2022-06-09 17:41:18,008] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:41:18,020] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:41:18,032] {logging_mixin.py:109} INFO - [2022-06-09 17:41:18,032] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:41:18,044] {logging_mixin.py:109} INFO - [2022-06-09 17:41:18,044] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:41:18.043983+00:00
+[2022-06-09 17:41:18,056] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.053 seconds
+[2022-06-09 17:41:52,728] {processor.py:163} INFO - Started process (PID=27816) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:41:52,729] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:41:52,730] {logging_mixin.py:109} INFO - [2022-06-09 17:41:52,730] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:41:52,742] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:41:52,754] {logging_mixin.py:109} INFO - [2022-06-09 17:41:52,754] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:41:52,768] {logging_mixin.py:109} INFO - [2022-06-09 17:41:52,768] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:41:52.767941+00:00
+[2022-06-09 17:41:52,779] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.053 seconds
+[2022-06-09 17:42:28,986] {processor.py:163} INFO - Started process (PID=3405) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:42:28,989] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:42:28,993] {logging_mixin.py:109} INFO - [2022-06-09 17:42:28,990] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:42:29,043] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:42:29,086] {logging_mixin.py:109} INFO - [2022-06-09 17:42:29,086] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:42:29,140] {logging_mixin.py:109} INFO - [2022-06-09 17:42:29,140] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:42:29.139894+00:00
+[2022-06-09 17:42:29,174] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.201 seconds
+[2022-06-09 17:43:05,782] {processor.py:163} INFO - Started process (PID=20957) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:43:05,784] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:43:05,785] {logging_mixin.py:109} INFO - [2022-06-09 17:43:05,785] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:43:05,814] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:43:05,838] {logging_mixin.py:109} INFO - [2022-06-09 17:43:05,838] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:43:05,860] {logging_mixin.py:109} INFO - [2022-06-09 17:43:05,860] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:43:05.859645+00:00
+[2022-06-09 17:43:05,878] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.101 seconds
+[2022-06-09 17:43:42,560] {processor.py:163} INFO - Started process (PID=26653) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:43:42,562] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:43:42,563] {logging_mixin.py:109} INFO - [2022-06-09 17:43:42,563] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:43:42,581] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:43:42,600] {logging_mixin.py:109} INFO - [2022-06-09 17:43:42,600] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:43:42,616] {logging_mixin.py:109} INFO - [2022-06-09 17:43:42,616] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:43:42.616333+00:00
+[2022-06-09 17:43:42,631] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.075 seconds
+[2022-06-09 17:44:19,536] {processor.py:163} INFO - Started process (PID=7597) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:44:19,537] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:44:19,538] {logging_mixin.py:109} INFO - [2022-06-09 17:44:19,538] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:44:19,556] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:44:19,574] {logging_mixin.py:109} INFO - [2022-06-09 17:44:19,574] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:44:19,593] {logging_mixin.py:109} INFO - [2022-06-09 17:44:19,593] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:44:19.592819+00:00
+[2022-06-09 17:44:19,606] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2022-06-09 17:44:52,288] {processor.py:163} INFO - Started process (PID=16646) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:44:52,290] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:44:52,290] {logging_mixin.py:109} INFO - [2022-06-09 17:44:52,290] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:44:52,302] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:44:52,313] {logging_mixin.py:109} INFO - [2022-06-09 17:44:52,313] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:44:52,324] {logging_mixin.py:109} INFO - [2022-06-09 17:44:52,324] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:44:52.323865+00:00
+[2022-06-09 17:44:52,335] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2022-06-09 17:45:25,770] {processor.py:163} INFO - Started process (PID=18596) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:45:25,773] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:45:25,773] {logging_mixin.py:109} INFO - [2022-06-09 17:45:25,773] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:45:25,785] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:45:25,795] {logging_mixin.py:109} INFO - [2022-06-09 17:45:25,795] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:45:25,805] {logging_mixin.py:109} INFO - [2022-06-09 17:45:25,805] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:45:25.805339+00:00
+[2022-06-09 17:45:25,816] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.048 seconds
+[2022-06-09 17:45:57,693] {processor.py:163} INFO - Started process (PID=18629) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:45:57,697] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:45:57,697] {logging_mixin.py:109} INFO - [2022-06-09 17:45:57,697] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:45:57,708] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:45:57,718] {logging_mixin.py:109} INFO - [2022-06-09 17:45:57,718] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:45:57,727] {logging_mixin.py:109} INFO - [2022-06-09 17:45:57,727] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:45:57.727561+00:00
+[2022-06-09 17:45:57,741] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.051 seconds
+[2022-06-09 17:46:30,578] {processor.py:163} INFO - Started process (PID=19789) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:46:30,580] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:46:30,580] {logging_mixin.py:109} INFO - [2022-06-09 17:46:30,580] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:46:30,590] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:46:30,601] {logging_mixin.py:109} INFO - [2022-06-09 17:46:30,601] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:46:30,610] {logging_mixin.py:109} INFO - [2022-06-09 17:46:30,610] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:46:30.609742+00:00
+[2022-06-09 17:46:30,621] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.045 seconds
+[2022-06-09 17:47:03,766] {processor.py:163} INFO - Started process (PID=19893) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:47:03,769] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:47:03,769] {logging_mixin.py:109} INFO - [2022-06-09 17:47:03,769] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:47:03,781] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:47:03,792] {logging_mixin.py:109} INFO - [2022-06-09 17:47:03,792] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:47:03,803] {logging_mixin.py:109} INFO - [2022-06-09 17:47:03,802] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:47:03.802752+00:00
+[2022-06-09 17:47:03,816] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2022-06-09 17:47:37,053] {processor.py:163} INFO - Started process (PID=19954) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:47:37,053] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:47:37,054] {logging_mixin.py:109} INFO - [2022-06-09 17:47:37,054] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:47:37,063] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:47:37,072] {logging_mixin.py:109} INFO - [2022-06-09 17:47:37,072] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:47:37,082] {logging_mixin.py:109} INFO - [2022-06-09 17:47:37,081] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:47:37.081695+00:00
+[2022-06-09 17:47:37,095] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.044 seconds
+[2022-06-09 17:48:09,713] {processor.py:163} INFO - Started process (PID=20000) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:48:09,715] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:48:09,716] {logging_mixin.py:109} INFO - [2022-06-09 17:48:09,716] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:48:09,726] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:48:09,735] {logging_mixin.py:109} INFO - [2022-06-09 17:48:09,735] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:48:09,745] {logging_mixin.py:109} INFO - [2022-06-09 17:48:09,745] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:48:09.745390+00:00
+[2022-06-09 17:48:09,758] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.047 seconds
+[2022-06-09 17:48:42,959] {processor.py:163} INFO - Started process (PID=20214) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:48:42,960] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:48:42,960] {logging_mixin.py:109} INFO - [2022-06-09 17:48:42,960] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:48:42,972] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:48:42,982] {logging_mixin.py:109} INFO - [2022-06-09 17:48:42,981] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:48:42,991] {logging_mixin.py:109} INFO - [2022-06-09 17:48:42,991] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:48:42.991150+00:00
+[2022-06-09 17:48:43,007] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2022-06-09 17:49:15,614] {processor.py:163} INFO - Started process (PID=20388) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:49:15,617] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:49:15,617] {logging_mixin.py:109} INFO - [2022-06-09 17:49:15,617] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:49:15,627] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:49:15,637] {logging_mixin.py:109} INFO - [2022-06-09 17:49:15,637] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:49:15,648] {logging_mixin.py:109} INFO - [2022-06-09 17:49:15,648] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:49:15.648382+00:00
+[2022-06-09 17:49:15,662] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2022-06-09 17:49:48,912] {processor.py:163} INFO - Started process (PID=20424) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:49:48,913] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:49:48,913] {logging_mixin.py:109} INFO - [2022-06-09 17:49:48,913] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:49:48,924] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:49:48,937] {logging_mixin.py:109} INFO - [2022-06-09 17:49:48,937] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:49:48,947] {logging_mixin.py:109} INFO - [2022-06-09 17:49:48,947] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:49:48.947362+00:00
+[2022-06-09 17:49:48,962] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2022-06-09 17:50:22,067] {processor.py:163} INFO - Started process (PID=20516) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:50:22,070] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:50:22,071] {logging_mixin.py:109} INFO - [2022-06-09 17:50:22,071] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:50:22,081] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:50:22,091] {logging_mixin.py:109} INFO - [2022-06-09 17:50:22,091] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:50:22,100] {logging_mixin.py:109} INFO - [2022-06-09 17:50:22,100] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:50:22.099838+00:00
+[2022-06-09 17:50:22,114] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2022-06-09 17:50:56,390] {processor.py:163} INFO - Started process (PID=23983) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:50:56,392] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:50:56,392] {logging_mixin.py:109} INFO - [2022-06-09 17:50:56,392] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:50:56,408] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:50:56,419] {logging_mixin.py:109} INFO - [2022-06-09 17:50:56,419] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:50:56,435] {logging_mixin.py:109} INFO - [2022-06-09 17:50:56,435] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:50:56.434893+00:00
+[2022-06-09 17:50:56,448] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.061 seconds
+[2022-06-09 17:51:29,884] {processor.py:163} INFO - Started process (PID=27329) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:51:29,886] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:51:29,887] {logging_mixin.py:109} INFO - [2022-06-09 17:51:29,887] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:51:29,904] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:51:29,918] {logging_mixin.py:109} INFO - [2022-06-09 17:51:29,917] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:51:29,933] {logging_mixin.py:109} INFO - [2022-06-09 17:51:29,933] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:51:29.933493+00:00
+[2022-06-09 17:51:29,946] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.064 seconds
+[2022-06-09 17:52:01,458] {processor.py:163} INFO - Started process (PID=27462) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:52:01,461] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:52:01,461] {logging_mixin.py:109} INFO - [2022-06-09 17:52:01,461] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:52:01,471] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:52:01,481] {logging_mixin.py:109} INFO - [2022-06-09 17:52:01,480] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:52:01,490] {logging_mixin.py:109} INFO - [2022-06-09 17:52:01,490] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:52:01.490585+00:00
+[2022-06-09 17:52:01,505] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2022-06-09 17:52:33,741] {processor.py:163} INFO - Started process (PID=27661) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:52:33,743] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:52:33,743] {logging_mixin.py:109} INFO - [2022-06-09 17:52:33,743] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:52:33,755] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:52:33,765] {logging_mixin.py:109} INFO - [2022-06-09 17:52:33,765] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:52:33,775] {logging_mixin.py:109} INFO - [2022-06-09 17:52:33,775] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:52:33.775484+00:00
+[2022-06-09 17:52:33,790] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2022-06-09 17:53:08,481] {processor.py:163} INFO - Started process (PID=31688) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:53:08,484] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:53:08,484] {logging_mixin.py:109} INFO - [2022-06-09 17:53:08,484] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:53:08,497] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:53:08,510] {logging_mixin.py:109} INFO - [2022-06-09 17:53:08,510] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:53:08,519] {logging_mixin.py:109} INFO - [2022-06-09 17:53:08,519] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:53:08.518907+00:00
+[2022-06-09 17:53:08,532] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.053 seconds
+[2022-06-09 17:53:41,294] {processor.py:163} INFO - Started process (PID=31765) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:53:41,295] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:53:41,295] {logging_mixin.py:109} INFO - [2022-06-09 17:53:41,295] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:53:41,305] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:53:41,316] {logging_mixin.py:109} INFO - [2022-06-09 17:53:41,315] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:53:41,326] {logging_mixin.py:109} INFO - [2022-06-09 17:53:41,326] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:53:41.326277+00:00
+[2022-06-09 17:53:41,340] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2022-06-09 17:54:15,830] {processor.py:163} INFO - Started process (PID=31836) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:54:15,833] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:54:15,833] {logging_mixin.py:109} INFO - [2022-06-09 17:54:15,833] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:54:15,851] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:54:15,865] {logging_mixin.py:109} INFO - [2022-06-09 17:54:15,864] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:54:15,877] {logging_mixin.py:109} INFO - [2022-06-09 17:54:15,877] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:54:15.876856+00:00
+[2022-06-09 17:54:15,889] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.061 seconds
+[2022-06-09 17:54:47,759] {processor.py:163} INFO - Started process (PID=31943) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:54:47,761] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:54:47,761] {logging_mixin.py:109} INFO - [2022-06-09 17:54:47,761] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:54:47,772] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:54:47,785] {logging_mixin.py:109} INFO - [2022-06-09 17:54:47,785] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:54:47,798] {logging_mixin.py:109} INFO - [2022-06-09 17:54:47,798] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:54:47.798453+00:00
+[2022-06-09 17:54:47,813] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.057 seconds
+[2022-06-09 17:55:22,196] {processor.py:163} INFO - Started process (PID=2143) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:55:22,200] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:55:22,201] {logging_mixin.py:109} INFO - [2022-06-09 17:55:22,201] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:55:22,213] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:55:22,224] {logging_mixin.py:109} INFO - [2022-06-09 17:55:22,224] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:55:22,235] {logging_mixin.py:109} INFO - [2022-06-09 17:55:22,235] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:55:22.235346+00:00
+[2022-06-09 17:55:22,247] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.053 seconds
+[2022-06-09 17:55:57,530] {processor.py:163} INFO - Started process (PID=11906) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:55:57,534] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:55:57,535] {logging_mixin.py:109} INFO - [2022-06-09 17:55:57,535] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:55:57,549] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:55:57,559] {logging_mixin.py:109} INFO - [2022-06-09 17:55:57,559] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:55:57,572] {logging_mixin.py:109} INFO - [2022-06-09 17:55:57,572] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:55:57.571860+00:00
+[2022-06-09 17:55:57,586] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.059 seconds
+[2022-06-09 17:56:31,263] {processor.py:163} INFO - Started process (PID=12084) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:56:31,265] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:56:31,265] {logging_mixin.py:109} INFO - [2022-06-09 17:56:31,265] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:56:31,281] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:56:31,292] {logging_mixin.py:109} INFO - [2022-06-09 17:56:31,292] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:56:31,303] {logging_mixin.py:109} INFO - [2022-06-09 17:56:31,303] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:56:31.303496+00:00
+[2022-06-09 17:56:31,313] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2022-06-09 17:57:04,296] {processor.py:163} INFO - Started process (PID=12588) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:57:04,297] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:57:04,298] {logging_mixin.py:109} INFO - [2022-06-09 17:57:04,298] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:57:04,310] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:57:04,320] {logging_mixin.py:109} INFO - [2022-06-09 17:57:04,320] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:57:04,330] {logging_mixin.py:109} INFO - [2022-06-09 17:57:04,330] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:57:04.330226+00:00
+[2022-06-09 17:57:04,340] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.047 seconds
+[2022-06-09 17:57:38,642] {processor.py:163} INFO - Started process (PID=12660) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:57:38,643] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:57:38,644] {logging_mixin.py:109} INFO - [2022-06-09 17:57:38,644] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:57:38,655] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:57:38,664] {logging_mixin.py:109} INFO - [2022-06-09 17:57:38,664] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:57:38,674] {logging_mixin.py:109} INFO - [2022-06-09 17:57:38,674] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:57:38.674240+00:00
+[2022-06-09 17:57:38,685] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.046 seconds
+[2022-06-09 17:58:14,316] {processor.py:163} INFO - Started process (PID=12732) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:58:14,319] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:58:14,319] {logging_mixin.py:109} INFO - [2022-06-09 17:58:14,319] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:58:14,330] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:58:14,341] {logging_mixin.py:109} INFO - [2022-06-09 17:58:14,341] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:58:14,351] {logging_mixin.py:109} INFO - [2022-06-09 17:58:14,351] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:58:14.351489+00:00
+[2022-06-09 17:58:14,366] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2022-06-09 17:58:47,260] {processor.py:163} INFO - Started process (PID=18258) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:58:47,262] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:58:47,262] {logging_mixin.py:109} INFO - [2022-06-09 17:58:47,262] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:58:47,272] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:58:47,281] {logging_mixin.py:109} INFO - [2022-06-09 17:58:47,281] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:58:47,290] {logging_mixin.py:109} INFO - [2022-06-09 17:58:47,290] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:58:47.290444+00:00
+[2022-06-09 17:58:47,304] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.045 seconds
+[2022-06-09 17:59:22,194] {processor.py:163} INFO - Started process (PID=18462) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:59:22,197] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:59:22,197] {logging_mixin.py:109} INFO - [2022-06-09 17:59:22,197] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:59:22,207] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:59:22,218] {logging_mixin.py:109} INFO - [2022-06-09 17:59:22,218] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:59:22,228] {logging_mixin.py:109} INFO - [2022-06-09 17:59:22,228] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:59:22.228058+00:00
+[2022-06-09 17:59:22,242] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2022-06-09 17:59:57,044] {processor.py:163} INFO - Started process (PID=20370) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:59:57,047] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 17:59:57,047] {logging_mixin.py:109} INFO - [2022-06-09 17:59:57,047] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:59:57,058] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 17:59:57,067] {logging_mixin.py:109} INFO - [2022-06-09 17:59:57,067] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:59:57,077] {logging_mixin.py:109} INFO - [2022-06-09 17:59:57,077] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T11:59:57.077046+00:00
+[2022-06-09 17:59:57,087] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.045 seconds
+[2022-06-09 18:00:33,107] {processor.py:163} INFO - Started process (PID=22367) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:00:33,110] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:00:33,110] {logging_mixin.py:109} INFO - [2022-06-09 18:00:33,110] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:00:33,123] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:00:33,136] {logging_mixin.py:109} INFO - [2022-06-09 18:00:33,135] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:00:33,146] {logging_mixin.py:109} INFO - [2022-06-09 18:00:33,146] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:00:33.146399+00:00
+[2022-06-09 18:00:33,155] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2022-06-09 18:01:08,986] {processor.py:163} INFO - Started process (PID=22798) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:01:08,987] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:01:08,988] {logging_mixin.py:109} INFO - [2022-06-09 18:01:08,988] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:01:09,001] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:01:09,013] {logging_mixin.py:109} INFO - [2022-06-09 18:01:09,012] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:01:09,028] {logging_mixin.py:109} INFO - [2022-06-09 18:01:09,028] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:01:09.028227+00:00
+[2022-06-09 18:01:09,038] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.055 seconds
+[2022-06-09 18:01:45,359] {processor.py:163} INFO - Started process (PID=22926) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:01:45,362] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:01:45,362] {logging_mixin.py:109} INFO - [2022-06-09 18:01:45,362] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:01:45,373] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:01:45,382] {logging_mixin.py:109} INFO - [2022-06-09 18:01:45,382] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:01:45,394] {logging_mixin.py:109} INFO - [2022-06-09 18:01:45,394] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:01:45.394121+00:00
+[2022-06-09 18:01:45,407] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2022-06-09 18:02:21,747] {processor.py:163} INFO - Started process (PID=4994) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:02:21,749] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:02:21,750] {logging_mixin.py:109} INFO - [2022-06-09 18:02:21,750] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:02:21,760] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:02:21,770] {logging_mixin.py:109} INFO - [2022-06-09 18:02:21,770] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:02:21,783] {logging_mixin.py:109} INFO - [2022-06-09 18:02:21,783] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:02:21.783136+00:00
+[2022-06-09 18:02:21,794] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2022-06-09 18:02:53,875] {processor.py:163} INFO - Started process (PID=5071) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:02:53,877] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:02:53,877] {logging_mixin.py:109} INFO - [2022-06-09 18:02:53,877] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:02:53,891] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:02:53,903] {logging_mixin.py:109} INFO - [2022-06-09 18:02:53,903] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:02:53,917] {logging_mixin.py:109} INFO - [2022-06-09 18:02:53,917] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:02:53.917403+00:00
+[2022-06-09 18:02:53,931] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.058 seconds
+[2022-06-09 18:03:26,952] {processor.py:163} INFO - Started process (PID=5141) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:03:26,955] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:03:26,955] {logging_mixin.py:109} INFO - [2022-06-09 18:03:26,955] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:03:26,965] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:03:26,975] {logging_mixin.py:109} INFO - [2022-06-09 18:03:26,975] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:03:26,984] {logging_mixin.py:109} INFO - [2022-06-09 18:03:26,984] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:03:26.984123+00:00
+[2022-06-09 18:03:26,998] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2022-06-09 18:04:00,352] {processor.py:163} INFO - Started process (PID=5211) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:04:00,355] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:04:00,355] {logging_mixin.py:109} INFO - [2022-06-09 18:04:00,355] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:04:00,365] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:04:00,374] {logging_mixin.py:109} INFO - [2022-06-09 18:04:00,374] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:04:00,384] {logging_mixin.py:109} INFO - [2022-06-09 18:04:00,384] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:04:00.383987+00:00
+[2022-06-09 18:04:00,398] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2022-06-09 18:04:32,856] {processor.py:163} INFO - Started process (PID=5301) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:04:32,858] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:04:32,859] {logging_mixin.py:109} INFO - [2022-06-09 18:04:32,859] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:04:32,875] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:04:32,887] {logging_mixin.py:109} INFO - [2022-06-09 18:04:32,887] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:04:32,903] {logging_mixin.py:109} INFO - [2022-06-09 18:04:32,903] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:04:32.903048+00:00
+[2022-06-09 18:04:32,916] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.063 seconds
+[2022-06-09 18:05:06,703] {processor.py:163} INFO - Started process (PID=5346) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:05:06,706] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:05:06,706] {logging_mixin.py:109} INFO - [2022-06-09 18:05:06,706] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:05:06,721] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:05:06,732] {logging_mixin.py:109} INFO - [2022-06-09 18:05:06,732] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:05:06,742] {logging_mixin.py:109} INFO - [2022-06-09 18:05:06,742] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:05:06.741988+00:00
+[2022-06-09 18:05:06,755] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.054 seconds
+[2022-06-09 18:05:39,456] {processor.py:163} INFO - Started process (PID=5465) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:05:39,461] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:05:39,463] {logging_mixin.py:109} INFO - [2022-06-09 18:05:39,462] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:05:39,489] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:05:39,513] {logging_mixin.py:109} INFO - [2022-06-09 18:05:39,513] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:05:39,529] {logging_mixin.py:109} INFO - [2022-06-09 18:05:39,529] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:05:39.529462+00:00
+[2022-06-09 18:05:39,554] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.102 seconds
+[2022-06-09 18:06:17,077] {processor.py:163} INFO - Started process (PID=9531) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:06:17,078] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:06:17,078] {logging_mixin.py:109} INFO - [2022-06-09 18:06:17,078] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:06:17,090] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:06:17,101] {logging_mixin.py:109} INFO - [2022-06-09 18:06:17,101] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:06:17,112] {logging_mixin.py:109} INFO - [2022-06-09 18:06:17,112] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:06:17.112020+00:00
+[2022-06-09 18:06:17,126] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2022-06-09 18:06:50,371] {processor.py:163} INFO - Started process (PID=11060) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:06:50,373] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:06:50,373] {logging_mixin.py:109} INFO - [2022-06-09 18:06:50,373] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:06:50,384] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:06:50,394] {logging_mixin.py:109} INFO - [2022-06-09 18:06:50,394] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:06:50,403] {logging_mixin.py:109} INFO - [2022-06-09 18:06:50,403] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:06:50.403266+00:00
+[2022-06-09 18:06:50,416] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.047 seconds
+[2022-06-09 18:07:25,335] {processor.py:163} INFO - Started process (PID=11276) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:07:25,338] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:07:25,339] {logging_mixin.py:109} INFO - [2022-06-09 18:07:25,338] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:07:25,349] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:07:25,359] {logging_mixin.py:109} INFO - [2022-06-09 18:07:25,359] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:07:25,369] {logging_mixin.py:109} INFO - [2022-06-09 18:07:25,369] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:07:25.369588+00:00
+[2022-06-09 18:07:25,384] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2022-06-09 18:08:00,280] {processor.py:163} INFO - Started process (PID=11312) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:08:00,282] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:08:00,283] {logging_mixin.py:109} INFO - [2022-06-09 18:08:00,282] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:08:00,293] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:08:00,303] {logging_mixin.py:109} INFO - [2022-06-09 18:08:00,302] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:08:00,313] {logging_mixin.py:109} INFO - [2022-06-09 18:08:00,313] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:08:00.313468+00:00
+[2022-06-09 18:08:00,325] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.048 seconds
+[2022-06-09 18:08:35,184] {processor.py:163} INFO - Started process (PID=11375) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:08:35,185] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:08:35,186] {logging_mixin.py:109} INFO - [2022-06-09 18:08:35,186] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:08:35,198] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:08:35,208] {logging_mixin.py:109} INFO - [2022-06-09 18:08:35,208] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:08:35,221] {logging_mixin.py:109} INFO - [2022-06-09 18:08:35,221] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:08:35.220714+00:00
+[2022-06-09 18:08:35,234] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2022-06-09 18:09:08,167] {processor.py:163} INFO - Started process (PID=12900) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:09:08,170] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:09:08,171] {logging_mixin.py:109} INFO - [2022-06-09 18:09:08,171] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:09:08,181] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:09:08,191] {logging_mixin.py:109} INFO - [2022-06-09 18:09:08,191] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:09:08,201] {logging_mixin.py:109} INFO - [2022-06-09 18:09:08,201] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:09:08.200975+00:00
+[2022-06-09 18:09:08,215] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2022-06-09 18:09:48,065] {processor.py:163} INFO - Started process (PID=14435) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:09:48,068] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:09:48,068] {logging_mixin.py:109} INFO - [2022-06-09 18:09:48,068] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:09:48,081] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:09:48,092] {logging_mixin.py:109} INFO - [2022-06-09 18:09:48,091] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:09:48,101] {logging_mixin.py:109} INFO - [2022-06-09 18:09:48,101] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:09:48.101243+00:00
+[2022-06-09 18:09:48,115] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2022-06-09 18:10:23,090] {processor.py:163} INFO - Started process (PID=14469) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:10:23,093] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:10:23,094] {logging_mixin.py:109} INFO - [2022-06-09 18:10:23,094] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:10:23,111] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:10:23,122] {logging_mixin.py:109} INFO - [2022-06-09 18:10:23,122] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:10:23,132] {logging_mixin.py:109} INFO - [2022-06-09 18:10:23,132] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:10:23.132279+00:00
+[2022-06-09 18:10:23,147] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.060 seconds
+[2022-06-09 18:11:03,402] {processor.py:163} INFO - Started process (PID=14509) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:11:03,403] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:11:03,404] {logging_mixin.py:109} INFO - [2022-06-09 18:11:03,404] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:11:03,415] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:11:03,425] {logging_mixin.py:109} INFO - [2022-06-09 18:11:03,425] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:11:03,437] {logging_mixin.py:109} INFO - [2022-06-09 18:11:03,437] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:11:03.436915+00:00
+[2022-06-09 18:11:03,452] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2022-06-09 18:11:42,151] {processor.py:163} INFO - Started process (PID=14547) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:11:42,153] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:11:42,154] {logging_mixin.py:109} INFO - [2022-06-09 18:11:42,154] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:11:42,166] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:11:42,177] {logging_mixin.py:109} INFO - [2022-06-09 18:11:42,177] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:11:42,191] {logging_mixin.py:109} INFO - [2022-06-09 18:11:42,191] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:11:42.191134+00:00
+[2022-06-09 18:11:42,204] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.056 seconds
+[2022-06-09 18:12:14,573] {processor.py:163} INFO - Started process (PID=14580) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:12:14,575] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:12:14,575] {logging_mixin.py:109} INFO - [2022-06-09 18:12:14,575] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:12:14,590] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:12:14,600] {logging_mixin.py:109} INFO - [2022-06-09 18:12:14,600] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:12:14,609] {logging_mixin.py:109} INFO - [2022-06-09 18:12:14,609] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:12:14.608936+00:00
+[2022-06-09 18:12:14,623] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2022-06-09 18:12:54,603] {processor.py:163} INFO - Started process (PID=16151) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:12:54,605] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-06-09 18:12:54,605] {logging_mixin.py:109} INFO - [2022-06-09 18:12:54,605] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:12:54,615] {processor.py:652} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-06-09 18:12:54,626] {logging_mixin.py:109} INFO - [2022-06-09 18:12:54,625] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:12:54,635] {logging_mixin.py:109} INFO - [2022-06-09 18:12:54,635] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-06-09T12:12:54.634843+00:00
+[2022-06-09 18:12:54,647] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.047 seconds

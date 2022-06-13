@@ -1,0 +1,882 @@
+[2022-06-09 17:02:21,029] {processor.py:163} INFO - Started process (PID=4971) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:02:21,029] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:02:21,030] {logging_mixin.py:109} INFO - [2022-06-09 17:02:21,030] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:02:21,043] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:02:21,050] {logging_mixin.py:109} INFO - [2022-06-09 17:02:21,050] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:02:21,062] {logging_mixin.py:109} INFO - [2022-06-09 17:02:21,061] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:02:21.061656+00:00
+[2022-06-09 17:02:21,076] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2022-06-09 17:02:53,391] {processor.py:163} INFO - Started process (PID=5021) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:02:53,392] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:02:53,393] {logging_mixin.py:109} INFO - [2022-06-09 17:02:53,393] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:02:53,405] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:02:53,414] {logging_mixin.py:109} INFO - [2022-06-09 17:02:53,414] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:02:53,424] {logging_mixin.py:109} INFO - [2022-06-09 17:02:53,424] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:02:53.424111+00:00
+[2022-06-09 17:02:53,433] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.044 seconds
+[2022-06-09 17:03:25,571] {processor.py:163} INFO - Started process (PID=5053) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:03:25,575] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:03:25,575] {logging_mixin.py:109} INFO - [2022-06-09 17:03:25,575] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:03:25,586] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:03:25,595] {logging_mixin.py:109} INFO - [2022-06-09 17:03:25,595] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:03:25,604] {logging_mixin.py:109} INFO - [2022-06-09 17:03:25,604] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:03:25.604067+00:00
+[2022-06-09 17:03:25,615] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.047 seconds
+[2022-06-09 17:04:02,011] {processor.py:163} INFO - Started process (PID=5840) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:04:02,013] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:04:02,014] {logging_mixin.py:109} INFO - [2022-06-09 17:04:02,013] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:04:02,033] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:04:02,049] {logging_mixin.py:109} INFO - [2022-06-09 17:04:02,048] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:04:02,065] {logging_mixin.py:109} INFO - [2022-06-09 17:04:02,065] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:04:02.064857+00:00
+[2022-06-09 17:04:02,083] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.076 seconds
+[2022-06-09 17:04:35,865] {processor.py:163} INFO - Started process (PID=6913) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:04:35,867] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:04:35,868] {logging_mixin.py:109} INFO - [2022-06-09 17:04:35,868] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:04:35,882] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:04:35,895] {logging_mixin.py:109} INFO - [2022-06-09 17:04:35,895] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:04:35,910] {logging_mixin.py:109} INFO - [2022-06-09 17:04:35,910] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:04:35.909542+00:00
+[2022-06-09 17:04:35,924] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.061 seconds
+[2022-06-09 17:05:09,431] {processor.py:163} INFO - Started process (PID=7969) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:05:09,434] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:05:09,435] {logging_mixin.py:109} INFO - [2022-06-09 17:05:09,435] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:05:09,446] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:05:09,457] {logging_mixin.py:109} INFO - [2022-06-09 17:05:09,457] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:05:09,466] {logging_mixin.py:109} INFO - [2022-06-09 17:05:09,465] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:05:09.465745+00:00
+[2022-06-09 17:05:09,482] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.053 seconds
+[2022-06-09 17:05:41,822] {processor.py:163} INFO - Started process (PID=8961) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:05:41,823] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:05:41,824] {logging_mixin.py:109} INFO - [2022-06-09 17:05:41,824] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:05:41,840] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:05:41,850] {logging_mixin.py:109} INFO - [2022-06-09 17:05:41,850] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:05:41,860] {logging_mixin.py:109} INFO - [2022-06-09 17:05:41,860] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:05:41.860049+00:00
+[2022-06-09 17:05:41,874] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.054 seconds
+[2022-06-09 17:06:13,046] {processor.py:163} INFO - Started process (PID=9002) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:06:13,047] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:06:13,048] {logging_mixin.py:109} INFO - [2022-06-09 17:06:13,048] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:06:13,061] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:06:13,073] {logging_mixin.py:109} INFO - [2022-06-09 17:06:13,073] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:06:13,083] {logging_mixin.py:109} INFO - [2022-06-09 17:06:13,083] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:06:13.083379+00:00
+[2022-06-09 17:06:13,097] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.053 seconds
+[2022-06-09 17:06:46,570] {processor.py:163} INFO - Started process (PID=9895) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:06:46,572] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:06:46,572] {logging_mixin.py:109} INFO - [2022-06-09 17:06:46,572] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:06:46,594] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:06:46,610] {logging_mixin.py:109} INFO - [2022-06-09 17:06:46,610] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:06:46,621] {logging_mixin.py:109} INFO - [2022-06-09 17:06:46,621] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:06:46.621419+00:00
+[2022-06-09 17:06:46,632] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.064 seconds
+[2022-06-09 17:07:19,585] {processor.py:163} INFO - Started process (PID=10638) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:07:19,587] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:07:19,587] {logging_mixin.py:109} INFO - [2022-06-09 17:07:19,587] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:07:19,600] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:07:19,612] {logging_mixin.py:109} INFO - [2022-06-09 17:07:19,611] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:07:19,622] {logging_mixin.py:109} INFO - [2022-06-09 17:07:19,622] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:07:19.622096+00:00
+[2022-06-09 17:07:19,636] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.053 seconds
+[2022-06-09 17:07:52,615] {processor.py:163} INFO - Started process (PID=12970) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:07:52,616] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:07:52,617] {logging_mixin.py:109} INFO - [2022-06-09 17:07:52,617] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:07:52,629] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:07:52,640] {logging_mixin.py:109} INFO - [2022-06-09 17:07:52,640] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:07:52,650] {logging_mixin.py:109} INFO - [2022-06-09 17:07:52,650] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:07:52.649938+00:00
+[2022-06-09 17:07:52,664] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.051 seconds
+[2022-06-09 17:08:27,398] {processor.py:163} INFO - Started process (PID=15213) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:08:27,400] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:08:27,400] {logging_mixin.py:109} INFO - [2022-06-09 17:08:27,400] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:08:27,411] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:08:27,421] {logging_mixin.py:109} INFO - [2022-06-09 17:08:27,421] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:08:27,432] {logging_mixin.py:109} INFO - [2022-06-09 17:08:27,432] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:08:27.432643+00:00
+[2022-06-09 17:08:27,445] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2022-06-09 17:09:00,122] {processor.py:163} INFO - Started process (PID=17127) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:09:00,125] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:09:00,125] {logging_mixin.py:109} INFO - [2022-06-09 17:09:00,125] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:09:00,138] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:09:00,148] {logging_mixin.py:109} INFO - [2022-06-09 17:09:00,148] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:09:00,158] {logging_mixin.py:109} INFO - [2022-06-09 17:09:00,158] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:09:00.157783+00:00
+[2022-06-09 17:09:00,167] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.046 seconds
+[2022-06-09 17:09:34,416] {processor.py:163} INFO - Started process (PID=18874) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:09:34,418] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:09:34,418] {logging_mixin.py:109} INFO - [2022-06-09 17:09:34,418] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:09:34,430] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:09:34,441] {logging_mixin.py:109} INFO - [2022-06-09 17:09:34,441] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:09:34,452] {logging_mixin.py:109} INFO - [2022-06-09 17:09:34,451] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:09:34.451794+00:00
+[2022-06-09 17:09:34,466] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.051 seconds
+[2022-06-09 17:10:07,566] {processor.py:163} INFO - Started process (PID=18907) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:10:07,567] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:10:07,568] {logging_mixin.py:109} INFO - [2022-06-09 17:10:07,567] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:10:07,579] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:10:07,591] {logging_mixin.py:109} INFO - [2022-06-09 17:10:07,591] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:10:07,604] {logging_mixin.py:109} INFO - [2022-06-09 17:10:07,604] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:10:07.604304+00:00
+[2022-06-09 17:10:07,614] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2022-06-09 17:10:42,138] {processor.py:163} INFO - Started process (PID=21525) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:10:42,141] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:10:42,141] {logging_mixin.py:109} INFO - [2022-06-09 17:10:42,141] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:10:42,153] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:10:42,164] {logging_mixin.py:109} INFO - [2022-06-09 17:10:42,164] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:10:42,174] {logging_mixin.py:109} INFO - [2022-06-09 17:10:42,174] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:10:42.173887+00:00
+[2022-06-09 17:10:42,186] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2022-06-09 17:11:14,989] {processor.py:163} INFO - Started process (PID=23751) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:11:14,990] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:11:14,990] {logging_mixin.py:109} INFO - [2022-06-09 17:11:14,990] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:11:15,002] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:11:15,014] {logging_mixin.py:109} INFO - [2022-06-09 17:11:15,014] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:11:15,025] {logging_mixin.py:109} INFO - [2022-06-09 17:11:15,025] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:11:15.024650+00:00
+[2022-06-09 17:11:15,039] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds
+[2022-06-09 17:11:48,434] {processor.py:163} INFO - Started process (PID=25131) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:11:48,436] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:11:48,436] {logging_mixin.py:109} INFO - [2022-06-09 17:11:48,436] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:11:48,456] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:11:48,468] {logging_mixin.py:109} INFO - [2022-06-09 17:11:48,468] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:11:48,478] {logging_mixin.py:109} INFO - [2022-06-09 17:11:48,478] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:11:48.477886+00:00
+[2022-06-09 17:11:48,487] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.057 seconds
+[2022-06-09 17:12:21,349] {processor.py:163} INFO - Started process (PID=25426) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:12:21,351] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:12:21,351] {logging_mixin.py:109} INFO - [2022-06-09 17:12:21,351] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:12:21,364] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:12:21,374] {logging_mixin.py:109} INFO - [2022-06-09 17:12:21,374] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:12:21,384] {logging_mixin.py:109} INFO - [2022-06-09 17:12:21,384] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:12:21.384303+00:00
+[2022-06-09 17:12:21,398] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.051 seconds
+[2022-06-09 17:12:57,276] {processor.py:163} INFO - Started process (PID=31109) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:12:57,278] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:12:57,278] {logging_mixin.py:109} INFO - [2022-06-09 17:12:57,278] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:12:57,291] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:12:57,302] {logging_mixin.py:109} INFO - [2022-06-09 17:12:57,302] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:12:57,313] {logging_mixin.py:109} INFO - [2022-06-09 17:12:57,313] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:12:57.313463+00:00
+[2022-06-09 17:12:57,323] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.048 seconds
+[2022-06-09 17:13:30,596] {processor.py:163} INFO - Started process (PID=7465) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:13:30,598] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:13:30,598] {logging_mixin.py:109} INFO - [2022-06-09 17:13:30,598] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:13:30,624] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:13:30,642] {logging_mixin.py:109} INFO - [2022-06-09 17:13:30,642] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:13:30,654] {logging_mixin.py:109} INFO - [2022-06-09 17:13:30,653] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:13:30.653632+00:00
+[2022-06-09 17:13:30,667] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.074 seconds
+[2022-06-09 17:14:04,472] {processor.py:163} INFO - Started process (PID=8408) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:14:04,474] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:14:04,475] {logging_mixin.py:109} INFO - [2022-06-09 17:14:04,475] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:14:04,491] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:14:04,503] {logging_mixin.py:109} INFO - [2022-06-09 17:14:04,502] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:14:04,512] {logging_mixin.py:109} INFO - [2022-06-09 17:14:04,512] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:14:04.512423+00:00
+[2022-06-09 17:14:04,523] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.054 seconds
+[2022-06-09 17:14:37,438] {processor.py:163} INFO - Started process (PID=8487) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:14:37,442] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:14:37,442] {logging_mixin.py:109} INFO - [2022-06-09 17:14:37,442] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:14:37,455] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:14:37,467] {logging_mixin.py:109} INFO - [2022-06-09 17:14:37,466] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:14:37,477] {logging_mixin.py:109} INFO - [2022-06-09 17:14:37,477] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:14:37.477457+00:00
+[2022-06-09 17:14:37,489] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.053 seconds
+[2022-06-09 17:15:11,682] {processor.py:163} INFO - Started process (PID=9437) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:15:11,684] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:15:11,684] {logging_mixin.py:109} INFO - [2022-06-09 17:15:11,684] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:15:11,698] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:15:11,711] {logging_mixin.py:109} INFO - [2022-06-09 17:15:11,711] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:15:11,723] {logging_mixin.py:109} INFO - [2022-06-09 17:15:11,723] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:15:11.722877+00:00
+[2022-06-09 17:15:11,733] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.053 seconds
+[2022-06-09 17:15:44,960] {processor.py:163} INFO - Started process (PID=11663) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:15:44,961] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:15:44,962] {logging_mixin.py:109} INFO - [2022-06-09 17:15:44,962] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:15:44,975] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:15:44,984] {logging_mixin.py:109} INFO - [2022-06-09 17:15:44,984] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:15:44,994] {logging_mixin.py:109} INFO - [2022-06-09 17:15:44,994] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:15:44.993914+00:00
+[2022-06-09 17:15:45,005] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.048 seconds
+[2022-06-09 17:16:18,447] {processor.py:163} INFO - Started process (PID=13701) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:16:18,450] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:16:18,450] {logging_mixin.py:109} INFO - [2022-06-09 17:16:18,450] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:16:18,462] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:16:18,472] {logging_mixin.py:109} INFO - [2022-06-09 17:16:18,472] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:16:18,481] {logging_mixin.py:109} INFO - [2022-06-09 17:16:18,481] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:16:18.481333+00:00
+[2022-06-09 17:16:18,493] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2022-06-09 17:16:51,275] {processor.py:163} INFO - Started process (PID=15768) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:16:51,276] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:16:51,277] {logging_mixin.py:109} INFO - [2022-06-09 17:16:51,276] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:16:51,291] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:16:51,306] {logging_mixin.py:109} INFO - [2022-06-09 17:16:51,306] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:16:51,325] {logging_mixin.py:109} INFO - [2022-06-09 17:16:51,325] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:16:51.324891+00:00
+[2022-06-09 17:16:51,337] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.065 seconds
+[2022-06-09 17:17:24,167] {processor.py:163} INFO - Started process (PID=18006) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:17:24,169] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:17:24,170] {logging_mixin.py:109} INFO - [2022-06-09 17:17:24,170] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:17:24,187] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:17:24,201] {logging_mixin.py:109} INFO - [2022-06-09 17:17:24,201] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:17:24,213] {logging_mixin.py:109} INFO - [2022-06-09 17:17:24,213] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:17:24.212819+00:00
+[2022-06-09 17:17:24,225] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.061 seconds
+[2022-06-09 17:17:57,243] {processor.py:163} INFO - Started process (PID=20243) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:17:57,244] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:17:57,244] {logging_mixin.py:109} INFO - [2022-06-09 17:17:57,244] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:17:57,255] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:17:57,264] {logging_mixin.py:109} INFO - [2022-06-09 17:17:57,264] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:17:57,272] {logging_mixin.py:109} INFO - [2022-06-09 17:17:57,272] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:17:57.272501+00:00
+[2022-06-09 17:17:57,282] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2022-06-09 17:18:31,682] {processor.py:163} INFO - Started process (PID=22605) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:18:31,684] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:18:31,684] {logging_mixin.py:109} INFO - [2022-06-09 17:18:31,684] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:18:31,695] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:18:31,705] {logging_mixin.py:109} INFO - [2022-06-09 17:18:31,705] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:18:31,714] {logging_mixin.py:109} INFO - [2022-06-09 17:18:31,714] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:18:31.713906+00:00
+[2022-06-09 17:18:31,724] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.044 seconds
+[2022-06-09 17:19:03,969] {processor.py:163} INFO - Started process (PID=24824) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:19:03,970] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:19:03,970] {logging_mixin.py:109} INFO - [2022-06-09 17:19:03,970] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:19:03,983] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:19:03,993] {logging_mixin.py:109} INFO - [2022-06-09 17:19:03,993] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:19:04,002] {logging_mixin.py:109} INFO - [2022-06-09 17:19:04,002] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:19:04.002093+00:00
+[2022-06-09 17:19:04,013] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.048 seconds
+[2022-06-09 17:19:37,864] {processor.py:163} INFO - Started process (PID=27091) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:19:37,865] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:19:37,866] {logging_mixin.py:109} INFO - [2022-06-09 17:19:37,866] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:19:37,878] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:19:37,888] {logging_mixin.py:109} INFO - [2022-06-09 17:19:37,888] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:19:37,898] {logging_mixin.py:109} INFO - [2022-06-09 17:19:37,898] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:19:37.898195+00:00
+[2022-06-09 17:19:37,911] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2022-06-09 17:20:10,029] {processor.py:163} INFO - Started process (PID=29231) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:20:10,031] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:20:10,032] {logging_mixin.py:109} INFO - [2022-06-09 17:20:10,032] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:20:10,043] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:20:10,053] {logging_mixin.py:109} INFO - [2022-06-09 17:20:10,053] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:20:10,064] {logging_mixin.py:109} INFO - [2022-06-09 17:20:10,064] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:20:10.064681+00:00
+[2022-06-09 17:20:10,078] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.051 seconds
+[2022-06-09 17:20:42,449] {processor.py:163} INFO - Started process (PID=31424) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:20:42,451] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:20:42,451] {logging_mixin.py:109} INFO - [2022-06-09 17:20:42,451] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:20:42,463] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:20:42,472] {logging_mixin.py:109} INFO - [2022-06-09 17:20:42,472] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:20:42,481] {logging_mixin.py:109} INFO - [2022-06-09 17:20:42,481] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:20:42.481270+00:00
+[2022-06-09 17:20:42,494] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.047 seconds
+[2022-06-09 17:21:15,875] {processor.py:163} INFO - Started process (PID=1380) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:21:15,879] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:21:15,879] {logging_mixin.py:109} INFO - [2022-06-09 17:21:15,879] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:21:15,891] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:21:15,902] {logging_mixin.py:109} INFO - [2022-06-09 17:21:15,902] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:21:15,912] {logging_mixin.py:109} INFO - [2022-06-09 17:21:15,912] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:21:15.912065+00:00
+[2022-06-09 17:21:15,925] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds
+[2022-06-09 17:21:49,157] {processor.py:163} INFO - Started process (PID=3624) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:21:49,158] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:21:49,158] {logging_mixin.py:109} INFO - [2022-06-09 17:21:49,158] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:21:49,170] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:21:49,181] {logging_mixin.py:109} INFO - [2022-06-09 17:21:49,181] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:21:49,191] {logging_mixin.py:109} INFO - [2022-06-09 17:21:49,191] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:21:49.191171+00:00
+[2022-06-09 17:21:49,201] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.047 seconds
+[2022-06-09 17:22:20,675] {processor.py:163} INFO - Started process (PID=5688) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:22:20,678] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:22:20,678] {logging_mixin.py:109} INFO - [2022-06-09 17:22:20,678] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:22:20,691] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:22:20,704] {logging_mixin.py:109} INFO - [2022-06-09 17:22:20,704] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:22:20,716] {logging_mixin.py:109} INFO - [2022-06-09 17:22:20,716] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:22:20.715801+00:00
+[2022-06-09 17:22:20,730] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.058 seconds
+[2022-06-09 17:22:55,124] {processor.py:163} INFO - Started process (PID=7896) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:22:55,126] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:22:55,127] {logging_mixin.py:109} INFO - [2022-06-09 17:22:55,127] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:22:55,138] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:22:55,147] {logging_mixin.py:109} INFO - [2022-06-09 17:22:55,147] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:22:55,157] {logging_mixin.py:109} INFO - [2022-06-09 17:22:55,157] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:22:55.157659+00:00
+[2022-06-09 17:22:55,170] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.048 seconds
+[2022-06-09 17:23:27,483] {processor.py:163} INFO - Started process (PID=9932) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:23:27,487] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:23:27,488] {logging_mixin.py:109} INFO - [2022-06-09 17:23:27,488] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:23:27,502] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:23:27,514] {logging_mixin.py:109} INFO - [2022-06-09 17:23:27,514] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:23:27,527] {logging_mixin.py:109} INFO - [2022-06-09 17:23:27,526] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:23:27.526538+00:00
+[2022-06-09 17:23:27,540] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.058 seconds
+[2022-06-09 17:24:01,297] {processor.py:163} INFO - Started process (PID=9977) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:24:01,299] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:24:01,299] {logging_mixin.py:109} INFO - [2022-06-09 17:24:01,299] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:24:01,312] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:24:01,323] {logging_mixin.py:109} INFO - [2022-06-09 17:24:01,323] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:24:01,334] {logging_mixin.py:109} INFO - [2022-06-09 17:24:01,334] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:24:01.334269+00:00
+[2022-06-09 17:24:01,346] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds
+[2022-06-09 17:24:33,565] {processor.py:163} INFO - Started process (PID=10955) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:24:33,566] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:24:33,566] {logging_mixin.py:109} INFO - [2022-06-09 17:24:33,566] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:24:33,578] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:24:33,591] {logging_mixin.py:109} INFO - [2022-06-09 17:24:33,591] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:24:33,602] {logging_mixin.py:109} INFO - [2022-06-09 17:24:33,602] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:24:33.601947+00:00
+[2022-06-09 17:24:33,618] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.055 seconds
+[2022-06-09 17:25:06,074] {processor.py:163} INFO - Started process (PID=10988) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:25:06,076] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:25:06,077] {logging_mixin.py:109} INFO - [2022-06-09 17:25:06,076] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:25:06,089] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:25:06,100] {logging_mixin.py:109} INFO - [2022-06-09 17:25:06,100] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:25:06,109] {logging_mixin.py:109} INFO - [2022-06-09 17:25:06,109] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:25:06.109267+00:00
+[2022-06-09 17:25:06,121] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2022-06-09 17:25:39,365] {processor.py:163} INFO - Started process (PID=11020) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:25:39,369] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:25:39,370] {logging_mixin.py:109} INFO - [2022-06-09 17:25:39,370] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:25:39,383] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:25:39,394] {logging_mixin.py:109} INFO - [2022-06-09 17:25:39,394] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:25:39,404] {logging_mixin.py:109} INFO - [2022-06-09 17:25:39,404] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:25:39.404119+00:00
+[2022-06-09 17:25:39,419] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.057 seconds
+[2022-06-09 17:26:12,807] {processor.py:163} INFO - Started process (PID=12830) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:26:12,808] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:26:12,809] {logging_mixin.py:109} INFO - [2022-06-09 17:26:12,808] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:26:12,821] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:26:12,831] {logging_mixin.py:109} INFO - [2022-06-09 17:26:12,831] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:26:12,840] {logging_mixin.py:109} INFO - [2022-06-09 17:26:12,840] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:26:12.840175+00:00
+[2022-06-09 17:26:12,850] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.046 seconds
+[2022-06-09 17:26:44,303] {processor.py:163} INFO - Started process (PID=15091) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:26:44,304] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:26:44,305] {logging_mixin.py:109} INFO - [2022-06-09 17:26:44,305] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:26:44,319] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:26:44,331] {logging_mixin.py:109} INFO - [2022-06-09 17:26:44,331] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:26:44,341] {logging_mixin.py:109} INFO - [2022-06-09 17:26:44,341] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:26:44.341415+00:00
+[2022-06-09 17:26:44,352] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds
+[2022-06-09 17:27:20,312] {processor.py:163} INFO - Started process (PID=16706) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:27:20,314] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:27:20,315] {logging_mixin.py:109} INFO - [2022-06-09 17:27:20,315] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:27:20,328] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:27:20,338] {logging_mixin.py:109} INFO - [2022-06-09 17:27:20,338] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:27:20,348] {logging_mixin.py:109} INFO - [2022-06-09 17:27:20,347] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:27:20.347765+00:00
+[2022-06-09 17:27:20,360] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2022-06-09 17:27:53,599] {processor.py:163} INFO - Started process (PID=18489) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:27:53,601] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:27:53,602] {logging_mixin.py:109} INFO - [2022-06-09 17:27:53,601] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:27:53,617] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:27:53,631] {logging_mixin.py:109} INFO - [2022-06-09 17:27:53,631] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:27:53,641] {logging_mixin.py:109} INFO - [2022-06-09 17:27:53,641] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:27:53.641563+00:00
+[2022-06-09 17:27:53,656] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.060 seconds
+[2022-06-09 17:28:26,855] {processor.py:163} INFO - Started process (PID=20447) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:28:26,857] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:28:26,858] {logging_mixin.py:109} INFO - [2022-06-09 17:28:26,858] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:28:26,870] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:28:26,881] {logging_mixin.py:109} INFO - [2022-06-09 17:28:26,881] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:28:26,892] {logging_mixin.py:109} INFO - [2022-06-09 17:28:26,892] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:28:26.891925+00:00
+[2022-06-09 17:28:26,904] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds
+[2022-06-09 17:28:59,705] {processor.py:163} INFO - Started process (PID=21582) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:28:59,707] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:28:59,707] {logging_mixin.py:109} INFO - [2022-06-09 17:28:59,707] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:28:59,719] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:28:59,731] {logging_mixin.py:109} INFO - [2022-06-09 17:28:59,731] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:28:59,744] {logging_mixin.py:109} INFO - [2022-06-09 17:28:59,744] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:28:59.744304+00:00
+[2022-06-09 17:28:59,758] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.056 seconds
+[2022-06-09 17:29:33,803] {processor.py:163} INFO - Started process (PID=21687) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:29:33,806] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:29:33,807] {logging_mixin.py:109} INFO - [2022-06-09 17:29:33,806] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:29:33,820] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:29:33,832] {logging_mixin.py:109} INFO - [2022-06-09 17:29:33,832] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:29:33,845] {logging_mixin.py:109} INFO - [2022-06-09 17:29:33,845] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:29:33.844768+00:00
+[2022-06-09 17:29:33,856] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.056 seconds
+[2022-06-09 17:30:07,241] {processor.py:163} INFO - Started process (PID=21774) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:30:07,243] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:30:07,243] {logging_mixin.py:109} INFO - [2022-06-09 17:30:07,243] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:30:07,258] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:30:07,271] {logging_mixin.py:109} INFO - [2022-06-09 17:30:07,271] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:30:07,282] {logging_mixin.py:109} INFO - [2022-06-09 17:30:07,282] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:30:07.282217+00:00
+[2022-06-09 17:30:07,292] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.053 seconds
+[2022-06-09 17:30:42,062] {processor.py:163} INFO - Started process (PID=23670) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:30:42,063] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:30:42,063] {logging_mixin.py:109} INFO - [2022-06-09 17:30:42,063] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:30:42,076] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:30:42,085] {logging_mixin.py:109} INFO - [2022-06-09 17:30:42,085] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:30:42,095] {logging_mixin.py:109} INFO - [2022-06-09 17:30:42,095] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:30:42.095460+00:00
+[2022-06-09 17:30:42,109] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2022-06-09 17:31:14,679] {processor.py:163} INFO - Started process (PID=23702) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:31:14,680] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:31:14,681] {logging_mixin.py:109} INFO - [2022-06-09 17:31:14,681] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:31:14,693] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:31:14,703] {logging_mixin.py:109} INFO - [2022-06-09 17:31:14,703] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:31:14,714] {logging_mixin.py:109} INFO - [2022-06-09 17:31:14,714] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:31:14.714057+00:00
+[2022-06-09 17:31:14,727] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2022-06-09 17:31:47,398] {processor.py:163} INFO - Started process (PID=23740) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:31:47,399] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:31:47,400] {logging_mixin.py:109} INFO - [2022-06-09 17:31:47,400] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:31:47,413] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:31:47,424] {logging_mixin.py:109} INFO - [2022-06-09 17:31:47,424] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:31:47,433] {logging_mixin.py:109} INFO - [2022-06-09 17:31:47,433] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:31:47.433058+00:00
+[2022-06-09 17:31:47,446] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2022-06-09 17:32:18,914] {processor.py:163} INFO - Started process (PID=23773) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:32:18,916] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:32:18,916] {logging_mixin.py:109} INFO - [2022-06-09 17:32:18,916] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:32:18,928] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:32:18,938] {logging_mixin.py:109} INFO - [2022-06-09 17:32:18,937] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:32:18,948] {logging_mixin.py:109} INFO - [2022-06-09 17:32:18,947] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:32:18.947713+00:00
+[2022-06-09 17:32:18,961] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2022-06-09 17:32:52,974] {processor.py:163} INFO - Started process (PID=23806) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:32:52,975] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:32:52,976] {logging_mixin.py:109} INFO - [2022-06-09 17:32:52,975] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:32:52,989] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:32:53,001] {logging_mixin.py:109} INFO - [2022-06-09 17:32:53,001] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:32:53,012] {logging_mixin.py:109} INFO - [2022-06-09 17:32:53,012] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:32:53.012154+00:00
+[2022-06-09 17:32:53,027] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.055 seconds
+[2022-06-09 17:33:26,369] {processor.py:163} INFO - Started process (PID=23839) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:33:26,372] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:33:26,373] {logging_mixin.py:109} INFO - [2022-06-09 17:33:26,372] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:33:26,385] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:33:26,396] {logging_mixin.py:109} INFO - [2022-06-09 17:33:26,396] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:33:26,406] {logging_mixin.py:109} INFO - [2022-06-09 17:33:26,406] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:33:26.405783+00:00
+[2022-06-09 17:33:26,420] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.054 seconds
+[2022-06-09 17:33:58,922] {processor.py:163} INFO - Started process (PID=23872) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:33:58,924] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:33:58,924] {logging_mixin.py:109} INFO - [2022-06-09 17:33:58,924] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:33:58,936] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:33:58,946] {logging_mixin.py:109} INFO - [2022-06-09 17:33:58,946] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:33:58,955] {logging_mixin.py:109} INFO - [2022-06-09 17:33:58,954] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:33:58.954701+00:00
+[2022-06-09 17:33:58,969] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2022-06-09 17:34:32,355] {processor.py:163} INFO - Started process (PID=23904) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:34:32,357] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:34:32,357] {logging_mixin.py:109} INFO - [2022-06-09 17:34:32,357] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:34:32,372] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:34:32,384] {logging_mixin.py:109} INFO - [2022-06-09 17:34:32,384] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:34:32,395] {logging_mixin.py:109} INFO - [2022-06-09 17:34:32,395] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:34:32.395143+00:00
+[2022-06-09 17:34:32,410] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.058 seconds
+[2022-06-09 17:35:07,042] {processor.py:163} INFO - Started process (PID=25820) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:35:07,045] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:35:07,045] {logging_mixin.py:109} INFO - [2022-06-09 17:35:07,045] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:35:07,058] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:35:07,068] {logging_mixin.py:109} INFO - [2022-06-09 17:35:07,068] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:35:07,078] {logging_mixin.py:109} INFO - [2022-06-09 17:35:07,078] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:35:07.077932+00:00
+[2022-06-09 17:35:07,091] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.051 seconds
+[2022-06-09 17:35:40,441] {processor.py:163} INFO - Started process (PID=27024) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:35:40,442] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:35:40,442] {logging_mixin.py:109} INFO - [2022-06-09 17:35:40,442] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:35:40,460] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:35:40,472] {logging_mixin.py:109} INFO - [2022-06-09 17:35:40,472] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:35:40,484] {logging_mixin.py:109} INFO - [2022-06-09 17:35:40,484] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:35:40.483798+00:00
+[2022-06-09 17:35:40,498] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.060 seconds
+[2022-06-09 17:36:14,162] {processor.py:163} INFO - Started process (PID=27101) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:36:14,164] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:36:14,165] {logging_mixin.py:109} INFO - [2022-06-09 17:36:14,165] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:36:14,177] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:36:14,187] {logging_mixin.py:109} INFO - [2022-06-09 17:36:14,187] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:36:14,196] {logging_mixin.py:109} INFO - [2022-06-09 17:36:14,196] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:36:14.196451+00:00
+[2022-06-09 17:36:14,209] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2022-06-09 17:36:47,568] {processor.py:163} INFO - Started process (PID=27133) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:36:47,571] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:36:47,571] {logging_mixin.py:109} INFO - [2022-06-09 17:36:47,571] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:36:47,584] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:36:47,594] {logging_mixin.py:109} INFO - [2022-06-09 17:36:47,594] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:36:47,603] {logging_mixin.py:109} INFO - [2022-06-09 17:36:47,603] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:36:47.603659+00:00
+[2022-06-09 17:36:47,617] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.053 seconds
+[2022-06-09 17:37:20,424] {processor.py:163} INFO - Started process (PID=27174) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:37:20,424] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:37:20,425] {logging_mixin.py:109} INFO - [2022-06-09 17:37:20,425] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:37:20,438] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:37:20,448] {logging_mixin.py:109} INFO - [2022-06-09 17:37:20,448] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:37:20,457] {logging_mixin.py:109} INFO - [2022-06-09 17:37:20,457] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:37:20.456917+00:00
+[2022-06-09 17:37:20,470] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2022-06-09 17:37:52,521] {processor.py:163} INFO - Started process (PID=27206) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:37:52,524] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:37:52,525] {logging_mixin.py:109} INFO - [2022-06-09 17:37:52,525] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:37:52,536] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:37:52,546] {logging_mixin.py:109} INFO - [2022-06-09 17:37:52,546] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:37:52,556] {logging_mixin.py:109} INFO - [2022-06-09 17:37:52,556] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:37:52.556160+00:00
+[2022-06-09 17:37:52,568] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2022-06-09 17:38:25,910] {processor.py:163} INFO - Started process (PID=27239) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:38:25,913] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:38:25,913] {logging_mixin.py:109} INFO - [2022-06-09 17:38:25,913] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:38:25,925] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:38:25,936] {logging_mixin.py:109} INFO - [2022-06-09 17:38:25,936] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:38:25,946] {logging_mixin.py:109} INFO - [2022-06-09 17:38:25,946] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:38:25.946228+00:00
+[2022-06-09 17:38:25,960] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds
+[2022-06-09 17:38:58,337] {processor.py:163} INFO - Started process (PID=27271) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:38:58,339] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:38:58,340] {logging_mixin.py:109} INFO - [2022-06-09 17:38:58,340] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:38:58,351] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:38:58,362] {logging_mixin.py:109} INFO - [2022-06-09 17:38:58,362] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:38:58,372] {logging_mixin.py:109} INFO - [2022-06-09 17:38:58,372] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:38:58.372132+00:00
+[2022-06-09 17:38:58,387] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds
+[2022-06-09 17:39:31,820] {processor.py:163} INFO - Started process (PID=27317) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:39:31,820] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:39:31,821] {logging_mixin.py:109} INFO - [2022-06-09 17:39:31,821] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:39:31,832] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:39:31,843] {logging_mixin.py:109} INFO - [2022-06-09 17:39:31,843] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:39:31,853] {logging_mixin.py:109} INFO - [2022-06-09 17:39:31,853] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:39:31.853247+00:00
+[2022-06-09 17:39:31,864] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.046 seconds
+[2022-06-09 17:40:04,183] {processor.py:163} INFO - Started process (PID=27372) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:40:04,184] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:40:04,185] {logging_mixin.py:109} INFO - [2022-06-09 17:40:04,185] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:40:04,202] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:40:04,216] {logging_mixin.py:109} INFO - [2022-06-09 17:40:04,215] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:40:04,230] {logging_mixin.py:109} INFO - [2022-06-09 17:40:04,230] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:40:04.230132+00:00
+[2022-06-09 17:40:04,241] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.060 seconds
+[2022-06-09 17:40:38,014] {processor.py:163} INFO - Started process (PID=27410) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:40:38,016] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:40:38,017] {logging_mixin.py:109} INFO - [2022-06-09 17:40:38,017] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:40:38,035] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:40:38,054] {logging_mixin.py:109} INFO - [2022-06-09 17:40:38,054] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:40:38,069] {logging_mixin.py:109} INFO - [2022-06-09 17:40:38,069] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:40:38.069179+00:00
+[2022-06-09 17:40:38,081] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.070 seconds
+[2022-06-09 17:41:11,272] {processor.py:163} INFO - Started process (PID=712) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:41:11,273] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:41:11,274] {logging_mixin.py:109} INFO - [2022-06-09 17:41:11,274] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:41:11,290] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:41:11,306] {logging_mixin.py:109} INFO - [2022-06-09 17:41:11,306] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:41:11,320] {logging_mixin.py:109} INFO - [2022-06-09 17:41:11,320] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:41:11.319774+00:00
+[2022-06-09 17:41:11,332] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.063 seconds
+[2022-06-09 17:41:45,103] {processor.py:163} INFO - Started process (PID=22641) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:41:45,105] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:41:45,106] {logging_mixin.py:109} INFO - [2022-06-09 17:41:45,106] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:41:45,129] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:41:45,151] {logging_mixin.py:109} INFO - [2022-06-09 17:41:45,151] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:41:45,171] {logging_mixin.py:109} INFO - [2022-06-09 17:41:45,171] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:41:45.170667+00:00
+[2022-06-09 17:41:45,187] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.088 seconds
+[2022-06-09 17:42:20,128] {processor.py:163} INFO - Started process (PID=2827) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:42:20,131] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:42:20,133] {logging_mixin.py:109} INFO - [2022-06-09 17:42:20,133] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:42:20,165] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:42:20,196] {logging_mixin.py:109} INFO - [2022-06-09 17:42:20,196] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:42:20,227] {logging_mixin.py:109} INFO - [2022-06-09 17:42:20,226] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:42:20.226385+00:00
+[2022-06-09 17:42:20,253] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.132 seconds
+[2022-06-09 17:42:56,519] {processor.py:163} INFO - Started process (PID=18458) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:42:56,520] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:42:56,520] {logging_mixin.py:109} INFO - [2022-06-09 17:42:56,520] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:42:56,536] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:42:56,549] {logging_mixin.py:109} INFO - [2022-06-09 17:42:56,548] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:42:56,562] {logging_mixin.py:109} INFO - [2022-06-09 17:42:56,562] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:42:56.562161+00:00
+[2022-06-09 17:42:56,572] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.056 seconds
+[2022-06-09 17:43:33,826] {processor.py:163} INFO - Started process (PID=22366) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:43:33,829] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:43:33,830] {logging_mixin.py:109} INFO - [2022-06-09 17:43:33,829] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:43:33,852] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:43:33,871] {logging_mixin.py:109} INFO - [2022-06-09 17:43:33,870] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:43:33,886] {logging_mixin.py:109} INFO - [2022-06-09 17:43:33,886] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:43:33.886166+00:00
+[2022-06-09 17:43:33,900] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.078 seconds
+[2022-06-09 17:44:11,709] {processor.py:163} INFO - Started process (PID=4154) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:44:11,711] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:44:11,711] {logging_mixin.py:109} INFO - [2022-06-09 17:44:11,711] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:44:11,726] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:44:11,743] {logging_mixin.py:109} INFO - [2022-06-09 17:44:11,743] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:44:11,762] {logging_mixin.py:109} INFO - [2022-06-09 17:44:11,762] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:44:11.761866+00:00
+[2022-06-09 17:44:11,775] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.068 seconds
+[2022-06-09 17:44:45,745] {processor.py:163} INFO - Started process (PID=16639) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:44:45,748] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:44:45,750] {logging_mixin.py:109} INFO - [2022-06-09 17:44:45,749] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:44:45,771] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:44:45,783] {logging_mixin.py:109} INFO - [2022-06-09 17:44:45,783] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:44:45,794] {logging_mixin.py:109} INFO - [2022-06-09 17:44:45,794] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:44:45.793770+00:00
+[2022-06-09 17:44:45,806] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.066 seconds
+[2022-06-09 17:45:18,333] {processor.py:163} INFO - Started process (PID=18589) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:45:18,335] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:45:18,335] {logging_mixin.py:109} INFO - [2022-06-09 17:45:18,335] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:45:18,348] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:45:18,358] {logging_mixin.py:109} INFO - [2022-06-09 17:45:18,358] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:45:18,369] {logging_mixin.py:109} INFO - [2022-06-09 17:45:18,368] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:45:18.368580+00:00
+[2022-06-09 17:45:18,384] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.053 seconds
+[2022-06-09 17:45:50,324] {processor.py:163} INFO - Started process (PID=18622) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:45:50,327] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:45:50,327] {logging_mixin.py:109} INFO - [2022-06-09 17:45:50,327] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:45:50,340] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:45:50,352] {logging_mixin.py:109} INFO - [2022-06-09 17:45:50,352] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:45:50,364] {logging_mixin.py:109} INFO - [2022-06-09 17:45:50,364] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:45:50.364307+00:00
+[2022-06-09 17:45:50,379] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.057 seconds
+[2022-06-09 17:46:24,945] {processor.py:163} INFO - Started process (PID=19782) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:46:24,947] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:46:24,947] {logging_mixin.py:109} INFO - [2022-06-09 17:46:24,947] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:46:24,959] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:46:24,969] {logging_mixin.py:109} INFO - [2022-06-09 17:46:24,969] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:46:24,980] {logging_mixin.py:109} INFO - [2022-06-09 17:46:24,979] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:46:24.979508+00:00
+[2022-06-09 17:46:24,992] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2022-06-09 17:46:56,329] {processor.py:163} INFO - Started process (PID=19841) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:46:56,331] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:46:56,331] {logging_mixin.py:109} INFO - [2022-06-09 17:46:56,331] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:46:56,342] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:46:56,352] {logging_mixin.py:109} INFO - [2022-06-09 17:46:56,352] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:46:56,362] {logging_mixin.py:109} INFO - [2022-06-09 17:46:56,362] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:46:56.362234+00:00
+[2022-06-09 17:46:56,375] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.048 seconds
+[2022-06-09 17:47:29,623] {processor.py:163} INFO - Started process (PID=19921) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:47:29,625] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:47:29,626] {logging_mixin.py:109} INFO - [2022-06-09 17:47:29,626] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:47:29,637] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:47:29,650] {logging_mixin.py:109} INFO - [2022-06-09 17:47:29,650] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:47:29,661] {logging_mixin.py:109} INFO - [2022-06-09 17:47:29,660] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:47:29.660740+00:00
+[2022-06-09 17:47:29,674] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.053 seconds
+[2022-06-09 17:48:02,276] {processor.py:163} INFO - Started process (PID=19993) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:48:02,277] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:48:02,278] {logging_mixin.py:109} INFO - [2022-06-09 17:48:02,278] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:48:02,290] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:48:02,302] {logging_mixin.py:109} INFO - [2022-06-09 17:48:02,302] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:48:02,310] {logging_mixin.py:109} INFO - [2022-06-09 17:48:02,310] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:48:02.310689+00:00
+[2022-06-09 17:48:02,322] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.048 seconds
+[2022-06-09 17:48:35,442] {processor.py:163} INFO - Started process (PID=20207) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:48:35,443] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:48:35,444] {logging_mixin.py:109} INFO - [2022-06-09 17:48:35,444] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:48:35,456] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:48:35,466] {logging_mixin.py:109} INFO - [2022-06-09 17:48:35,466] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:48:35,475] {logging_mixin.py:109} INFO - [2022-06-09 17:48:35,475] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:48:35.475381+00:00
+[2022-06-09 17:48:35,486] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.047 seconds
+[2022-06-09 17:49:08,831] {processor.py:163} INFO - Started process (PID=20301) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:49:08,832] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:49:08,832] {logging_mixin.py:109} INFO - [2022-06-09 17:49:08,832] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:49:08,844] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:49:08,854] {logging_mixin.py:109} INFO - [2022-06-09 17:49:08,854] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:49:08,864] {logging_mixin.py:109} INFO - [2022-06-09 17:49:08,863] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:49:08.863557+00:00
+[2022-06-09 17:49:08,877] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2022-06-09 17:49:41,472] {processor.py:163} INFO - Started process (PID=20415) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:49:41,474] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:49:41,475] {logging_mixin.py:109} INFO - [2022-06-09 17:49:41,474] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:49:41,487] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:49:41,497] {logging_mixin.py:109} INFO - [2022-06-09 17:49:41,497] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:49:41,506] {logging_mixin.py:109} INFO - [2022-06-09 17:49:41,506] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:49:41.506400+00:00
+[2022-06-09 17:49:41,520] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2022-06-09 17:50:14,872] {processor.py:163} INFO - Started process (PID=20509) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:50:14,874] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:50:14,874] {logging_mixin.py:109} INFO - [2022-06-09 17:50:14,874] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:50:14,888] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:50:14,900] {logging_mixin.py:109} INFO - [2022-06-09 17:50:14,900] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:50:14,910] {logging_mixin.py:109} INFO - [2022-06-09 17:50:14,910] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:50:14.910589+00:00
+[2022-06-09 17:50:14,925] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.055 seconds
+[2022-06-09 17:50:48,644] {processor.py:163} INFO - Started process (PID=22728) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:50:48,646] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:50:48,647] {logging_mixin.py:109} INFO - [2022-06-09 17:50:48,646] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:50:48,668] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:50:48,704] {logging_mixin.py:109} INFO - [2022-06-09 17:50:48,703] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:50:48,736] {logging_mixin.py:109} INFO - [2022-06-09 17:50:48,735] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:50:48.735387+00:00
+[2022-06-09 17:50:48,769] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.128 seconds
+[2022-06-09 17:51:22,366] {processor.py:163} INFO - Started process (PID=27308) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:51:22,368] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:51:22,369] {logging_mixin.py:109} INFO - [2022-06-09 17:51:22,369] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:51:22,382] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:51:22,393] {logging_mixin.py:109} INFO - [2022-06-09 17:51:22,393] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:51:22,403] {logging_mixin.py:109} INFO - [2022-06-09 17:51:22,402] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:51:22.402506+00:00
+[2022-06-09 17:51:22,414] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2022-06-09 17:51:55,825] {processor.py:163} INFO - Started process (PID=27424) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:51:55,825] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:51:55,826] {logging_mixin.py:109} INFO - [2022-06-09 17:51:55,825] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:51:55,841] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:51:55,854] {logging_mixin.py:109} INFO - [2022-06-09 17:51:55,854] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:51:55,866] {logging_mixin.py:109} INFO - [2022-06-09 17:51:55,866] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:51:55.866436+00:00
+[2022-06-09 17:51:55,878] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.056 seconds
+[2022-06-09 17:52:27,024] {processor.py:163} INFO - Started process (PID=27633) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:52:27,026] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:52:27,026] {logging_mixin.py:109} INFO - [2022-06-09 17:52:27,026] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:52:27,039] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:52:27,048] {logging_mixin.py:109} INFO - [2022-06-09 17:52:27,048] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:52:27,060] {logging_mixin.py:109} INFO - [2022-06-09 17:52:27,059] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:52:27.059718+00:00
+[2022-06-09 17:52:27,068] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.048 seconds
+[2022-06-09 17:53:01,027] {processor.py:163} INFO - Started process (PID=29490) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:53:01,028] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:53:01,029] {logging_mixin.py:109} INFO - [2022-06-09 17:53:01,029] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:53:01,043] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:53:01,054] {logging_mixin.py:109} INFO - [2022-06-09 17:53:01,054] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:53:01,065] {logging_mixin.py:109} INFO - [2022-06-09 17:53:01,065] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:53:01.065197+00:00
+[2022-06-09 17:53:01,078] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.054 seconds
+[2022-06-09 17:53:34,507] {processor.py:163} INFO - Started process (PID=31751) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:53:34,510] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:53:34,510] {logging_mixin.py:109} INFO - [2022-06-09 17:53:34,510] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:53:34,522] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:53:34,532] {logging_mixin.py:109} INFO - [2022-06-09 17:53:34,532] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:53:34,542] {logging_mixin.py:109} INFO - [2022-06-09 17:53:34,542] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:53:34.541840+00:00
+[2022-06-09 17:53:34,555] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.051 seconds
+[2022-06-09 17:54:08,198] {processor.py:163} INFO - Started process (PID=31829) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:54:08,200] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:54:08,200] {logging_mixin.py:109} INFO - [2022-06-09 17:54:08,200] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:54:08,214] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:54:08,226] {logging_mixin.py:109} INFO - [2022-06-09 17:54:08,226] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:54:08,236] {logging_mixin.py:109} INFO - [2022-06-09 17:54:08,236] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:54:08.236045+00:00
+[2022-06-09 17:54:08,249] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.053 seconds
+[2022-06-09 17:54:41,911] {processor.py:163} INFO - Started process (PID=31899) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:54:41,911] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:54:41,912] {logging_mixin.py:109} INFO - [2022-06-09 17:54:41,912] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:54:41,924] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:54:41,938] {logging_mixin.py:109} INFO - [2022-06-09 17:54:41,937] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:54:41,950] {logging_mixin.py:109} INFO - [2022-06-09 17:54:41,950] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:54:41.950201+00:00
+[2022-06-09 17:54:41,965] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.057 seconds
+[2022-06-09 17:55:14,563] {processor.py:163} INFO - Started process (PID=1205) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:55:14,564] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:55:14,564] {logging_mixin.py:109} INFO - [2022-06-09 17:55:14,564] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:55:14,578] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:55:14,589] {logging_mixin.py:109} INFO - [2022-06-09 17:55:14,589] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:55:14,599] {logging_mixin.py:109} INFO - [2022-06-09 17:55:14,599] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:55:14.599009+00:00
+[2022-06-09 17:55:14,608] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.047 seconds
+[2022-06-09 17:55:49,537] {processor.py:163} INFO - Started process (PID=11860) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:55:49,538] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:55:49,539] {logging_mixin.py:109} INFO - [2022-06-09 17:55:49,539] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:55:49,556] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:55:49,567] {logging_mixin.py:109} INFO - [2022-06-09 17:55:49,567] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:55:49,577] {logging_mixin.py:109} INFO - [2022-06-09 17:55:49,577] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:55:49.577079+00:00
+[2022-06-09 17:55:49,587] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.053 seconds
+[2022-06-09 17:56:23,445] {processor.py:163} INFO - Started process (PID=11976) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:56:23,448] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:56:23,448] {logging_mixin.py:109} INFO - [2022-06-09 17:56:23,448] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:56:23,461] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:56:23,471] {logging_mixin.py:109} INFO - [2022-06-09 17:56:23,471] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:56:23,480] {logging_mixin.py:109} INFO - [2022-06-09 17:56:23,480] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:56:23.480418+00:00
+[2022-06-09 17:56:23,495] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.053 seconds
+[2022-06-09 17:56:56,643] {processor.py:163} INFO - Started process (PID=12566) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:56:56,646] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:56:56,646] {logging_mixin.py:109} INFO - [2022-06-09 17:56:56,646] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:56:56,658] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:56:56,669] {logging_mixin.py:109} INFO - [2022-06-09 17:56:56,669] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:56:56,679] {logging_mixin.py:109} INFO - [2022-06-09 17:56:56,679] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:56:56.678864+00:00
+[2022-06-09 17:56:56,693] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds
+[2022-06-09 17:57:31,766] {processor.py:163} INFO - Started process (PID=12653) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:57:31,767] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:57:31,768] {logging_mixin.py:109} INFO - [2022-06-09 17:57:31,768] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:57:31,780] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:57:31,791] {logging_mixin.py:109} INFO - [2022-06-09 17:57:31,791] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:57:31,801] {logging_mixin.py:109} INFO - [2022-06-09 17:57:31,801] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:57:31.801224+00:00
+[2022-06-09 17:57:31,814] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds
+[2022-06-09 17:58:05,060] {processor.py:163} INFO - Started process (PID=12724) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:58:05,061] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:58:05,061] {logging_mixin.py:109} INFO - [2022-06-09 17:58:05,061] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:58:05,073] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:58:05,083] {logging_mixin.py:109} INFO - [2022-06-09 17:58:05,083] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:58:05,092] {logging_mixin.py:109} INFO - [2022-06-09 17:58:05,092] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:58:05.092077+00:00
+[2022-06-09 17:58:05,105] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.048 seconds
+[2022-06-09 17:58:39,434] {processor.py:163} INFO - Started process (PID=18243) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:58:39,437] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:58:39,437] {logging_mixin.py:109} INFO - [2022-06-09 17:58:39,437] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:58:39,450] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:58:39,464] {logging_mixin.py:109} INFO - [2022-06-09 17:58:39,464] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:58:39,473] {logging_mixin.py:109} INFO - [2022-06-09 17:58:39,473] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:58:39.473074+00:00
+[2022-06-09 17:58:39,485] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.054 seconds
+[2022-06-09 17:59:11,888] {processor.py:163} INFO - Started process (PID=18421) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:59:11,889] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:59:11,890] {logging_mixin.py:109} INFO - [2022-06-09 17:59:11,890] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:59:11,902] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:59:11,912] {logging_mixin.py:109} INFO - [2022-06-09 17:59:11,912] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:59:11,922] {logging_mixin.py:109} INFO - [2022-06-09 17:59:11,922] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:59:11.922395+00:00
+[2022-06-09 17:59:11,935] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2022-06-09 17:59:44,473] {processor.py:163} INFO - Started process (PID=20320) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:59:44,474] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 17:59:44,474] {logging_mixin.py:109} INFO - [2022-06-09 17:59:44,474] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:59:44,486] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 17:59:44,497] {logging_mixin.py:109} INFO - [2022-06-09 17:59:44,497] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:59:44,512] {logging_mixin.py:109} INFO - [2022-06-09 17:59:44,512] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T15:59:44.512250+00:00
+[2022-06-09 17:59:44,526] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.056 seconds
+[2022-06-09 18:00:17,663] {processor.py:163} INFO - Started process (PID=20473) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:00:17,667] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:00:17,667] {logging_mixin.py:109} INFO - [2022-06-09 18:00:17,667] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:00:17,677] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:00:17,688] {logging_mixin.py:109} INFO - [2022-06-09 18:00:17,688] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:00:17,697] {logging_mixin.py:109} INFO - [2022-06-09 18:00:17,697] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:00:17.697169+00:00
+[2022-06-09 18:00:17,710] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2022-06-09 18:00:52,716] {processor.py:163} INFO - Started process (PID=22733) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:00:52,718] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:00:52,719] {logging_mixin.py:109} INFO - [2022-06-09 18:00:52,718] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:00:52,731] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:00:52,740] {logging_mixin.py:109} INFO - [2022-06-09 18:00:52,740] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:00:52,752] {logging_mixin.py:109} INFO - [2022-06-09 18:00:52,752] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:00:52.751936+00:00
+[2022-06-09 18:00:52,764] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.051 seconds
+[2022-06-09 18:01:24,326] {processor.py:163} INFO - Started process (PID=22880) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:01:24,327] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:01:24,327] {logging_mixin.py:109} INFO - [2022-06-09 18:01:24,327] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:01:24,339] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:01:24,349] {logging_mixin.py:109} INFO - [2022-06-09 18:01:24,349] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:01:24,358] {logging_mixin.py:109} INFO - [2022-06-09 18:01:24,358] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:01:24.358280+00:00
+[2022-06-09 18:01:24,372] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2022-06-09 18:01:59,494] {processor.py:163} INFO - Started process (PID=23487) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:01:59,495] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:01:59,496] {logging_mixin.py:109} INFO - [2022-06-09 18:01:59,496] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:01:59,510] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:01:59,521] {logging_mixin.py:109} INFO - [2022-06-09 18:01:59,521] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:01:59,531] {logging_mixin.py:109} INFO - [2022-06-09 18:01:59,531] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:01:59.531047+00:00
+[2022-06-09 18:01:59,542] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2022-06-09 18:02:32,046] {processor.py:163} INFO - Started process (PID=5011) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:02:32,049] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:02:32,050] {logging_mixin.py:109} INFO - [2022-06-09 18:02:32,050] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:02:32,061] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:02:32,071] {logging_mixin.py:109} INFO - [2022-06-09 18:02:32,071] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:02:32,081] {logging_mixin.py:109} INFO - [2022-06-09 18:02:32,081] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:02:32.080881+00:00
+[2022-06-09 18:02:32,094] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2022-06-09 18:03:06,129] {processor.py:163} INFO - Started process (PID=5096) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:03:06,131] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:03:06,132] {logging_mixin.py:109} INFO - [2022-06-09 18:03:06,132] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:03:06,143] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:03:06,153] {logging_mixin.py:109} INFO - [2022-06-09 18:03:06,153] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:03:06,163] {logging_mixin.py:109} INFO - [2022-06-09 18:03:06,163] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:03:06.163085+00:00
+[2022-06-09 18:03:06,176] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2022-06-09 18:03:42,617] {processor.py:163} INFO - Started process (PID=5187) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:03:42,620] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:03:42,621] {logging_mixin.py:109} INFO - [2022-06-09 18:03:42,621] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:03:42,633] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:03:42,644] {logging_mixin.py:109} INFO - [2022-06-09 18:03:42,644] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:03:42,655] {logging_mixin.py:109} INFO - [2022-06-09 18:03:42,655] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:03:42.655088+00:00
+[2022-06-09 18:03:42,668] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.054 seconds
+[2022-06-09 18:04:16,053] {processor.py:163} INFO - Started process (PID=5262) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:04:16,056] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:04:16,058] {logging_mixin.py:109} INFO - [2022-06-09 18:04:16,057] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:04:16,084] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:04:16,106] {logging_mixin.py:109} INFO - [2022-06-09 18:04:16,106] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:04:16,126] {logging_mixin.py:109} INFO - [2022-06-09 18:04:16,125] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:04:16.124344+00:00
+[2022-06-09 18:04:16,140] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.096 seconds
+[2022-06-09 18:04:48,297] {processor.py:163} INFO - Started process (PID=5327) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:04:48,300] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:04:48,300] {logging_mixin.py:109} INFO - [2022-06-09 18:04:48,300] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:04:48,315] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:04:48,329] {logging_mixin.py:109} INFO - [2022-06-09 18:04:48,329] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:04:48,338] {logging_mixin.py:109} INFO - [2022-06-09 18:04:48,338] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:04:48.338207+00:00
+[2022-06-09 18:04:48,352] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.059 seconds
+[2022-06-09 18:05:22,168] {processor.py:163} INFO - Started process (PID=5372) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:05:22,171] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:05:22,172] {logging_mixin.py:109} INFO - [2022-06-09 18:05:22,171] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:05:22,188] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:05:22,200] {logging_mixin.py:109} INFO - [2022-06-09 18:05:22,200] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:05:22,210] {logging_mixin.py:109} INFO - [2022-06-09 18:05:22,210] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:05:22.210305+00:00
+[2022-06-09 18:05:22,224] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.059 seconds
+[2022-06-09 18:05:54,701] {processor.py:163} INFO - Started process (PID=9509) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:05:54,704] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:05:54,704] {logging_mixin.py:109} INFO - [2022-06-09 18:05:54,704] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:05:54,716] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:05:54,728] {logging_mixin.py:109} INFO - [2022-06-09 18:05:54,728] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:05:54,737] {logging_mixin.py:109} INFO - [2022-06-09 18:05:54,737] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:05:54.737127+00:00
+[2022-06-09 18:05:54,751] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds
+[2022-06-09 18:06:29,761] {processor.py:163} INFO - Started process (PID=9550) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:06:29,763] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:06:29,763] {logging_mixin.py:109} INFO - [2022-06-09 18:06:29,763] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:06:29,779] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:06:29,798] {logging_mixin.py:109} INFO - [2022-06-09 18:06:29,797] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:06:29,819] {logging_mixin.py:109} INFO - [2022-06-09 18:06:29,819] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:06:29.819232+00:00
+[2022-06-09 18:06:29,834] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.075 seconds
+[2022-06-09 18:07:06,117] {processor.py:163} INFO - Started process (PID=11076) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:07:06,120] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:07:06,120] {logging_mixin.py:109} INFO - [2022-06-09 18:07:06,120] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:07:06,134] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:07:06,145] {logging_mixin.py:109} INFO - [2022-06-09 18:07:06,145] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:07:06,156] {logging_mixin.py:109} INFO - [2022-06-09 18:07:06,156] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:07:06.155824+00:00
+[2022-06-09 18:07:06,169] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.055 seconds
+[2022-06-09 18:07:40,481] {processor.py:163} INFO - Started process (PID=11291) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:07:40,483] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:07:40,484] {logging_mixin.py:109} INFO - [2022-06-09 18:07:40,484] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:07:40,496] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:07:40,506] {logging_mixin.py:109} INFO - [2022-06-09 18:07:40,505] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:07:40,516] {logging_mixin.py:109} INFO - [2022-06-09 18:07:40,516] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:07:40.515847+00:00
+[2022-06-09 18:07:40,528] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2022-06-09 18:08:15,717] {processor.py:163} INFO - Started process (PID=11344) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:08:15,719] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:08:15,719] {logging_mixin.py:109} INFO - [2022-06-09 18:08:15,719] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:08:15,732] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:08:15,741] {logging_mixin.py:109} INFO - [2022-06-09 18:08:15,741] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:08:15,752] {logging_mixin.py:109} INFO - [2022-06-09 18:08:15,752] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:08:15.751874+00:00
+[2022-06-09 18:08:15,763] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2022-06-09 18:08:48,506] {processor.py:163} INFO - Started process (PID=11394) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:08:48,508] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:08:48,508] {logging_mixin.py:109} INFO - [2022-06-09 18:08:48,508] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:08:48,520] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:08:48,531] {logging_mixin.py:109} INFO - [2022-06-09 18:08:48,531] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:08:48,540] {logging_mixin.py:109} INFO - [2022-06-09 18:08:48,540] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:08:48.540443+00:00
+[2022-06-09 18:08:48,554] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.051 seconds
+[2022-06-09 18:09:25,179] {processor.py:163} INFO - Started process (PID=12916) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:09:25,181] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:09:25,182] {logging_mixin.py:109} INFO - [2022-06-09 18:09:25,182] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:09:25,194] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:09:25,205] {logging_mixin.py:109} INFO - [2022-06-09 18:09:25,205] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:09:25,215] {logging_mixin.py:109} INFO - [2022-06-09 18:09:25,215] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:09:25.214786+00:00
+[2022-06-09 18:09:25,227] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2022-06-09 18:10:04,932] {processor.py:163} INFO - Started process (PID=14451) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:10:04,935] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:10:04,935] {logging_mixin.py:109} INFO - [2022-06-09 18:10:04,935] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:10:04,948] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:10:04,960] {logging_mixin.py:109} INFO - [2022-06-09 18:10:04,960] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:10:04,977] {logging_mixin.py:109} INFO - [2022-06-09 18:10:04,977] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:10:04.977121+00:00
+[2022-06-09 18:10:04,991] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.062 seconds
+[2022-06-09 18:10:39,908] {processor.py:163} INFO - Started process (PID=14485) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:10:39,911] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:10:39,912] {logging_mixin.py:109} INFO - [2022-06-09 18:10:39,912] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:10:39,926] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:10:39,936] {logging_mixin.py:109} INFO - [2022-06-09 18:10:39,936] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:10:39,946] {logging_mixin.py:109} INFO - [2022-06-09 18:10:39,945] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:10:39.945683+00:00
+[2022-06-09 18:10:39,959] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.054 seconds
+[2022-06-09 18:11:17,337] {processor.py:163} INFO - Started process (PID=14523) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:11:17,339] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:11:17,340] {logging_mixin.py:109} INFO - [2022-06-09 18:11:17,340] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:11:17,352] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:11:17,363] {logging_mixin.py:109} INFO - [2022-06-09 18:11:17,363] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:11:17,375] {logging_mixin.py:109} INFO - [2022-06-09 18:11:17,375] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:11:17.374960+00:00
+[2022-06-09 18:11:17,392] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.057 seconds
+[2022-06-09 18:11:57,419] {processor.py:163} INFO - Started process (PID=14562) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:11:57,422] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:11:57,422] {logging_mixin.py:109} INFO - [2022-06-09 18:11:57,422] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:11:57,436] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:11:57,449] {logging_mixin.py:109} INFO - [2022-06-09 18:11:57,448] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:11:57,460] {logging_mixin.py:109} INFO - [2022-06-09 18:11:57,460] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:11:57.460292+00:00
+[2022-06-09 18:11:57,472] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.056 seconds
+[2022-06-09 18:12:36,332] {processor.py:163} INFO - Started process (PID=16127) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:12:36,334] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-06-09 18:12:36,335] {logging_mixin.py:109} INFO - [2022-06-09 18:12:36,335] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:12:36,347] {processor.py:652} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-06-09 18:12:36,356] {logging_mixin.py:109} INFO - [2022-06-09 18:12:36,356] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:12:36,365] {logging_mixin.py:109} INFO - [2022-06-09 18:12:36,365] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-06-08T16:12:36.365494+00:00
+[2022-06-09 18:12:36,379] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.051 seconds

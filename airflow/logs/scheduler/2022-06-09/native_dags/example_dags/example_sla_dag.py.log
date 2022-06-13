@@ -1,0 +1,882 @@
+[2022-06-09 17:02:29,883] {processor.py:163} INFO - Started process (PID=4980) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:02:29,884] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:02:29,885] {logging_mixin.py:109} INFO - [2022-06-09 17:02:29,884] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:02:29,899] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:02:29,904] {logging_mixin.py:109} INFO - [2022-06-09 17:02:29,904] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:02:29,916] {logging_mixin.py:109} INFO - [2022-06-09 17:02:29,916] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:00:00+00:00
+[2022-06-09 17:02:29,930] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.050 seconds
+[2022-06-09 17:03:02,467] {processor.py:163} INFO - Started process (PID=5030) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:03:02,469] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:03:02,470] {logging_mixin.py:109} INFO - [2022-06-09 17:03:02,470] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:03:02,483] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:03:02,494] {logging_mixin.py:109} INFO - [2022-06-09 17:03:02,494] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:03:02,509] {logging_mixin.py:109} INFO - [2022-06-09 17:03:02,509] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:00:00+00:00
+[2022-06-09 17:03:02,519] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.053 seconds
+[2022-06-09 17:03:34,635] {processor.py:163} INFO - Started process (PID=5063) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:03:34,637] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:03:34,638] {logging_mixin.py:109} INFO - [2022-06-09 17:03:34,637] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:03:34,652] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:03:34,663] {logging_mixin.py:109} INFO - [2022-06-09 17:03:34,663] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:03:34,676] {logging_mixin.py:109} INFO - [2022-06-09 17:03:34,676] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:00:00+00:00
+[2022-06-09 17:03:34,687] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.054 seconds
+[2022-06-09 17:04:11,965] {processor.py:163} INFO - Started process (PID=5888) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:04:11,967] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:04:11,968] {logging_mixin.py:109} INFO - [2022-06-09 17:04:11,968] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:04:11,981] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:04:11,991] {logging_mixin.py:109} INFO - [2022-06-09 17:04:11,991] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:04:12,004] {logging_mixin.py:109} INFO - [2022-06-09 17:04:12,004] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:02:00+00:00
+[2022-06-09 17:04:12,019] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.056 seconds
+[2022-06-09 17:04:45,210] {processor.py:163} INFO - Started process (PID=7480) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:04:45,212] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:04:45,213] {logging_mixin.py:109} INFO - [2022-06-09 17:04:45,213] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:04:45,229] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:04:45,239] {logging_mixin.py:109} INFO - [2022-06-09 17:04:45,239] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:04:45,252] {logging_mixin.py:109} INFO - [2022-06-09 17:04:45,252] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:02:00+00:00
+[2022-06-09 17:04:45,263] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2022-06-09 17:05:17,916] {processor.py:163} INFO - Started process (PID=8936) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:05:17,918] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:05:17,919] {logging_mixin.py:109} INFO - [2022-06-09 17:05:17,919] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:05:17,932] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:05:17,942] {logging_mixin.py:109} INFO - [2022-06-09 17:05:17,942] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:05:17,953] {logging_mixin.py:109} INFO - [2022-06-09 17:05:17,953] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:02:00+00:00
+[2022-06-09 17:05:17,966] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.053 seconds
+[2022-06-09 17:05:50,765] {processor.py:163} INFO - Started process (PID=8978) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:05:50,767] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:05:50,768] {logging_mixin.py:109} INFO - [2022-06-09 17:05:50,768] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:05:50,786] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:05:50,798] {logging_mixin.py:109} INFO - [2022-06-09 17:05:50,798] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:05:50,814] {logging_mixin.py:109} INFO - [2022-06-09 17:05:50,814] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:02:00+00:00
+[2022-06-09 17:05:50,826] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.063 seconds
+[2022-06-09 17:06:22,878] {processor.py:163} INFO - Started process (PID=9011) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:06:22,881] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:06:22,881] {logging_mixin.py:109} INFO - [2022-06-09 17:06:22,881] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:06:22,893] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:06:22,902] {logging_mixin.py:109} INFO - [2022-06-09 17:06:22,902] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:06:22,915] {logging_mixin.py:109} INFO - [2022-06-09 17:06:22,915] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:04:00+00:00
+[2022-06-09 17:06:22,930] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.054 seconds
+[2022-06-09 17:06:55,573] {processor.py:163} INFO - Started process (PID=10615) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:06:55,575] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:06:55,575] {logging_mixin.py:109} INFO - [2022-06-09 17:06:55,575] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:06:55,602] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:06:55,614] {logging_mixin.py:109} INFO - [2022-06-09 17:06:55,614] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:06:55,630] {logging_mixin.py:109} INFO - [2022-06-09 17:06:55,630] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:04:00+00:00
+[2022-06-09 17:06:55,638] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.067 seconds
+[2022-06-09 17:07:28,936] {processor.py:163} INFO - Started process (PID=11477) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:07:28,937] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:07:28,937] {logging_mixin.py:109} INFO - [2022-06-09 17:07:28,937] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:07:28,953] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:07:28,963] {logging_mixin.py:109} INFO - [2022-06-09 17:07:28,963] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:07:28,977] {logging_mixin.py:109} INFO - [2022-06-09 17:07:28,977] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:04:00+00:00
+[2022-06-09 17:07:28,989] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2022-06-09 17:08:01,965] {processor.py:163} INFO - Started process (PID=13596) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:08:01,967] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:08:01,967] {logging_mixin.py:109} INFO - [2022-06-09 17:08:01,967] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:08:01,981] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:08:01,990] {logging_mixin.py:109} INFO - [2022-06-09 17:08:01,990] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:08:02,004] {logging_mixin.py:109} INFO - [2022-06-09 17:08:02,004] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:06:00+00:00
+[2022-06-09 17:08:02,018] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.056 seconds
+[2022-06-09 17:08:36,447] {processor.py:163} INFO - Started process (PID=15824) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:08:36,450] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:08:36,450] {logging_mixin.py:109} INFO - [2022-06-09 17:08:36,450] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:08:36,475] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:08:36,488] {logging_mixin.py:109} INFO - [2022-06-09 17:08:36,488] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:08:36,504] {logging_mixin.py:109} INFO - [2022-06-09 17:08:36,504] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:06:00+00:00
+[2022-06-09 17:08:36,515] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.073 seconds
+[2022-06-09 17:09:09,372] {processor.py:163} INFO - Started process (PID=17137) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:09:09,374] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:09:09,375] {logging_mixin.py:109} INFO - [2022-06-09 17:09:09,375] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:09:09,406] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:09:09,418] {logging_mixin.py:109} INFO - [2022-06-09 17:09:09,418] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:09:09,433] {logging_mixin.py:109} INFO - [2022-06-09 17:09:09,433] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:06:00+00:00
+[2022-06-09 17:09:09,442] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.073 seconds
+[2022-06-09 17:09:43,888] {processor.py:163} INFO - Started process (PID=18884) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:09:43,890] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:09:43,890] {logging_mixin.py:109} INFO - [2022-06-09 17:09:43,890] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:09:43,904] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:09:43,914] {logging_mixin.py:109} INFO - [2022-06-09 17:09:43,914] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:09:43,926] {logging_mixin.py:109} INFO - [2022-06-09 17:09:43,926] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:06:00+00:00
+[2022-06-09 17:09:43,940] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2022-06-09 17:10:16,821] {processor.py:163} INFO - Started process (PID=19913) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:10:16,824] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:10:16,825] {logging_mixin.py:109} INFO - [2022-06-09 17:10:16,824] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:10:16,842] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:10:16,854] {logging_mixin.py:109} INFO - [2022-06-09 17:10:16,854] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:10:16,871] {logging_mixin.py:109} INFO - [2022-06-09 17:10:16,871] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:08:00+00:00
+[2022-06-09 17:10:16,883] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.065 seconds
+[2022-06-09 17:10:51,219] {processor.py:163} INFO - Started process (PID=22340) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:10:51,220] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:10:51,220] {logging_mixin.py:109} INFO - [2022-06-09 17:10:51,220] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:10:51,236] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:10:51,247] {logging_mixin.py:109} INFO - [2022-06-09 17:10:51,247] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:10:51,262] {logging_mixin.py:109} INFO - [2022-06-09 17:10:51,262] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:08:00+00:00
+[2022-06-09 17:10:51,271] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2022-06-09 17:11:24,199] {processor.py:163} INFO - Started process (PID=24485) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:11:24,202] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:11:24,202] {logging_mixin.py:109} INFO - [2022-06-09 17:11:24,202] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:11:24,217] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:11:24,227] {logging_mixin.py:109} INFO - [2022-06-09 17:11:24,227] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:11:24,239] {logging_mixin.py:109} INFO - [2022-06-09 17:11:24,239] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:08:00+00:00
+[2022-06-09 17:11:24,249] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.052 seconds
+[2022-06-09 17:11:58,652] {processor.py:163} INFO - Started process (PID=25140) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:11:58,654] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:11:58,655] {logging_mixin.py:109} INFO - [2022-06-09 17:11:58,655] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:11:58,675] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:11:58,687] {logging_mixin.py:109} INFO - [2022-06-09 17:11:58,687] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:11:58,700] {logging_mixin.py:109} INFO - [2022-06-09 17:11:58,700] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:08:00+00:00
+[2022-06-09 17:11:58,711] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.061 seconds
+[2022-06-09 17:12:32,505] {processor.py:163} INFO - Started process (PID=26362) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:12:32,507] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:12:32,507] {logging_mixin.py:109} INFO - [2022-06-09 17:12:32,507] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:12:32,527] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:12:32,562] {logging_mixin.py:109} INFO - [2022-06-09 17:12:32,562] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:12:32,609] {logging_mixin.py:109} INFO - [2022-06-09 17:12:32,609] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:10:00+00:00
+[2022-06-09 17:12:32,629] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.126 seconds
+[2022-06-09 17:13:06,685] {processor.py:163} INFO - Started process (PID=1824) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:13:06,687] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:13:06,687] {logging_mixin.py:109} INFO - [2022-06-09 17:13:06,687] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:13:06,702] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:13:06,712] {logging_mixin.py:109} INFO - [2022-06-09 17:13:06,712] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:13:06,725] {logging_mixin.py:109} INFO - [2022-06-09 17:13:06,725] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:10:00+00:00
+[2022-06-09 17:13:06,735] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.052 seconds
+[2022-06-09 17:13:39,671] {processor.py:163} INFO - Started process (PID=7745) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:13:39,673] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:13:39,674] {logging_mixin.py:109} INFO - [2022-06-09 17:13:39,674] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:13:39,689] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:13:39,698] {logging_mixin.py:109} INFO - [2022-06-09 17:13:39,698] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:13:39,709] {logging_mixin.py:109} INFO - [2022-06-09 17:13:39,709] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:10:00+00:00
+[2022-06-09 17:13:39,722] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.053 seconds
+[2022-06-09 17:14:14,201] {processor.py:163} INFO - Started process (PID=8417) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:14:14,204] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:14:14,204] {logging_mixin.py:109} INFO - [2022-06-09 17:14:14,204] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:14:14,219] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:14:14,227] {logging_mixin.py:109} INFO - [2022-06-09 17:14:14,227] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:14:14,240] {logging_mixin.py:109} INFO - [2022-06-09 17:14:14,240] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:12:00+00:00
+[2022-06-09 17:14:14,253] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.054 seconds
+[2022-06-09 17:14:46,863] {processor.py:163} INFO - Started process (PID=8500) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:14:46,865] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:14:46,865] {logging_mixin.py:109} INFO - [2022-06-09 17:14:46,865] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:14:46,882] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:14:46,894] {logging_mixin.py:109} INFO - [2022-06-09 17:14:46,894] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:14:46,909] {logging_mixin.py:109} INFO - [2022-06-09 17:14:46,909] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:12:00+00:00
+[2022-06-09 17:14:46,922] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.061 seconds
+[2022-06-09 17:15:21,482] {processor.py:163} INFO - Started process (PID=9885) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:15:21,483] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:15:21,484] {logging_mixin.py:109} INFO - [2022-06-09 17:15:21,484] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:15:21,498] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:15:21,505] {logging_mixin.py:109} INFO - [2022-06-09 17:15:21,505] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:15:21,517] {logging_mixin.py:109} INFO - [2022-06-09 17:15:21,517] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:12:00+00:00
+[2022-06-09 17:15:21,528] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.048 seconds
+[2022-06-09 17:15:53,298] {processor.py:163} INFO - Started process (PID=12013) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:15:53,299] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:15:53,300] {logging_mixin.py:109} INFO - [2022-06-09 17:15:53,299] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:15:53,313] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:15:53,323] {logging_mixin.py:109} INFO - [2022-06-09 17:15:53,323] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:15:53,336] {logging_mixin.py:109} INFO - [2022-06-09 17:15:53,336] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:12:00+00:00
+[2022-06-09 17:15:53,348] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.053 seconds
+[2022-06-09 17:16:27,614] {processor.py:163} INFO - Started process (PID=14337) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:16:27,615] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:16:27,616] {logging_mixin.py:109} INFO - [2022-06-09 17:16:27,616] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:16:27,632] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:16:27,643] {logging_mixin.py:109} INFO - [2022-06-09 17:16:27,643] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:16:27,656] {logging_mixin.py:109} INFO - [2022-06-09 17:16:27,656] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:14:00+00:00
+[2022-06-09 17:16:27,671] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.060 seconds
+[2022-06-09 17:16:59,930] {processor.py:163} INFO - Started process (PID=16441) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:16:59,931] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:16:59,932] {logging_mixin.py:109} INFO - [2022-06-09 17:16:59,932] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:16:59,945] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:16:59,955] {logging_mixin.py:109} INFO - [2022-06-09 17:16:59,955] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:16:59,967] {logging_mixin.py:109} INFO - [2022-06-09 17:16:59,967] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:14:00+00:00
+[2022-06-09 17:16:59,980] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.053 seconds
+[2022-06-09 17:17:33,863] {processor.py:163} INFO - Started process (PID=18670) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:17:33,864] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:17:33,865] {logging_mixin.py:109} INFO - [2022-06-09 17:17:33,865] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:17:33,880] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:17:33,891] {logging_mixin.py:109} INFO - [2022-06-09 17:17:33,891] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:17:33,903] {logging_mixin.py:109} INFO - [2022-06-09 17:17:33,903] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:14:00+00:00
+[2022-06-09 17:17:33,917] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.057 seconds
+[2022-06-09 17:18:07,056] {processor.py:163} INFO - Started process (PID=20849) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:18:07,057] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:18:07,057] {logging_mixin.py:109} INFO - [2022-06-09 17:18:07,057] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:18:07,070] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:18:07,079] {logging_mixin.py:109} INFO - [2022-06-09 17:18:07,079] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:18:07,092] {logging_mixin.py:109} INFO - [2022-06-09 17:18:07,092] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:16:00+00:00
+[2022-06-09 17:18:07,104] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.051 seconds
+[2022-06-09 17:18:39,879] {processor.py:163} INFO - Started process (PID=23258) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:18:39,881] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:18:39,882] {logging_mixin.py:109} INFO - [2022-06-09 17:18:39,882] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:18:39,894] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:18:39,905] {logging_mixin.py:109} INFO - [2022-06-09 17:18:39,905] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:18:39,918] {logging_mixin.py:109} INFO - [2022-06-09 17:18:39,917] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:16:00+00:00
+[2022-06-09 17:18:39,931] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.054 seconds
+[2022-06-09 17:19:12,532] {processor.py:163} INFO - Started process (PID=25450) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:19:12,533] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:19:12,533] {logging_mixin.py:109} INFO - [2022-06-09 17:19:12,533] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:19:12,546] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:19:12,555] {logging_mixin.py:109} INFO - [2022-06-09 17:19:12,554] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:19:12,566] {logging_mixin.py:109} INFO - [2022-06-09 17:19:12,566] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:16:00+00:00
+[2022-06-09 17:19:12,581] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.052 seconds
+[2022-06-09 17:19:45,893] {processor.py:163} INFO - Started process (PID=27693) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:19:45,894] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:19:45,895] {logging_mixin.py:109} INFO - [2022-06-09 17:19:45,895] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:19:45,909] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:19:45,918] {logging_mixin.py:109} INFO - [2022-06-09 17:19:45,918] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:19:45,930] {logging_mixin.py:109} INFO - [2022-06-09 17:19:45,930] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:16:00+00:00
+[2022-06-09 17:19:45,943] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.054 seconds
+[2022-06-09 17:20:19,193] {processor.py:163} INFO - Started process (PID=29882) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:20:19,194] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:20:19,194] {logging_mixin.py:109} INFO - [2022-06-09 17:20:19,194] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:20:19,208] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:20:19,217] {logging_mixin.py:109} INFO - [2022-06-09 17:20:19,217] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:20:19,228] {logging_mixin.py:109} INFO - [2022-06-09 17:20:19,228] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:18:00+00:00
+[2022-06-09 17:20:19,241] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.051 seconds
+[2022-06-09 17:20:52,270] {processor.py:163} INFO - Started process (PID=32213) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:20:52,272] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:20:52,273] {logging_mixin.py:109} INFO - [2022-06-09 17:20:52,272] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:20:52,287] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:20:52,298] {logging_mixin.py:109} INFO - [2022-06-09 17:20:52,298] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:20:52,310] {logging_mixin.py:109} INFO - [2022-06-09 17:20:52,310] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:18:00+00:00
+[2022-06-09 17:20:52,323] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2022-06-09 17:21:24,942] {processor.py:163} INFO - Started process (PID=2001) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:21:24,944] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:21:24,944] {logging_mixin.py:109} INFO - [2022-06-09 17:21:24,944] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:21:24,958] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:21:24,969] {logging_mixin.py:109} INFO - [2022-06-09 17:21:24,969] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:21:24,980] {logging_mixin.py:109} INFO - [2022-06-09 17:21:24,980] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:18:00+00:00
+[2022-06-09 17:21:24,992] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.052 seconds
+[2022-06-09 17:21:57,816] {processor.py:163} INFO - Started process (PID=3954) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:21:57,819] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:21:57,820] {logging_mixin.py:109} INFO - [2022-06-09 17:21:57,819] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:21:57,833] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:21:57,844] {logging_mixin.py:109} INFO - [2022-06-09 17:21:57,844] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:21:57,857] {logging_mixin.py:109} INFO - [2022-06-09 17:21:57,857] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:18:00+00:00
+[2022-06-09 17:21:57,870] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.057 seconds
+[2022-06-09 17:22:30,493] {processor.py:163} INFO - Started process (PID=6304) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:22:30,496] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:22:30,496] {logging_mixin.py:109} INFO - [2022-06-09 17:22:30,496] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:22:30,509] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:22:30,519] {logging_mixin.py:109} INFO - [2022-06-09 17:22:30,519] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:22:30,531] {logging_mixin.py:109} INFO - [2022-06-09 17:22:30,531] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:20:00+00:00
+[2022-06-09 17:22:30,543] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.052 seconds
+[2022-06-09 17:23:04,303] {processor.py:163} INFO - Started process (PID=8595) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:23:04,306] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:23:04,306] {logging_mixin.py:109} INFO - [2022-06-09 17:23:04,306] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:23:04,320] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:23:04,329] {logging_mixin.py:109} INFO - [2022-06-09 17:23:04,329] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:23:04,342] {logging_mixin.py:109} INFO - [2022-06-09 17:23:04,341] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:20:00+00:00
+[2022-06-09 17:23:04,355] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2022-06-09 17:23:36,647] {processor.py:163} INFO - Started process (PID=9942) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:23:36,649] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:23:36,650] {logging_mixin.py:109} INFO - [2022-06-09 17:23:36,649] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:23:36,668] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:23:36,679] {logging_mixin.py:109} INFO - [2022-06-09 17:23:36,679] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:23:36,693] {logging_mixin.py:109} INFO - [2022-06-09 17:23:36,693] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:20:00+00:00
+[2022-06-09 17:23:36,702] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2022-06-09 17:24:10,470] {processor.py:163} INFO - Started process (PID=9987) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:24:10,471] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:24:10,472] {logging_mixin.py:109} INFO - [2022-06-09 17:24:10,472] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:24:10,488] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:24:10,497] {logging_mixin.py:109} INFO - [2022-06-09 17:24:10,497] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:24:10,510] {logging_mixin.py:109} INFO - [2022-06-09 17:24:10,509] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:22:00+00:00
+[2022-06-09 17:24:10,523] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.054 seconds
+[2022-06-09 17:24:42,740] {processor.py:163} INFO - Started process (PID=10964) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:24:42,743] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:24:42,743] {logging_mixin.py:109} INFO - [2022-06-09 17:24:42,743] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:24:42,758] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:24:42,768] {logging_mixin.py:109} INFO - [2022-06-09 17:24:42,768] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:24:42,780] {logging_mixin.py:109} INFO - [2022-06-09 17:24:42,780] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:22:00+00:00
+[2022-06-09 17:24:42,793] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.056 seconds
+[2022-06-09 17:25:15,832] {processor.py:163} INFO - Started process (PID=10997) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:25:15,834] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:25:15,835] {logging_mixin.py:109} INFO - [2022-06-09 17:25:15,834] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:25:15,849] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:25:15,859] {logging_mixin.py:109} INFO - [2022-06-09 17:25:15,859] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:25:15,871] {logging_mixin.py:109} INFO - [2022-06-09 17:25:15,871] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:22:00+00:00
+[2022-06-09 17:25:15,879] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.049 seconds
+[2022-06-09 17:25:48,298] {processor.py:163} INFO - Started process (PID=11030) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:25:48,301] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:25:48,302] {logging_mixin.py:109} INFO - [2022-06-09 17:25:48,302] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:25:48,328] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:25:48,343] {logging_mixin.py:109} INFO - [2022-06-09 17:25:48,343] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:25:48,358] {logging_mixin.py:109} INFO - [2022-06-09 17:25:48,357] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:22:00+00:00
+[2022-06-09 17:25:48,366] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.070 seconds
+[2022-06-09 17:26:21,769] {processor.py:163} INFO - Started process (PID=13498) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:26:21,770] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:26:21,770] {logging_mixin.py:109} INFO - [2022-06-09 17:26:21,770] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:26:21,784] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:26:21,793] {logging_mixin.py:109} INFO - [2022-06-09 17:26:21,793] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:26:21,804] {logging_mixin.py:109} INFO - [2022-06-09 17:26:21,804] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:24:00+00:00
+[2022-06-09 17:26:21,818] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.051 seconds
+[2022-06-09 17:26:54,086] {processor.py:163} INFO - Started process (PID=15600) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:26:54,089] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:26:54,090] {logging_mixin.py:109} INFO - [2022-06-09 17:26:54,090] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:26:54,114] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:26:54,127] {logging_mixin.py:109} INFO - [2022-06-09 17:26:54,127] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:26:54,143] {logging_mixin.py:109} INFO - [2022-06-09 17:26:54,143] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:24:00+00:00
+[2022-06-09 17:26:54,158] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.076 seconds
+[2022-06-09 17:27:29,751] {processor.py:163} INFO - Started process (PID=16716) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:27:29,753] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:27:29,754] {logging_mixin.py:109} INFO - [2022-06-09 17:27:29,754] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:27:29,796] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:27:29,818] {logging_mixin.py:109} INFO - [2022-06-09 17:27:29,818] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:27:29,849] {logging_mixin.py:109} INFO - [2022-06-09 17:27:29,849] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:24:00+00:00
+[2022-06-09 17:27:29,867] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.119 seconds
+[2022-06-09 17:28:02,538] {processor.py:163} INFO - Started process (PID=18812) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:28:02,541] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:28:02,543] {logging_mixin.py:109} INFO - [2022-06-09 17:28:02,542] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:28:02,559] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:28:02,568] {logging_mixin.py:109} INFO - [2022-06-09 17:28:02,568] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:28:02,583] {logging_mixin.py:109} INFO - [2022-06-09 17:28:02,583] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:26:00+00:00
+[2022-06-09 17:28:02,596] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.060 seconds
+[2022-06-09 17:28:35,939] {processor.py:163} INFO - Started process (PID=21242) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:28:35,940] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:28:35,941] {logging_mixin.py:109} INFO - [2022-06-09 17:28:35,941] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:28:35,963] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:28:35,979] {logging_mixin.py:109} INFO - [2022-06-09 17:28:35,979] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:28:36,000] {logging_mixin.py:109} INFO - [2022-06-09 17:28:36,000] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:26:00+00:00
+[2022-06-09 17:28:36,013] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.076 seconds
+[2022-06-09 17:29:08,955] {processor.py:163} INFO - Started process (PID=21591) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:29:08,957] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:29:08,957] {logging_mixin.py:109} INFO - [2022-06-09 17:29:08,957] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:29:08,970] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:29:08,980] {logging_mixin.py:109} INFO - [2022-06-09 17:29:08,980] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:29:08,992] {logging_mixin.py:109} INFO - [2022-06-09 17:29:08,991] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:26:00+00:00
+[2022-06-09 17:29:09,004] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.052 seconds
+[2022-06-09 17:29:43,572] {processor.py:163} INFO - Started process (PID=21696) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:29:43,574] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:29:43,575] {logging_mixin.py:109} INFO - [2022-06-09 17:29:43,575] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:29:43,588] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:29:43,598] {logging_mixin.py:109} INFO - [2022-06-09 17:29:43,598] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:29:43,610] {logging_mixin.py:109} INFO - [2022-06-09 17:29:43,610] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:26:00+00:00
+[2022-06-09 17:29:43,622] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.053 seconds
+[2022-06-09 17:30:16,596] {processor.py:163} INFO - Started process (PID=23053) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:30:16,598] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:30:16,598] {logging_mixin.py:109} INFO - [2022-06-09 17:30:16,598] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:30:16,613] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:30:16,622] {logging_mixin.py:109} INFO - [2022-06-09 17:30:16,622] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:30:16,634] {logging_mixin.py:109} INFO - [2022-06-09 17:30:16,633] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:28:00+00:00
+[2022-06-09 17:30:16,645] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.054 seconds
+[2022-06-09 17:30:51,119] {processor.py:163} INFO - Started process (PID=23679) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:30:51,121] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:30:51,121] {logging_mixin.py:109} INFO - [2022-06-09 17:30:51,121] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:30:51,141] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:30:51,155] {logging_mixin.py:109} INFO - [2022-06-09 17:30:51,155] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:30:51,171] {logging_mixin.py:109} INFO - [2022-06-09 17:30:51,171] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:28:00+00:00
+[2022-06-09 17:30:51,183] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.066 seconds
+[2022-06-09 17:31:23,342] {processor.py:163} INFO - Started process (PID=23711) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:31:23,344] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:31:23,344] {logging_mixin.py:109} INFO - [2022-06-09 17:31:23,344] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:31:23,365] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:31:23,376] {logging_mixin.py:109} INFO - [2022-06-09 17:31:23,376] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:31:23,392] {logging_mixin.py:109} INFO - [2022-06-09 17:31:23,391] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:28:00+00:00
+[2022-06-09 17:31:23,405] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.067 seconds
+[2022-06-09 17:31:57,148] {processor.py:163} INFO - Started process (PID=23749) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:31:57,149] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:31:57,150] {logging_mixin.py:109} INFO - [2022-06-09 17:31:57,150] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:31:57,165] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:31:57,174] {logging_mixin.py:109} INFO - [2022-06-09 17:31:57,174] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:31:57,184] {logging_mixin.py:109} INFO - [2022-06-09 17:31:57,184] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:28:00+00:00
+[2022-06-09 17:31:57,195] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.049 seconds
+[2022-06-09 17:32:28,262] {processor.py:163} INFO - Started process (PID=23782) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:32:28,263] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:32:28,264] {logging_mixin.py:109} INFO - [2022-06-09 17:32:28,264] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:32:28,276] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:32:28,284] {logging_mixin.py:109} INFO - [2022-06-09 17:32:28,284] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:32:28,296] {logging_mixin.py:109} INFO - [2022-06-09 17:32:28,296] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:30:00+00:00
+[2022-06-09 17:32:28,310] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.051 seconds
+[2022-06-09 17:33:02,228] {processor.py:163} INFO - Started process (PID=23815) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:33:02,229] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:33:02,230] {logging_mixin.py:109} INFO - [2022-06-09 17:33:02,230] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:33:02,244] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:33:02,254] {logging_mixin.py:109} INFO - [2022-06-09 17:33:02,254] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:33:02,268] {logging_mixin.py:109} INFO - [2022-06-09 17:33:02,268] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:30:00+00:00
+[2022-06-09 17:33:02,282] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.056 seconds
+[2022-06-09 17:33:34,901] {processor.py:163} INFO - Started process (PID=23848) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:33:34,903] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:33:34,904] {logging_mixin.py:109} INFO - [2022-06-09 17:33:34,904] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:33:34,920] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:33:34,930] {logging_mixin.py:109} INFO - [2022-06-09 17:33:34,930] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:33:34,942] {logging_mixin.py:109} INFO - [2022-06-09 17:33:34,942] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:30:00+00:00
+[2022-06-09 17:33:34,951] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.054 seconds
+[2022-06-09 17:34:08,757] {processor.py:163} INFO - Started process (PID=23881) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:34:08,758] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:34:08,759] {logging_mixin.py:109} INFO - [2022-06-09 17:34:08,759] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:34:08,773] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:34:08,783] {logging_mixin.py:109} INFO - [2022-06-09 17:34:08,783] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:34:08,798] {logging_mixin.py:109} INFO - [2022-06-09 17:34:08,798] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:32:00+00:00
+[2022-06-09 17:34:08,811] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.057 seconds
+[2022-06-09 17:34:42,432] {processor.py:163} INFO - Started process (PID=25198) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:34:42,433] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:34:42,434] {logging_mixin.py:109} INFO - [2022-06-09 17:34:42,434] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:34:42,449] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:34:42,460] {logging_mixin.py:109} INFO - [2022-06-09 17:34:42,460] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:34:42,473] {logging_mixin.py:109} INFO - [2022-06-09 17:34:42,473] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:32:00+00:00
+[2022-06-09 17:34:42,486] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.057 seconds
+[2022-06-09 17:35:16,304] {processor.py:163} INFO - Started process (PID=25829) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:35:16,306] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:35:16,307] {logging_mixin.py:109} INFO - [2022-06-09 17:35:16,307] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:35:16,325] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:35:16,336] {logging_mixin.py:109} INFO - [2022-06-09 17:35:16,336] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:35:16,350] {logging_mixin.py:109} INFO - [2022-06-09 17:35:16,350] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:32:00+00:00
+[2022-06-09 17:35:16,362] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.061 seconds
+[2022-06-09 17:35:49,609] {processor.py:163} INFO - Started process (PID=27033) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:35:49,611] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:35:49,611] {logging_mixin.py:109} INFO - [2022-06-09 17:35:49,611] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:35:49,625] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:35:49,635] {logging_mixin.py:109} INFO - [2022-06-09 17:35:49,635] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:35:49,647] {logging_mixin.py:109} INFO - [2022-06-09 17:35:49,647] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:32:00+00:00
+[2022-06-09 17:35:49,660] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.054 seconds
+[2022-06-09 17:36:23,415] {processor.py:163} INFO - Started process (PID=27110) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:36:23,418] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:36:23,418] {logging_mixin.py:109} INFO - [2022-06-09 17:36:23,418] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:36:23,431] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:36:23,441] {logging_mixin.py:109} INFO - [2022-06-09 17:36:23,441] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:36:23,454] {logging_mixin.py:109} INFO - [2022-06-09 17:36:23,454] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:34:00+00:00
+[2022-06-09 17:36:23,468] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2022-06-09 17:36:55,598] {processor.py:163} INFO - Started process (PID=27142) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:36:55,599] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:36:55,599] {logging_mixin.py:109} INFO - [2022-06-09 17:36:55,599] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:36:55,612] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:36:55,622] {logging_mixin.py:109} INFO - [2022-06-09 17:36:55,622] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:36:55,634] {logging_mixin.py:109} INFO - [2022-06-09 17:36:55,633] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:34:00+00:00
+[2022-06-09 17:36:55,648] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.053 seconds
+[2022-06-09 17:37:30,222] {processor.py:163} INFO - Started process (PID=27183) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:37:30,225] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:37:30,225] {logging_mixin.py:109} INFO - [2022-06-09 17:37:30,225] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:37:30,238] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:37:30,246] {logging_mixin.py:109} INFO - [2022-06-09 17:37:30,246] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:37:30,258] {logging_mixin.py:109} INFO - [2022-06-09 17:37:30,258] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:34:00+00:00
+[2022-06-09 17:37:30,270] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.051 seconds
+[2022-06-09 17:38:01,775] {processor.py:163} INFO - Started process (PID=27215) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:38:01,778] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:38:01,778] {logging_mixin.py:109} INFO - [2022-06-09 17:38:01,778] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:38:01,792] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:38:01,802] {logging_mixin.py:109} INFO - [2022-06-09 17:38:01,802] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:38:01,814] {logging_mixin.py:109} INFO - [2022-06-09 17:38:01,814] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:36:00+00:00
+[2022-06-09 17:38:01,830] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2022-06-09 17:38:35,095] {processor.py:163} INFO - Started process (PID=27248) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:38:35,098] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:38:35,098] {logging_mixin.py:109} INFO - [2022-06-09 17:38:35,098] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:38:35,117] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:38:35,129] {logging_mixin.py:109} INFO - [2022-06-09 17:38:35,129] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:38:35,150] {logging_mixin.py:109} INFO - [2022-06-09 17:38:35,150] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:36:00+00:00
+[2022-06-09 17:38:35,163] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.075 seconds
+[2022-06-09 17:39:07,174] {processor.py:163} INFO - Started process (PID=27287) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:39:07,175] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:39:07,176] {logging_mixin.py:109} INFO - [2022-06-09 17:39:07,175] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:39:07,189] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:39:07,198] {logging_mixin.py:109} INFO - [2022-06-09 17:39:07,198] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:39:07,211] {logging_mixin.py:109} INFO - [2022-06-09 17:39:07,211] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:36:00+00:00
+[2022-06-09 17:39:07,224] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.052 seconds
+[2022-06-09 17:39:40,984] {processor.py:163} INFO - Started process (PID=27326) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:39:40,987] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:39:40,988] {logging_mixin.py:109} INFO - [2022-06-09 17:39:40,988] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:39:41,003] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:39:41,012] {logging_mixin.py:109} INFO - [2022-06-09 17:39:41,012] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:39:41,024] {logging_mixin.py:109} INFO - [2022-06-09 17:39:41,024] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:36:00+00:00
+[2022-06-09 17:39:41,038] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.056 seconds
+[2022-06-09 17:40:13,133] {processor.py:163} INFO - Started process (PID=27382) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:40:13,134] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:40:13,135] {logging_mixin.py:109} INFO - [2022-06-09 17:40:13,135] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:40:13,151] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:40:13,163] {logging_mixin.py:109} INFO - [2022-06-09 17:40:13,163] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:40:13,178] {logging_mixin.py:109} INFO - [2022-06-09 17:40:13,178] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:38:00+00:00
+[2022-06-09 17:40:13,190] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2022-06-09 17:40:46,686] {processor.py:163} INFO - Started process (PID=27419) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:40:46,688] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:40:46,689] {logging_mixin.py:109} INFO - [2022-06-09 17:40:46,689] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:40:46,705] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:40:46,716] {logging_mixin.py:109} INFO - [2022-06-09 17:40:46,716] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:40:46,729] {logging_mixin.py:109} INFO - [2022-06-09 17:40:46,729] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:38:00+00:00
+[2022-06-09 17:40:46,739] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2022-06-09 17:41:20,394] {processor.py:163} INFO - Started process (PID=5133) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:41:20,396] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:41:20,397] {logging_mixin.py:109} INFO - [2022-06-09 17:41:20,396] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:41:20,422] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:41:20,437] {logging_mixin.py:109} INFO - [2022-06-09 17:41:20,436] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:41:20,462] {logging_mixin.py:109} INFO - [2022-06-09 17:41:20,462] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:38:00+00:00
+[2022-06-09 17:41:20,478] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.088 seconds
+[2022-06-09 17:41:54,119] {processor.py:163} INFO - Started process (PID=28789) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:41:54,121] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:41:54,122] {logging_mixin.py:109} INFO - [2022-06-09 17:41:54,121] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:41:54,144] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:41:54,157] {logging_mixin.py:109} INFO - [2022-06-09 17:41:54,157] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:41:54,176] {logging_mixin.py:109} INFO - [2022-06-09 17:41:54,175] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:38:00+00:00
+[2022-06-09 17:41:54,187] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.070 seconds
+[2022-06-09 17:42:31,594] {processor.py:163} INFO - Started process (PID=4482) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:42:31,596] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:42:31,597] {logging_mixin.py:109} INFO - [2022-06-09 17:42:31,596] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:42:31,614] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:42:31,629] {logging_mixin.py:109} INFO - [2022-06-09 17:42:31,629] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:42:31,655] {logging_mixin.py:109} INFO - [2022-06-09 17:42:31,655] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:40:00+00:00
+[2022-06-09 17:42:31,667] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.076 seconds
+[2022-06-09 17:43:08,324] {processor.py:163} INFO - Started process (PID=20959) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:43:08,326] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:43:08,326] {logging_mixin.py:109} INFO - [2022-06-09 17:43:08,326] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:43:08,347] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:43:08,360] {logging_mixin.py:109} INFO - [2022-06-09 17:43:08,360] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:43:08,375] {logging_mixin.py:109} INFO - [2022-06-09 17:43:08,374] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:40:00+00:00
+[2022-06-09 17:43:08,385] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.064 seconds
+[2022-06-09 17:43:44,393] {processor.py:163} INFO - Started process (PID=27720) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:43:44,395] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:43:44,396] {logging_mixin.py:109} INFO - [2022-06-09 17:43:44,395] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:43:44,421] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:43:44,440] {logging_mixin.py:109} INFO - [2022-06-09 17:43:44,439] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:43:44,482] {logging_mixin.py:109} INFO - [2022-06-09 17:43:44,481] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:40:00+00:00
+[2022-06-09 17:43:44,507] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.117 seconds
+[2022-06-09 17:44:21,235] {processor.py:163} INFO - Started process (PID=8548) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:44:21,236] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:44:21,237] {logging_mixin.py:109} INFO - [2022-06-09 17:44:21,237] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:44:21,254] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:44:21,266] {logging_mixin.py:109} INFO - [2022-06-09 17:44:21,266] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:44:21,285] {logging_mixin.py:109} INFO - [2022-06-09 17:44:21,285] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:42:00+00:00
+[2022-06-09 17:44:21,299] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.066 seconds
+[2022-06-09 17:44:54,675] {processor.py:163} INFO - Started process (PID=16649) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:44:54,677] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:44:54,677] {logging_mixin.py:109} INFO - [2022-06-09 17:44:54,677] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:44:54,691] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:44:54,701] {logging_mixin.py:109} INFO - [2022-06-09 17:44:54,701] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:44:54,717] {logging_mixin.py:109} INFO - [2022-06-09 17:44:54,717] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:42:00+00:00
+[2022-06-09 17:44:54,727] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2022-06-09 17:45:27,421] {processor.py:163} INFO - Started process (PID=18598) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:45:27,423] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:45:27,424] {logging_mixin.py:109} INFO - [2022-06-09 17:45:27,424] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:45:27,438] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:45:27,448] {logging_mixin.py:109} INFO - [2022-06-09 17:45:27,448] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:45:27,462] {logging_mixin.py:109} INFO - [2022-06-09 17:45:27,462] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:42:00+00:00
+[2022-06-09 17:45:27,478] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2022-06-09 17:45:59,572] {processor.py:163} INFO - Started process (PID=18631) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:45:59,574] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:45:59,575] {logging_mixin.py:109} INFO - [2022-06-09 17:45:59,575] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:45:59,590] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:45:59,601] {logging_mixin.py:109} INFO - [2022-06-09 17:45:59,601] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:45:59,617] {logging_mixin.py:109} INFO - [2022-06-09 17:45:59,616] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:42:00+00:00
+[2022-06-09 17:45:59,629] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2022-06-09 17:46:32,968] {processor.py:163} INFO - Started process (PID=19791) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:46:32,971] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:46:32,971] {logging_mixin.py:109} INFO - [2022-06-09 17:46:32,971] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:46:32,987] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:46:33,000] {logging_mixin.py:109} INFO - [2022-06-09 17:46:33,000] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:46:33,013] {logging_mixin.py:109} INFO - [2022-06-09 17:46:33,012] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:44:00+00:00
+[2022-06-09 17:46:33,025] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2022-06-09 17:47:06,148] {processor.py:163} INFO - Started process (PID=19895) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:47:06,150] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:47:06,151] {logging_mixin.py:109} INFO - [2022-06-09 17:47:06,150] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:47:06,168] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:47:06,177] {logging_mixin.py:109} INFO - [2022-06-09 17:47:06,177] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:47:06,189] {logging_mixin.py:109} INFO - [2022-06-09 17:47:06,189] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:44:00+00:00
+[2022-06-09 17:47:06,203] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2022-06-09 17:47:38,793] {processor.py:163} INFO - Started process (PID=19956) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:47:38,795] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:47:38,795] {logging_mixin.py:109} INFO - [2022-06-09 17:47:38,795] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:47:38,809] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:47:38,819] {logging_mixin.py:109} INFO - [2022-06-09 17:47:38,819] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:47:38,830] {logging_mixin.py:109} INFO - [2022-06-09 17:47:38,830] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:44:00+00:00
+[2022-06-09 17:47:38,844] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.054 seconds
+[2022-06-09 17:48:12,089] {processor.py:163} INFO - Started process (PID=20003) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:48:12,090] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:48:12,091] {logging_mixin.py:109} INFO - [2022-06-09 17:48:12,091] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:48:12,108] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:48:12,118] {logging_mixin.py:109} INFO - [2022-06-09 17:48:12,118] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:48:12,131] {logging_mixin.py:109} INFO - [2022-06-09 17:48:12,131] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:46:00+00:00
+[2022-06-09 17:48:12,144] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.057 seconds
+[2022-06-09 17:48:44,697] {processor.py:163} INFO - Started process (PID=20216) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:48:44,699] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:48:44,700] {logging_mixin.py:109} INFO - [2022-06-09 17:48:44,699] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:48:44,712] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:48:44,724] {logging_mixin.py:109} INFO - [2022-06-09 17:48:44,723] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:48:44,737] {logging_mixin.py:109} INFO - [2022-06-09 17:48:44,737] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:46:00+00:00
+[2022-06-09 17:48:44,752] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2022-06-09 17:49:18,008] {processor.py:163} INFO - Started process (PID=20390) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:49:18,008] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:49:18,009] {logging_mixin.py:109} INFO - [2022-06-09 17:49:18,009] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:49:18,023] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:49:18,035] {logging_mixin.py:109} INFO - [2022-06-09 17:49:18,035] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:49:18,050] {logging_mixin.py:109} INFO - [2022-06-09 17:49:18,050] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:46:00+00:00
+[2022-06-09 17:49:18,063] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2022-06-09 17:49:51,291] {processor.py:163} INFO - Started process (PID=20452) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:49:51,294] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:49:51,294] {logging_mixin.py:109} INFO - [2022-06-09 17:49:51,294] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:49:51,307] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:49:51,316] {logging_mixin.py:109} INFO - [2022-06-09 17:49:51,316] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:49:51,330] {logging_mixin.py:109} INFO - [2022-06-09 17:49:51,330] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:46:00+00:00
+[2022-06-09 17:49:51,343] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.053 seconds
+[2022-06-09 17:50:23,815] {processor.py:163} INFO - Started process (PID=20518) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:50:23,815] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:50:23,816] {logging_mixin.py:109} INFO - [2022-06-09 17:50:23,816] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:50:23,834] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:50:23,843] {logging_mixin.py:109} INFO - [2022-06-09 17:50:23,843] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:50:23,855] {logging_mixin.py:109} INFO - [2022-06-09 17:50:23,855] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:48:00+00:00
+[2022-06-09 17:50:23,865] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.052 seconds
+[2022-06-09 17:50:58,918] {processor.py:163} INFO - Started process (PID=24227) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:50:58,920] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:50:58,921] {logging_mixin.py:109} INFO - [2022-06-09 17:50:58,921] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:50:58,950] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:50:58,971] {logging_mixin.py:109} INFO - [2022-06-09 17:50:58,971] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:50:59,002] {logging_mixin.py:109} INFO - [2022-06-09 17:50:59,002] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:48:00+00:00
+[2022-06-09 17:50:59,019] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.104 seconds
+[2022-06-09 17:51:30,948] {processor.py:163} INFO - Started process (PID=27331) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:51:30,950] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:51:30,950] {logging_mixin.py:109} INFO - [2022-06-09 17:51:30,950] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:51:30,965] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:51:30,975] {logging_mixin.py:109} INFO - [2022-06-09 17:51:30,975] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:51:30,989] {logging_mixin.py:109} INFO - [2022-06-09 17:51:30,989] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:48:00+00:00
+[2022-06-09 17:51:31,003] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.057 seconds
+[2022-06-09 17:52:03,849] {processor.py:163} INFO - Started process (PID=27464) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:52:03,852] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:52:03,852] {logging_mixin.py:109} INFO - [2022-06-09 17:52:03,852] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:52:03,867] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:52:03,877] {logging_mixin.py:109} INFO - [2022-06-09 17:52:03,876] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:52:03,893] {logging_mixin.py:109} INFO - [2022-06-09 17:52:03,893] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:50:00+00:00
+[2022-06-09 17:52:03,907] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.060 seconds
+[2022-06-09 17:52:36,120] {processor.py:163} INFO - Started process (PID=27663) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:52:36,122] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:52:36,123] {logging_mixin.py:109} INFO - [2022-06-09 17:52:36,122] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:52:36,141] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:52:36,154] {logging_mixin.py:109} INFO - [2022-06-09 17:52:36,154] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:52:36,172] {logging_mixin.py:109} INFO - [2022-06-09 17:52:36,172] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:50:00+00:00
+[2022-06-09 17:52:36,185] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.068 seconds
+[2022-06-09 17:53:10,085] {processor.py:163} INFO - Started process (PID=31690) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:53:10,088] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:53:10,089] {logging_mixin.py:109} INFO - [2022-06-09 17:53:10,089] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:53:10,104] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:53:10,115] {logging_mixin.py:109} INFO - [2022-06-09 17:53:10,115] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:53:10,128] {logging_mixin.py:109} INFO - [2022-06-09 17:53:10,127] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:50:00+00:00
+[2022-06-09 17:53:10,141] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2022-06-09 17:53:43,664] {processor.py:163} INFO - Started process (PID=31767) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:53:43,667] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:53:43,668] {logging_mixin.py:109} INFO - [2022-06-09 17:53:43,668] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:53:43,682] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:53:43,691] {logging_mixin.py:109} INFO - [2022-06-09 17:53:43,691] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:53:43,703] {logging_mixin.py:109} INFO - [2022-06-09 17:53:43,703] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:50:00+00:00
+[2022-06-09 17:53:43,716] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2022-06-09 17:54:17,474] {processor.py:163} INFO - Started process (PID=31838) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:54:17,475] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:54:17,475] {logging_mixin.py:109} INFO - [2022-06-09 17:54:17,475] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:54:17,493] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:54:17,504] {logging_mixin.py:109} INFO - [2022-06-09 17:54:17,504] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:54:17,521] {logging_mixin.py:109} INFO - [2022-06-09 17:54:17,521] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:52:00+00:00
+[2022-06-09 17:54:17,534] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.063 seconds
+[2022-06-09 17:54:50,138] {processor.py:163} INFO - Started process (PID=31945) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:54:50,140] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:54:50,140] {logging_mixin.py:109} INFO - [2022-06-09 17:54:50,140] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:54:50,159] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:54:50,171] {logging_mixin.py:109} INFO - [2022-06-09 17:54:50,171] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:54:50,188] {logging_mixin.py:109} INFO - [2022-06-09 17:54:50,188] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:52:00+00:00
+[2022-06-09 17:54:50,199] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.063 seconds
+[2022-06-09 17:55:23,806] {processor.py:163} INFO - Started process (PID=2632) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:55:23,807] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:55:23,807] {logging_mixin.py:109} INFO - [2022-06-09 17:55:23,807] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:55:23,822] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:55:23,832] {logging_mixin.py:109} INFO - [2022-06-09 17:55:23,832] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:55:23,845] {logging_mixin.py:109} INFO - [2022-06-09 17:55:23,845] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:52:00+00:00
+[2022-06-09 17:55:23,854] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.050 seconds
+[2022-06-09 17:55:59,908] {processor.py:163} INFO - Started process (PID=11908) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:55:59,910] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:55:59,910] {logging_mixin.py:109} INFO - [2022-06-09 17:55:59,910] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:55:59,924] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:55:59,933] {logging_mixin.py:109} INFO - [2022-06-09 17:55:59,933] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:55:59,945] {logging_mixin.py:109} INFO - [2022-06-09 17:55:59,945] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:52:00+00:00
+[2022-06-09 17:55:59,958] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.053 seconds
+[2022-06-09 17:56:33,650] {processor.py:163} INFO - Started process (PID=12307) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:56:33,651] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:56:33,651] {logging_mixin.py:109} INFO - [2022-06-09 17:56:33,651] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:56:33,666] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:56:33,675] {logging_mixin.py:109} INFO - [2022-06-09 17:56:33,675] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:56:33,688] {logging_mixin.py:109} INFO - [2022-06-09 17:56:33,688] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:54:00+00:00
+[2022-06-09 17:56:33,700] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.052 seconds
+[2022-06-09 17:57:06,674] {processor.py:163} INFO - Started process (PID=12590) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:57:06,676] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:57:06,676] {logging_mixin.py:109} INFO - [2022-06-09 17:57:06,676] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:57:06,691] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:57:06,702] {logging_mixin.py:109} INFO - [2022-06-09 17:57:06,702] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:57:06,720] {logging_mixin.py:109} INFO - [2022-06-09 17:57:06,720] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:54:00+00:00
+[2022-06-09 17:57:06,730] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2022-06-09 17:57:41,029] {processor.py:163} INFO - Started process (PID=12693) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:57:41,031] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:57:41,032] {logging_mixin.py:109} INFO - [2022-06-09 17:57:41,032] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:57:41,046] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:57:41,056] {logging_mixin.py:109} INFO - [2022-06-09 17:57:41,056] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:57:41,068] {logging_mixin.py:109} INFO - [2022-06-09 17:57:41,068] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:54:00+00:00
+[2022-06-09 17:57:41,082] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2022-06-09 17:58:15,961] {processor.py:163} INFO - Started process (PID=13349) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:58:15,963] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:58:15,964] {logging_mixin.py:109} INFO - [2022-06-09 17:58:15,964] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:58:15,995] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:58:16,015] {logging_mixin.py:109} INFO - [2022-06-09 17:58:16,015] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:58:16,054] {logging_mixin.py:109} INFO - [2022-06-09 17:58:16,054] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:56:00+00:00
+[2022-06-09 17:58:16,070] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.112 seconds
+[2022-06-09 17:58:49,638] {processor.py:163} INFO - Started process (PID=18260) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:58:49,639] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:58:49,640] {logging_mixin.py:109} INFO - [2022-06-09 17:58:49,640] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:58:49,655] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:58:49,665] {logging_mixin.py:109} INFO - [2022-06-09 17:58:49,665] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:58:49,678] {logging_mixin.py:109} INFO - [2022-06-09 17:58:49,678] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:56:00+00:00
+[2022-06-09 17:58:49,693] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.056 seconds
+[2022-06-09 17:59:24,580] {processor.py:163} INFO - Started process (PID=18481) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:59:24,583] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 17:59:24,583] {logging_mixin.py:109} INFO - [2022-06-09 17:59:24,583] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:59:24,599] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 17:59:24,609] {logging_mixin.py:109} INFO - [2022-06-09 17:59:24,608] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 17:59:24,621] {logging_mixin.py:109} INFO - [2022-06-09 17:59:24,621] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:56:00+00:00
+[2022-06-09 17:59:24,634] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.056 seconds
+[2022-06-09 18:00:01,171] {processor.py:163} INFO - Started process (PID=20374) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:00:01,173] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:00:01,174] {logging_mixin.py:109} INFO - [2022-06-09 18:00:01,173] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:00:01,188] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:00:01,199] {logging_mixin.py:109} INFO - [2022-06-09 18:00:01,198] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:00:01,212] {logging_mixin.py:109} INFO - [2022-06-09 18:00:01,212] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:58:00+00:00
+[2022-06-09 18:00:01,222] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.054 seconds
+[2022-06-09 18:00:36,496] {processor.py:163} INFO - Started process (PID=22680) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:00:36,497] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:00:36,498] {logging_mixin.py:109} INFO - [2022-06-09 18:00:36,498] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:00:36,512] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:00:36,522] {logging_mixin.py:109} INFO - [2022-06-09 18:00:36,522] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:00:36,534] {logging_mixin.py:109} INFO - [2022-06-09 18:00:36,534] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:58:00+00:00
+[2022-06-09 18:00:36,547] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.054 seconds
+[2022-06-09 18:01:10,829] {processor.py:163} INFO - Started process (PID=22846) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:01:10,831] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:01:10,831] {logging_mixin.py:109} INFO - [2022-06-09 18:01:10,831] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:01:10,847] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:01:10,857] {logging_mixin.py:109} INFO - [2022-06-09 18:01:10,857] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:01:10,870] {logging_mixin.py:109} INFO - [2022-06-09 18:01:10,870] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:58:00+00:00
+[2022-06-09 18:01:10,883] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.056 seconds
+[2022-06-09 18:01:46,892] {processor.py:163} INFO - Started process (PID=22958) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:01:46,894] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:01:46,895] {logging_mixin.py:109} INFO - [2022-06-09 18:01:46,894] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:01:46,911] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:01:46,920] {logging_mixin.py:109} INFO - [2022-06-09 18:01:46,920] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:01:46,933] {logging_mixin.py:109} INFO - [2022-06-09 18:01:46,933] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T15:58:00+00:00
+[2022-06-09 18:01:46,945] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2022-06-09 18:02:23,467] {processor.py:163} INFO - Started process (PID=4996) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:02:23,470] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:02:23,470] {logging_mixin.py:109} INFO - [2022-06-09 18:02:23,470] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:02:23,484] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:02:23,494] {logging_mixin.py:109} INFO - [2022-06-09 18:02:23,493] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:02:23,507] {logging_mixin.py:109} INFO - [2022-06-09 18:02:23,507] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T16:00:00+00:00
+[2022-06-09 18:02:23,521] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.056 seconds
+[2022-06-09 18:02:59,449] {processor.py:163} INFO - Started process (PID=5076) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:02:59,450] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:02:59,451] {logging_mixin.py:109} INFO - [2022-06-09 18:02:59,451] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:02:59,464] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:02:59,472] {logging_mixin.py:109} INFO - [2022-06-09 18:02:59,472] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:02:59,483] {logging_mixin.py:109} INFO - [2022-06-09 18:02:59,483] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T16:00:00+00:00
+[2022-06-09 18:02:59,496] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.050 seconds
+[2022-06-09 18:03:32,111] {processor.py:163} INFO - Started process (PID=5177) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:03:32,113] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:03:32,113] {logging_mixin.py:109} INFO - [2022-06-09 18:03:32,113] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:03:32,128] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:03:32,137] {logging_mixin.py:109} INFO - [2022-06-09 18:03:32,137] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:03:32,150] {logging_mixin.py:109} INFO - [2022-06-09 18:03:32,149] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T16:00:00+00:00
+[2022-06-09 18:03:32,164] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2022-06-09 18:04:05,611] {processor.py:163} INFO - Started process (PID=5217) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:04:05,614] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:04:05,614] {logging_mixin.py:109} INFO - [2022-06-09 18:04:05,614] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:04:05,631] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:04:05,644] {logging_mixin.py:109} INFO - [2022-06-09 18:04:05,644] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:04:05,662] {logging_mixin.py:109} INFO - [2022-06-09 18:04:05,662] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T16:02:00+00:00
+[2022-06-09 18:04:05,675] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.067 seconds
+[2022-06-09 18:04:38,566] {processor.py:163} INFO - Started process (PID=5308) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:04:38,567] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:04:38,568] {logging_mixin.py:109} INFO - [2022-06-09 18:04:38,568] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:04:38,588] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:04:38,599] {logging_mixin.py:109} INFO - [2022-06-09 18:04:38,599] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:04:38,611] {logging_mixin.py:109} INFO - [2022-06-09 18:04:38,611] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T16:02:00+00:00
+[2022-06-09 18:04:38,619] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.056 seconds
+[2022-06-09 18:05:11,961] {processor.py:163} INFO - Started process (PID=5361) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:05:11,964] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:05:11,964] {logging_mixin.py:109} INFO - [2022-06-09 18:05:11,964] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:05:11,982] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:05:11,994] {logging_mixin.py:109} INFO - [2022-06-09 18:05:11,993] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:05:12,005] {logging_mixin.py:109} INFO - [2022-06-09 18:05:12,005] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T16:02:00+00:00
+[2022-06-09 18:05:12,017] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2022-06-09 18:05:47,304] {processor.py:163} INFO - Started process (PID=8763) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:05:47,306] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:05:47,307] {logging_mixin.py:109} INFO - [2022-06-09 18:05:47,307] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:05:47,335] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:05:47,354] {logging_mixin.py:109} INFO - [2022-06-09 18:05:47,353] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:05:47,395] {logging_mixin.py:109} INFO - [2022-06-09 18:05:47,395] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T16:02:00+00:00
+[2022-06-09 18:05:47,421] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.119 seconds
+[2022-06-09 18:06:22,231] {processor.py:163} INFO - Started process (PID=9543) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:06:22,233] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:06:22,233] {logging_mixin.py:109} INFO - [2022-06-09 18:06:22,233] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:06:22,248] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:06:22,256] {logging_mixin.py:109} INFO - [2022-06-09 18:06:22,256] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:06:22,269] {logging_mixin.py:109} INFO - [2022-06-09 18:06:22,269] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T16:04:00+00:00
+[2022-06-09 18:06:22,284] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2022-06-09 18:06:54,482] {processor.py:163} INFO - Started process (PID=11064) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:06:54,484] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:06:54,485] {logging_mixin.py:109} INFO - [2022-06-09 18:06:54,485] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:06:54,499] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:06:54,508] {logging_mixin.py:109} INFO - [2022-06-09 18:06:54,508] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:06:54,523] {logging_mixin.py:109} INFO - [2022-06-09 18:06:54,522] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T16:04:00+00:00
+[2022-06-09 18:06:54,536] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.056 seconds
+[2022-06-09 18:07:30,496] {processor.py:163} INFO - Started process (PID=11281) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:07:30,498] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:07:30,499] {logging_mixin.py:109} INFO - [2022-06-09 18:07:30,499] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:07:30,514] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:07:30,523] {logging_mixin.py:109} INFO - [2022-06-09 18:07:30,523] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:07:30,537] {logging_mixin.py:109} INFO - [2022-06-09 18:07:30,537] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T16:04:00+00:00
+[2022-06-09 18:07:30,551] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.057 seconds
+[2022-06-09 18:08:04,193] {processor.py:163} INFO - Started process (PID=11317) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:08:04,195] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:08:04,195] {logging_mixin.py:109} INFO - [2022-06-09 18:08:04,195] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:08:04,210] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:08:04,219] {logging_mixin.py:109} INFO - [2022-06-09 18:08:04,219] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:08:04,232] {logging_mixin.py:109} INFO - [2022-06-09 18:08:04,232] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T16:06:00+00:00
+[2022-06-09 18:08:04,245] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2022-06-09 18:08:39,290] {processor.py:163} INFO - Started process (PID=11385) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:08:39,292] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:08:39,292] {logging_mixin.py:109} INFO - [2022-06-09 18:08:39,292] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:08:39,311] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:08:39,322] {logging_mixin.py:109} INFO - [2022-06-09 18:08:39,322] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:08:39,346] {logging_mixin.py:109} INFO - [2022-06-09 18:08:39,346] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T16:06:00+00:00
+[2022-06-09 18:08:39,360] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.073 seconds
+[2022-06-09 18:09:13,326] {processor.py:163} INFO - Started process (PID=12905) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:09:13,329] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:09:13,329] {logging_mixin.py:109} INFO - [2022-06-09 18:09:13,329] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:09:13,343] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:09:13,353] {logging_mixin.py:109} INFO - [2022-06-09 18:09:13,352] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:09:13,365] {logging_mixin.py:109} INFO - [2022-06-09 18:09:13,365] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T16:06:00+00:00
+[2022-06-09 18:09:13,378] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.053 seconds
+[2022-06-09 18:09:49,780] {processor.py:163} INFO - Started process (PID=14437) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:09:49,782] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:09:49,782] {logging_mixin.py:109} INFO - [2022-06-09 18:09:49,782] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:09:49,797] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:09:49,808] {logging_mixin.py:109} INFO - [2022-06-09 18:09:49,808] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:09:49,820] {logging_mixin.py:109} INFO - [2022-06-09 18:09:49,819] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T16:06:00+00:00
+[2022-06-09 18:09:49,834] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.056 seconds
+[2022-06-09 18:10:31,112] {processor.py:163} INFO - Started process (PID=14477) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:10:31,114] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:10:31,114] {logging_mixin.py:109} INFO - [2022-06-09 18:10:31,114] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:10:31,129] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:10:31,138] {logging_mixin.py:109} INFO - [2022-06-09 18:10:31,138] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:10:31,151] {logging_mixin.py:109} INFO - [2022-06-09 18:10:31,151] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T16:08:00+00:00
+[2022-06-09 18:10:31,164] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2022-06-09 18:11:11,035] {processor.py:163} INFO - Started process (PID=14516) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:11:11,037] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:11:11,037] {logging_mixin.py:109} INFO - [2022-06-09 18:11:11,037] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:11:11,057] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:11:11,070] {logging_mixin.py:109} INFO - [2022-06-09 18:11:11,070] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:11:11,086] {logging_mixin.py:109} INFO - [2022-06-09 18:11:11,086] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T16:08:00+00:00
+[2022-06-09 18:11:11,100] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.067 seconds
+[2022-06-09 18:11:49,970] {processor.py:163} INFO - Started process (PID=14555) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:11:49,973] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:11:49,974] {logging_mixin.py:109} INFO - [2022-06-09 18:11:49,974] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:11:49,992] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:11:50,002] {logging_mixin.py:109} INFO - [2022-06-09 18:11:50,002] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:11:50,014] {logging_mixin.py:109} INFO - [2022-06-09 18:11:50,014] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T16:08:00+00:00
+[2022-06-09 18:11:50,029] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.061 seconds
+[2022-06-09 18:12:29,377] {processor.py:163} INFO - Started process (PID=14594) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:12:29,380] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:12:29,381] {logging_mixin.py:109} INFO - [2022-06-09 18:12:29,381] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:12:29,398] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:12:29,407] {logging_mixin.py:109} INFO - [2022-06-09 18:12:29,407] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:12:29,418] {logging_mixin.py:109} INFO - [2022-06-09 18:12:29,418] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T16:10:00+00:00
+[2022-06-09 18:12:29,434] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2022-06-09 18:13:08,710] {processor.py:163} INFO - Started process (PID=17525) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:13:08,712] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-06-09 18:13:08,713] {logging_mixin.py:109} INFO - [2022-06-09 18:13:08,713] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:13:08,727] {processor.py:652} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-06-09 18:13:08,737] {logging_mixin.py:109} INFO - [2022-06-09 18:13:08,737] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-09 18:13:08,752] {logging_mixin.py:109} INFO - [2022-06-09 18:13:08,751] {dag.py:2937} INFO - Setting next_dagrun for example_sla_dag to 2022-06-09T16:10:00+00:00
+[2022-06-09 18:13:08,766] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds

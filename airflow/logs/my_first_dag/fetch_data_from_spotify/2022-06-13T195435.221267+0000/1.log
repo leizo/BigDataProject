@@ -1,0 +1,30 @@
+[2022-06-13 21:54:45,474] {taskinstance.py:1043} INFO - Dependencies all met for <TaskInstance: my_first_dag.fetch_data_from_spotify manual__2022-06-13T19:54:35.221267+00:00 [queued]>
+[2022-06-13 21:54:45,482] {taskinstance.py:1043} INFO - Dependencies all met for <TaskInstance: my_first_dag.fetch_data_from_spotify manual__2022-06-13T19:54:35.221267+00:00 [queued]>
+[2022-06-13 21:54:45,483] {taskinstance.py:1249} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-13 21:54:45,483] {taskinstance.py:1250} INFO - Starting attempt 1 of 2
+[2022-06-13 21:54:45,483] {taskinstance.py:1251} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-13 21:54:45,495] {taskinstance.py:1270} INFO - Executing <Task(PythonOperator): fetch_data_from_spotify> on 2022-06-13 19:54:35.221267+00:00
+[2022-06-13 21:54:45,498] {standard_task_runner.py:52} INFO - Started process 2696 to run task
+[2022-06-13 21:54:45,501] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'my_first_dag', 'fetch_data_from_spotify', 'manual__2022-06-13T19:54:35.221267+00:00', '--job-id', '33', '--raw', '--subdir', 'DAGS_FOLDER/my_first_dag.py', '--cfg-path', '/tmp/tmpp53qudd1', '--error-file', '/tmp/tmpr0bn90ak']
+[2022-06-13 21:54:45,502] {standard_task_runner.py:80} INFO - Job 33: Subtask fetch_data_from_spotify
+[2022-06-13 21:54:45,555] {logging_mixin.py:109} INFO - Running <TaskInstance: my_first_dag.fetch_data_from_spotify manual__2022-06-13T19:54:35.221267+00:00 [running]> on host LAPTOP-M1F9EL62.localdomain
+[2022-06-13 21:54:45,604] {taskinstance.py:1446} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=my_first_dag
+AIRFLOW_CTX_TASK_ID=fetch_data_from_spotify
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-13T19:54:35.221267+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-06-13T19:54:35.221267+00:00
+[2022-06-13 21:54:45,872] {logging_mixin.py:109} INFO - Writing here:  /home/leizo/datalake/raw/spotify/Playlists/DailyMix1/20220613/
+[2022-06-13 21:54:46,071] {logging_mixin.py:109} INFO - Writing here:  /home/leizo/datalake/raw/spotify/Playlists/DailyMix2/20220613/
+[2022-06-13 21:54:46,276] {logging_mixin.py:109} INFO - Writing here:  /home/leizo/datalake/raw/spotify/Playlists/DailyMix3/20220613/
+[2022-06-13 21:54:46,479] {logging_mixin.py:109} INFO - Writing here:  /home/leizo/datalake/raw/spotify/Playlists/DailyMix4/20220613/
+[2022-06-13 21:54:46,777] {logging_mixin.py:109} INFO - Writing here:  /home/leizo/datalake/raw/spotify/Playlists/DailyMix5/20220613/
+[2022-06-13 21:54:47,188] {logging_mixin.py:109} INFO - Writing here:  /home/leizo/datalake/raw/spotify/Playlists/DailyMix6/20220613/
+[2022-06-13 21:54:47,422] {logging_mixin.py:109} INFO - Writing here:  /home/leizo/datalake/raw/spotify/Playlists/MixRock/20220613/
+[2022-06-13 21:54:47,423] {python.py:175} INFO - Done. Returned value was: None
+[2022-06-13 21:54:47,432] {taskinstance.py:1278} INFO - Marking task as SUCCESS. dag_id=my_first_dag, task_id=fetch_data_from_spotify, execution_date=20220613T195435, start_date=20220613T195445, end_date=20220613T195447
+[2022-06-13 21:54:47,484] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-06-13 21:54:47,545] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

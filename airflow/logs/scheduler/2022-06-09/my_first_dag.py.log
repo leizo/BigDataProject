@@ -1,0 +1,994 @@
+[2022-06-09 17:08:18,996] {processor.py:163} INFO - Started process (PID=14767) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:08:18,997] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:08:18,998] {logging_mixin.py:109} INFO - [2022-06-09 17:08:18,997] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:08:19,003] {logging_mixin.py:109} INFO - [2022-06-09 17:08:19,002] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:08:19,003] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:08:19,017] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.023 seconds
+[2022-06-09 17:09:27,101] {processor.py:163} INFO - Started process (PID=18427) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:09:27,104] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:09:27,105] {logging_mixin.py:109} INFO - [2022-06-09 17:09:27,105] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:09:27,111] {logging_mixin.py:109} INFO - [2022-06-09 17:09:27,110] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:09:27,111] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:09:27,128] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.029 seconds
+[2022-06-09 17:10:34,577] {processor.py:163} INFO - Started process (PID=21033) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:10:34,579] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:10:34,579] {logging_mixin.py:109} INFO - [2022-06-09 17:10:34,579] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:10:34,584] {logging_mixin.py:109} INFO - [2022-06-09 17:10:34,584] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:10:34,585] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:10:34,597] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.022 seconds
+[2022-06-09 17:11:40,800] {processor.py:163} INFO - Started process (PID=25116) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:11:40,801] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:11:40,802] {logging_mixin.py:109} INFO - [2022-06-09 17:11:40,802] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:11:40,807] {logging_mixin.py:109} INFO - [2022-06-09 17:11:40,806] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:11:40,807] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:11:40,825] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.027 seconds
+[2022-06-09 17:12:50,404] {processor.py:163} INFO - Started process (PID=28713) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:12:50,406] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:12:50,407] {logging_mixin.py:109} INFO - [2022-06-09 17:12:50,407] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:12:50,414] {logging_mixin.py:109} INFO - [2022-06-09 17:12:50,413] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:12:50,414] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:12:50,430] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.028 seconds
+[2022-06-09 17:13:57,601] {processor.py:163} INFO - Started process (PID=8400) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:13:57,604] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:13:57,605] {logging_mixin.py:109} INFO - [2022-06-09 17:13:57,604] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:13:57,610] {logging_mixin.py:109} INFO - [2022-06-09 17:13:57,609] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:13:57,611] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:13:57,627] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.028 seconds
+[2022-06-09 17:15:04,812] {processor.py:163} INFO - Started process (PID=8519) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:15:04,815] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:15:04,815] {logging_mixin.py:109} INFO - [2022-06-09 17:15:04,815] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:15:04,820] {logging_mixin.py:109} INFO - [2022-06-09 17:15:04,819] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:15:04,820] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:15:04,837] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.028 seconds
+[2022-06-09 17:16:10,722] {processor.py:163} INFO - Started process (PID=13269) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:16:10,724] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:16:10,725] {logging_mixin.py:109} INFO - [2022-06-09 17:16:10,725] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:16:10,730] {logging_mixin.py:109} INFO - [2022-06-09 17:16:10,729] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:16:10,730] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:16:10,747] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.027 seconds
+[2022-06-09 17:17:17,037] {processor.py:163} INFO - Started process (PID=17658) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:17:17,039] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:17:17,040] {logging_mixin.py:109} INFO - [2022-06-09 17:17:17,040] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:17:17,045] {logging_mixin.py:109} INFO - [2022-06-09 17:17:17,044] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:17:17,045] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:17:17,063] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.029 seconds
+[2022-06-09 17:18:24,151] {processor.py:163} INFO - Started process (PID=22071) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:18:24,156] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:18:24,156] {logging_mixin.py:109} INFO - [2022-06-09 17:18:24,156] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:18:24,161] {logging_mixin.py:109} INFO - [2022-06-09 17:18:24,160] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:18:24,161] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:18:24,175] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.027 seconds
+[2022-06-09 17:19:30,330] {processor.py:163} INFO - Started process (PID=26630) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:19:30,331] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:19:30,332] {logging_mixin.py:109} INFO - [2022-06-09 17:19:30,332] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:19:30,336] {logging_mixin.py:109} INFO - [2022-06-09 17:19:30,335] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:19:30,336] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:19:30,351] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.023 seconds
+[2022-06-09 17:20:36,801] {processor.py:163} INFO - Started process (PID=31254) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:20:36,803] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:20:36,803] {logging_mixin.py:109} INFO - [2022-06-09 17:20:36,803] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:20:36,809] {logging_mixin.py:109} INFO - [2022-06-09 17:20:36,808] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:20:36,809] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:20:36,824] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.026 seconds
+[2022-06-09 17:21:41,530] {processor.py:163} INFO - Started process (PID=3160) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:21:41,532] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:21:41,533] {logging_mixin.py:109} INFO - [2022-06-09 17:21:41,532] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:21:41,537] {logging_mixin.py:109} INFO - [2022-06-09 17:21:41,536] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:21:41,538] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:21:41,551] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.022 seconds
+[2022-06-09 17:22:47,596] {processor.py:163} INFO - Started process (PID=7277) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:22:47,598] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:22:47,598] {logging_mixin.py:109} INFO - [2022-06-09 17:22:47,598] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:22:47,603] {logging_mixin.py:109} INFO - [2022-06-09 17:22:47,603] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:22:47,603] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:22:47,620] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.027 seconds
+[2022-06-09 17:23:53,820] {processor.py:163} INFO - Started process (PID=9970) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:23:53,822] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:23:53,822] {logging_mixin.py:109} INFO - [2022-06-09 17:23:53,822] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:23:53,827] {logging_mixin.py:109} INFO - [2022-06-09 17:23:53,826] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:23:53,827] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:23:53,845] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.028 seconds
+[2022-06-09 17:24:59,465] {processor.py:163} INFO - Started process (PID=10981) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:24:59,468] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:24:59,468] {logging_mixin.py:109} INFO - [2022-06-09 17:24:59,468] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:24:59,473] {logging_mixin.py:109} INFO - [2022-06-09 17:24:59,472] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:24:59,473] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:24:59,492] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.030 seconds
+[2022-06-09 17:26:04,879] {processor.py:163} INFO - Started process (PID=12418) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:26:04,881] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:26:04,881] {logging_mixin.py:109} INFO - [2022-06-09 17:26:04,881] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:26:04,886] {logging_mixin.py:109} INFO - [2022-06-09 17:26:04,885] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:26:04,886] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:26:04,903] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.026 seconds
+[2022-06-09 17:27:13,479] {processor.py:163} INFO - Started process (PID=16699) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:27:13,481] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:27:13,481] {logging_mixin.py:109} INFO - [2022-06-09 17:27:13,481] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:27:13,487] {logging_mixin.py:109} INFO - [2022-06-09 17:27:13,486] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:27:13,487] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:27:13,503] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.026 seconds
+[2022-06-09 17:28:19,143] {processor.py:163} INFO - Started process (PID=20005) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:28:19,145] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:28:19,145] {logging_mixin.py:109} INFO - [2022-06-09 17:28:19,145] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:28:19,150] {logging_mixin.py:109} INFO - [2022-06-09 17:28:19,149] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:28:19,150] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:28:19,166] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.025 seconds
+[2022-06-09 17:29:26,683] {processor.py:163} INFO - Started process (PID=21680) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:29:26,684] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:29:26,685] {logging_mixin.py:109} INFO - [2022-06-09 17:29:26,685] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:29:26,690] {logging_mixin.py:109} INFO - [2022-06-09 17:29:26,689] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:29:26,690] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:29:26,705] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.025 seconds
+[2022-06-09 17:30:34,323] {processor.py:163} INFO - Started process (PID=23663) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:30:34,325] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:30:34,326] {logging_mixin.py:109} INFO - [2022-06-09 17:30:34,325] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:30:34,330] {logging_mixin.py:109} INFO - [2022-06-09 17:30:34,330] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:30:34,330] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:30:34,348] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.027 seconds
+[2022-06-09 17:31:40,452] {processor.py:163} INFO - Started process (PID=23728) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:31:40,454] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:31:40,455] {logging_mixin.py:109} INFO - [2022-06-09 17:31:40,455] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:31:40,460] {logging_mixin.py:109} INFO - [2022-06-09 17:31:40,460] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:31:40,460] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:31:40,476] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.026 seconds
+[2022-06-09 17:32:45,988] {processor.py:163} INFO - Started process (PID=23799) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:32:45,990] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:32:45,990] {logging_mixin.py:109} INFO - [2022-06-09 17:32:45,990] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:32:45,997] {logging_mixin.py:109} INFO - [2022-06-09 17:32:45,996] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:32:45,997] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:32:46,014] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.029 seconds
+[2022-06-09 17:33:52,406] {processor.py:163} INFO - Started process (PID=23865) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:33:52,409] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:33:52,409] {logging_mixin.py:109} INFO - [2022-06-09 17:33:52,409] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:33:52,416] {logging_mixin.py:109} INFO - [2022-06-09 17:33:52,415] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:33:52,416] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:33:52,433] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.029 seconds
+[2022-06-09 17:35:00,153] {processor.py:163} INFO - Started process (PID=25807) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:35:00,155] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:35:00,156] {logging_mixin.py:109} INFO - [2022-06-09 17:35:00,156] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:35:00,161] {logging_mixin.py:109} INFO - [2022-06-09 17:35:00,161] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:35:00,161] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:35:00,179] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.028 seconds
+[2022-06-09 17:36:07,370] {processor.py:163} INFO - Started process (PID=27094) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:36:07,373] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:36:07,373] {logging_mixin.py:109} INFO - [2022-06-09 17:36:07,373] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:36:07,379] {logging_mixin.py:109} INFO - [2022-06-09 17:36:07,377] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:36:07,379] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:36:07,395] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.028 seconds
+[2022-06-09 17:37:13,528] {processor.py:163} INFO - Started process (PID=27167) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:37:13,530] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:37:13,531] {logging_mixin.py:109} INFO - [2022-06-09 17:37:13,531] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:37:13,536] {logging_mixin.py:109} INFO - [2022-06-09 17:37:13,535] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:37:13,536] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:37:13,552] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.026 seconds
+[2022-06-09 17:38:18,387] {processor.py:163} INFO - Started process (PID=27232) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:38:18,390] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:38:18,390] {logging_mixin.py:109} INFO - [2022-06-09 17:38:18,390] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:38:18,396] {logging_mixin.py:109} INFO - [2022-06-09 17:38:18,395] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:38:18,396] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:38:18,412] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.029 seconds
+[2022-06-09 17:39:24,280] {processor.py:163} INFO - Started process (PID=27310) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:39:24,281] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:39:24,282] {logging_mixin.py:109} INFO - [2022-06-09 17:39:24,281] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:39:24,287] {logging_mixin.py:109} INFO - [2022-06-09 17:39:24,286] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:39:24,287] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:39:24,308] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.030 seconds
+[2022-06-09 17:40:31,220] {processor.py:163} INFO - Started process (PID=27403) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:40:31,221] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:40:31,222] {logging_mixin.py:109} INFO - [2022-06-09 17:40:31,222] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:40:31,228] {logging_mixin.py:109} INFO - [2022-06-09 17:40:31,227] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:40:31,228] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:40:31,243] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.026 seconds
+[2022-06-09 17:41:38,252] {processor.py:163} INFO - Started process (PID=15992) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:41:38,253] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:41:38,254] {logging_mixin.py:109} INFO - [2022-06-09 17:41:38,254] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:41:38,258] {logging_mixin.py:109} INFO - [2022-06-09 17:41:38,258] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:41:38,259] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:41:38,272] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.022 seconds
+[2022-06-09 17:42:49,641] {processor.py:163} INFO - Started process (PID=13892) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:42:49,644] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:42:49,645] {logging_mixin.py:109} INFO - [2022-06-09 17:42:49,644] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:42:49,652] {logging_mixin.py:109} INFO - [2022-06-09 17:42:49,651] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:42:49,652] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:42:49,668] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.030 seconds
+[2022-06-09 17:44:03,589] {processor.py:163} INFO - Started process (PID=864) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:44:03,591] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:44:03,592] {logging_mixin.py:109} INFO - [2022-06-09 17:44:03,591] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:44:03,599] {logging_mixin.py:109} INFO - [2022-06-09 17:44:03,598] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:44:03,599] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:44:03,616] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.029 seconds
+[2022-06-09 17:45:11,462] {processor.py:163} INFO - Started process (PID=18582) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:45:11,466] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:45:11,467] {logging_mixin.py:109} INFO - [2022-06-09 17:45:11,467] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:45:11,471] {logging_mixin.py:109} INFO - [2022-06-09 17:45:11,471] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:45:11,471] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:45:11,488] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.029 seconds
+[2022-06-09 17:46:17,321] {processor.py:163} INFO - Started process (PID=19774) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:46:17,324] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:46:17,324] {logging_mixin.py:109} INFO - [2022-06-09 17:46:17,324] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:46:17,329] {logging_mixin.py:109} INFO - [2022-06-09 17:46:17,328] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:46:17,329] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:46:17,346] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.028 seconds
+[2022-06-09 17:47:22,082] {processor.py:163} INFO - Started process (PID=19912) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:47:22,084] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:47:22,084] {logging_mixin.py:109} INFO - [2022-06-09 17:47:22,084] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:47:22,089] {logging_mixin.py:109} INFO - [2022-06-09 17:47:22,088] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:47:22,089] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:47:22,107] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.027 seconds
+[2022-06-09 17:48:28,688] {processor.py:163} INFO - Started process (PID=20200) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:48:28,690] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:48:28,691] {logging_mixin.py:109} INFO - [2022-06-09 17:48:28,691] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:48:28,696] {logging_mixin.py:109} INFO - [2022-06-09 17:48:28,695] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:48:28,696] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:48:28,713] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.027 seconds
+[2022-06-09 17:49:34,603] {processor.py:163} INFO - Started process (PID=20408) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:49:34,604] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:49:34,605] {logging_mixin.py:109} INFO - [2022-06-09 17:49:34,605] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:49:34,609] {logging_mixin.py:109} INFO - [2022-06-09 17:49:34,608] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:49:34,609] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:49:34,628] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.028 seconds
+[2022-06-09 17:50:40,403] {processor.py:163} INFO - Started process (PID=21521) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:50:40,405] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:50:40,406] {logging_mixin.py:109} INFO - [2022-06-09 17:50:40,406] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:50:40,417] {logging_mixin.py:109} INFO - [2022-06-09 17:50:40,416] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:50:40,417] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:50:40,441] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.041 seconds
+[2022-06-09 17:51:48,360] {processor.py:163} INFO - Started process (PID=27417) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:51:48,362] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:51:48,362] {logging_mixin.py:109} INFO - [2022-06-09 17:51:48,362] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:51:48,367] {logging_mixin.py:109} INFO - [2022-06-09 17:51:48,366] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:51:48,367] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:51:48,384] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.026 seconds
+[2022-06-09 17:52:53,384] {processor.py:163} INFO - Started process (PID=29408) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:52:53,387] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:52:53,387] {logging_mixin.py:109} INFO - [2022-06-09 17:52:53,387] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:52:53,393] {logging_mixin.py:109} INFO - [2022-06-09 17:52:53,392] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:52:53,393] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:52:53,408] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.027 seconds
+[2022-06-09 17:54:00,864] {processor.py:163} INFO - Started process (PID=31815) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:54:00,866] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:54:00,866] {logging_mixin.py:109} INFO - [2022-06-09 17:54:00,866] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:54:00,871] {logging_mixin.py:109} INFO - [2022-06-09 17:54:00,871] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:54:00,871] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:54:00,887] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.025 seconds
+[2022-06-09 17:55:07,714] {processor.py:163} INFO - Started process (PID=1176) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:55:07,716] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:55:07,716] {logging_mixin.py:109} INFO - [2022-06-09 17:55:07,716] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:55:07,723] {logging_mixin.py:109} INFO - [2022-06-09 17:55:07,721] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:55:07,723] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:55:07,743] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.032 seconds
+[2022-06-09 17:55:53,489] {processor.py:163} INFO - Started process (PID=11902) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:55:53,490] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:55:53,491] {logging_mixin.py:109} INFO - [2022-06-09 17:55:53,491] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:55:53,496] {logging_mixin.py:109} INFO - [2022-06-09 17:55:53,495] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:55:53,496] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:55:53,514] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.027 seconds
+[2022-06-09 17:56:27,267] {processor.py:163} INFO - Started process (PID=11997) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:56:27,269] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:56:27,270] {logging_mixin.py:109} INFO - [2022-06-09 17:56:27,270] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:56:27,275] {logging_mixin.py:109} INFO - [2022-06-09 17:56:27,274] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:56:27,275] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:56:27,292] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.027 seconds
+[2022-06-09 17:57:02,181] {processor.py:163} INFO - Started process (PID=12579) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:57:02,184] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:57:02,184] {logging_mixin.py:109} INFO - [2022-06-09 17:57:02,184] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:57:02,189] {logging_mixin.py:109} INFO - [2022-06-09 17:57:02,189] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:57:02,189] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:57:02,205] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.026 seconds
+[2022-06-09 17:57:42,162] {processor.py:163} INFO - Started process (PID=12694) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:57:42,164] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:57:42,165] {logging_mixin.py:109} INFO - [2022-06-09 17:57:42,164] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:57:42,170] {logging_mixin.py:109} INFO - [2022-06-09 17:57:42,170] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:57:42,171] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:57:42,187] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.027 seconds
+[2022-06-09 17:58:19,955] {processor.py:163} INFO - Started process (PID=18192) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:58:19,956] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:58:19,957] {logging_mixin.py:109} INFO - [2022-06-09 17:58:19,957] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:58:19,961] {logging_mixin.py:109} INFO - [2022-06-09 17:58:19,960] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:58:19,961] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:58:19,973] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.020 seconds
+[2022-06-09 17:58:55,830] {processor.py:163} INFO - Started process (PID=18266) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:58:55,833] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:58:55,834] {logging_mixin.py:109} INFO - [2022-06-09 17:58:55,833] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:58:55,842] {logging_mixin.py:109} INFO - [2022-06-09 17:58:55,842] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:58:55,843] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:58:55,859] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.032 seconds
+[2022-06-09 17:59:31,906] {processor.py:163} INFO - Started process (PID=18488) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:59:31,908] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 17:59:31,908] {logging_mixin.py:109} INFO - [2022-06-09 17:59:31,908] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:59:31,914] {logging_mixin.py:109} INFO - [2022-06-09 17:59:31,913] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 17:59:31,915] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 17:59:31,934] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.030 seconds
+[2022-06-09 18:00:09,081] {processor.py:163} INFO - Started process (PID=20434) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:00:09,083] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 18:00:09,084] {logging_mixin.py:109} INFO - [2022-06-09 18:00:09,084] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:00:09,089] {logging_mixin.py:109} INFO - [2022-06-09 18:00:09,089] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 18:00:09,089] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:00:09,106] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.027 seconds
+[2022-06-09 18:00:45,060] {processor.py:163} INFO - Started process (PID=22726) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:00:45,062] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 18:00:45,063] {logging_mixin.py:109} INFO - [2022-06-09 18:00:45,063] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:00:45,067] {logging_mixin.py:109} INFO - [2022-06-09 18:00:45,067] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 18:00:45,068] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:00:45,084] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.026 seconds
+[2022-06-09 18:01:21,851] {processor.py:163} INFO - Started process (PID=22864) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:01:21,854] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 18:01:21,855] {logging_mixin.py:109} INFO - [2022-06-09 18:01:21,855] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:01:21,862] {logging_mixin.py:109} INFO - [2022-06-09 18:01:21,860] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 18:01:21,862] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:01:21,881] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.034 seconds
+[2022-06-09 18:01:58,360] {processor.py:163} INFO - Started process (PID=23158) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:01:58,362] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 18:01:58,363] {logging_mixin.py:109} INFO - [2022-06-09 18:01:58,363] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:01:58,368] {logging_mixin.py:109} INFO - [2022-06-09 18:01:58,368] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 18:01:58,368] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:01:58,383] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.025 seconds
+[2022-06-09 18:02:36,053] {processor.py:163} INFO - Started process (PID=5015) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:02:36,055] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 18:02:36,056] {logging_mixin.py:109} INFO - [2022-06-09 18:02:36,055] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:02:36,062] {logging_mixin.py:109} INFO - [2022-06-09 18:02:36,061] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 18:02:36,062] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:02:36,077] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.026 seconds
+[2022-06-09 18:03:14,903] {processor.py:163} INFO - Started process (PID=5104) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:03:14,905] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 18:03:14,906] {logging_mixin.py:109} INFO - [2022-06-09 18:03:14,906] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:03:14,911] {logging_mixin.py:109} INFO - [2022-06-09 18:03:14,910] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 18:03:14,911] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:03:14,927] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.027 seconds
+[2022-06-09 18:03:51,776] {processor.py:163} INFO - Started process (PID=5203) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:03:51,777] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 18:03:51,778] {logging_mixin.py:109} INFO - [2022-06-09 18:03:51,778] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:03:51,783] {logging_mixin.py:109} INFO - [2022-06-09 18:03:51,782] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 18:03:51,783] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:03:51,799] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.025 seconds
+[2022-06-09 18:04:29,407] {processor.py:163} INFO - Started process (PID=5298) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:04:29,409] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 18:04:29,409] {logging_mixin.py:109} INFO - [2022-06-09 18:04:29,409] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:04:29,414] {logging_mixin.py:109} INFO - [2022-06-09 18:04:29,413] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 18:04:29,414] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:04:29,429] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.024 seconds
+[2022-06-09 18:05:08,975] {processor.py:163} INFO - Started process (PID=5358) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:05:08,977] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 18:05:08,977] {logging_mixin.py:109} INFO - [2022-06-09 18:05:08,977] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:05:08,984] {logging_mixin.py:109} INFO - [2022-06-09 18:05:08,983] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 18:05:08,984] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:05:09,003] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.031 seconds
+[2022-06-09 18:05:51,309] {processor.py:163} INFO - Started process (PID=9506) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:05:51,312] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 18:05:51,313] {logging_mixin.py:109} INFO - [2022-06-09 18:05:51,313] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:05:51,320] {logging_mixin.py:109} INFO - [2022-06-09 18:05:51,319] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 18:05:51,321] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:05:51,343] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.038 seconds
+[2022-06-09 18:06:26,126] {processor.py:163} INFO - Started process (PID=9547) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:06:26,127] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 18:06:26,128] {logging_mixin.py:109} INFO - [2022-06-09 18:06:26,128] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:06:26,134] {logging_mixin.py:109} INFO - [2022-06-09 18:06:26,133] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 18:06:26,134] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:06:26,146] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.022 seconds
+[2022-06-09 18:07:03,032] {processor.py:163} INFO - Started process (PID=11072) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:07:03,034] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 18:07:03,035] {logging_mixin.py:109} INFO - [2022-06-09 18:07:03,035] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:07:03,039] {logging_mixin.py:109} INFO - [2022-06-09 18:07:03,038] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 18:07:03,039] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:07:03,056] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.027 seconds
+[2022-06-09 18:07:39,049] {processor.py:163} INFO - Started process (PID=11289) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:07:39,051] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 18:07:39,052] {logging_mixin.py:109} INFO - [2022-06-09 18:07:39,052] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:07:39,056] {logging_mixin.py:109} INFO - [2022-06-09 18:07:39,056] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 18:07:39,057] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:07:39,072] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.026 seconds
+[2022-06-09 18:08:19,528] {processor.py:163} INFO - Started process (PID=11358) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:08:19,531] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 18:08:19,532] {logging_mixin.py:109} INFO - [2022-06-09 18:08:19,532] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:08:19,537] {logging_mixin.py:109} INFO - [2022-06-09 18:08:19,536] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 18:08:19,538] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:08:19,555] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.030 seconds
+[2022-06-09 18:08:57,857] {processor.py:163} INFO - Started process (PID=12890) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:08:57,860] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 18:08:57,860] {logging_mixin.py:109} INFO - [2022-06-09 18:08:57,860] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:08:57,865] {logging_mixin.py:109} INFO - [2022-06-09 18:08:57,864] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 18:08:57,865] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:08:57,880] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.025 seconds
+[2022-06-09 18:09:35,482] {processor.py:163} INFO - Started process (PID=12938) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:09:35,484] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 18:09:35,484] {logging_mixin.py:109} INFO - [2022-06-09 18:09:35,484] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:09:35,490] {logging_mixin.py:109} INFO - [2022-06-09 18:09:35,488] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 18:09:35,490] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:09:35,505] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.026 seconds
+[2022-06-09 18:10:17,938] {processor.py:163} INFO - Started process (PID=14464) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:10:17,941] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 18:10:17,942] {logging_mixin.py:109} INFO - [2022-06-09 18:10:17,942] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:10:17,946] {logging_mixin.py:109} INFO - [2022-06-09 18:10:17,945] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 18:10:17,946] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:10:17,964] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.028 seconds
+[2022-06-09 18:10:59,552] {processor.py:163} INFO - Started process (PID=14505) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:10:59,555] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 18:10:59,555] {logging_mixin.py:109} INFO - [2022-06-09 18:10:59,555] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:10:59,561] {logging_mixin.py:109} INFO - [2022-06-09 18:10:59,560] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 18:10:59,562] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:10:59,581] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.032 seconds
+[2022-06-09 18:11:37,939] {processor.py:163} INFO - Started process (PID=14543) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:11:37,941] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 18:11:37,942] {logging_mixin.py:109} INFO - [2022-06-09 18:11:37,942] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:11:37,946] {logging_mixin.py:109} INFO - [2022-06-09 18:11:37,946] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 18:11:37,946] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:11:37,962] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.025 seconds
+[2022-06-09 18:12:18,575] {processor.py:163} INFO - Started process (PID=14584) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:12:18,577] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 18:12:18,578] {logging_mixin.py:109} INFO - [2022-06-09 18:12:18,578] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:12:18,585] {logging_mixin.py:109} INFO - [2022-06-09 18:12:18,584] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 18:12:18,586] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:12:18,604] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.031 seconds
+[2022-06-09 18:12:58,291] {processor.py:163} INFO - Started process (PID=16155) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:12:58,294] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-09 18:12:58,295] {logging_mixin.py:109} INFO - [2022-06-09 18:12:58,295] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:12:58,299] {logging_mixin.py:109} INFO - [2022-06-09 18:12:58,298] {dagbag.py:334} ERROR - Failed to import: /home/leizo/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/leizo/airflow/dags/my_first_dag.py", line 7, in <module>
+    from Lib.spotify_fetcher import fetch_data_from_spotify
+ModuleNotFoundError: No module named 'Lib'
+[2022-06-09 18:12:58,299] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-09 18:12:58,318] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 0.029 seconds

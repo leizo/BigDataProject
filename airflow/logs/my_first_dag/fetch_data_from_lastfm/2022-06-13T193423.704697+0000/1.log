@@ -1,0 +1,24 @@
+[2022-06-13 21:34:25,724] {taskinstance.py:1043} INFO - Dependencies all met for <TaskInstance: my_first_dag.fetch_data_from_lastfm manual__2022-06-13T19:34:23.704697+00:00 [queued]>
+[2022-06-13 21:34:25,732] {taskinstance.py:1043} INFO - Dependencies all met for <TaskInstance: my_first_dag.fetch_data_from_lastfm manual__2022-06-13T19:34:23.704697+00:00 [queued]>
+[2022-06-13 21:34:25,733] {taskinstance.py:1249} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-13 21:34:25,733] {taskinstance.py:1250} INFO - Starting attempt 1 of 2
+[2022-06-13 21:34:25,733] {taskinstance.py:1251} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-13 21:34:25,747] {taskinstance.py:1270} INFO - Executing <Task(PythonOperator): fetch_data_from_lastfm> on 2022-06-13 19:34:23.704697+00:00
+[2022-06-13 21:34:25,749] {standard_task_runner.py:52} INFO - Started process 1295 to run task
+[2022-06-13 21:34:25,754] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'my_first_dag', 'fetch_data_from_lastfm', 'manual__2022-06-13T19:34:23.704697+00:00', '--job-id', '15', '--raw', '--subdir', 'DAGS_FOLDER/my_first_dag.py', '--cfg-path', '/tmp/tmpl8k9tkhb', '--error-file', '/tmp/tmp6t4ne85k']
+[2022-06-13 21:34:25,755] {standard_task_runner.py:80} INFO - Job 15: Subtask fetch_data_from_lastfm
+[2022-06-13 21:34:25,810] {logging_mixin.py:109} INFO - Running <TaskInstance: my_first_dag.fetch_data_from_lastfm manual__2022-06-13T19:34:23.704697+00:00 [running]> on host LAPTOP-M1F9EL62.localdomain
+[2022-06-13 21:34:25,858] {taskinstance.py:1446} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=my_first_dag
+AIRFLOW_CTX_TASK_ID=fetch_data_from_lastfm
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-13T19:34:23.704697+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-06-13T19:34:23.704697+00:00
+[2022-06-13 21:34:26,222] {logging_mixin.py:109} INFO - Writing here:  /home/leizo/datalake/raw/lastfm/TopArtistinRock/20220613/
+[2022-06-13 21:34:26,223] {python.py:175} INFO - Done. Returned value was: None
+[2022-06-13 21:34:26,231] {taskinstance.py:1278} INFO - Marking task as SUCCESS. dag_id=my_first_dag, task_id=fetch_data_from_lastfm, execution_date=20220613T193423, start_date=20220613T193425, end_date=20220613T193426
+[2022-06-13 21:34:26,248] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-06-13 21:34:26,274] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

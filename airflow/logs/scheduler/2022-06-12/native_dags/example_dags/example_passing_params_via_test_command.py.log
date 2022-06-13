@@ -1,0 +1,476 @@
+[2022-06-12 21:59:27,221] {processor.py:163} INFO - Started process (PID=104) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 21:59:27,224] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 21:59:27,225] {logging_mixin.py:109} INFO - [2022-06-12 21:59:27,225] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 21:59:27,328] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 21:59:27,381] {logging_mixin.py:109} INFO - [2022-06-12 21:59:27,380] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 21:59:27,441] {logging_mixin.py:109} INFO - [2022-06-12 21:59:27,441] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T19:58:00+00:00
+[2022-06-12 21:59:27,478] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.262 seconds
+[2022-06-12 22:00:14,389] {processor.py:163} INFO - Started process (PID=172) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:00:14,391] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:00:14,392] {logging_mixin.py:109} INFO - [2022-06-12 22:00:14,392] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:00:14,446] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:00:14,472] {logging_mixin.py:109} INFO - [2022-06-12 22:00:14,472] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:00:14,515] {logging_mixin.py:109} INFO - [2022-06-12 22:00:14,515] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T19:59:00+00:00
+[2022-06-12 22:00:14,537] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.155 seconds
+[2022-06-12 22:00:47,916] {processor.py:163} INFO - Started process (PID=197) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:00:47,921] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:00:47,922] {logging_mixin.py:109} INFO - [2022-06-12 22:00:47,922] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:00:48,004] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:00:48,038] {logging_mixin.py:109} INFO - [2022-06-12 22:00:48,036] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:00:48,107] {logging_mixin.py:109} INFO - [2022-06-12 22:00:48,107] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T19:59:00+00:00
+[2022-06-12 22:00:48,137] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.228 seconds
+[2022-06-12 22:01:24,470] {processor.py:163} INFO - Started process (PID=221) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:01:24,476] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:01:24,481] {logging_mixin.py:109} INFO - [2022-06-12 22:01:24,479] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:01:24,619] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:01:24,687] {logging_mixin.py:109} INFO - [2022-06-12 22:01:24,686] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:01:24,830] {logging_mixin.py:109} INFO - [2022-06-12 22:01:24,826] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:00:00+00:00
+[2022-06-12 22:01:24,868] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.407 seconds
+[2022-06-12 22:02:00,963] {processor.py:163} INFO - Started process (PID=249) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:02:00,968] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:02:00,970] {logging_mixin.py:109} INFO - [2022-06-12 22:02:00,970] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:02:01,083] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:02:01,129] {logging_mixin.py:109} INFO - [2022-06-12 22:02:01,129] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:02:01,227] {logging_mixin.py:109} INFO - [2022-06-12 22:02:01,226] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:01:00+00:00
+[2022-06-12 22:02:01,259] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.311 seconds
+[2022-06-12 22:02:38,547] {processor.py:163} INFO - Started process (PID=279) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:02:38,549] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:02:38,550] {logging_mixin.py:109} INFO - [2022-06-12 22:02:38,550] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:02:38,588] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:02:38,606] {logging_mixin.py:109} INFO - [2022-06-12 22:02:38,606] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:02:38,631] {logging_mixin.py:109} INFO - [2022-06-12 22:02:38,631] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:01:00+00:00
+[2022-06-12 22:02:38,650] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.105 seconds
+[2022-06-12 22:03:11,477] {processor.py:163} INFO - Started process (PID=307) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:03:11,479] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:03:11,479] {logging_mixin.py:109} INFO - [2022-06-12 22:03:11,479] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:03:11,510] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:03:11,531] {logging_mixin.py:109} INFO - [2022-06-12 22:03:11,531] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:03:11,554] {logging_mixin.py:109} INFO - [2022-06-12 22:03:11,554] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:02:00+00:00
+[2022-06-12 22:03:11,567] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.093 seconds
+[2022-06-12 22:03:45,908] {processor.py:163} INFO - Started process (PID=335) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:03:45,911] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:03:45,913] {logging_mixin.py:109} INFO - [2022-06-12 22:03:45,913] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:03:45,992] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:03:46,033] {logging_mixin.py:109} INFO - [2022-06-12 22:03:46,033] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:03:46,104] {logging_mixin.py:109} INFO - [2022-06-12 22:03:46,104] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:02:00+00:00
+[2022-06-12 22:03:46,141] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.246 seconds
+[2022-06-12 22:04:33,238] {processor.py:163} INFO - Started process (PID=368) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:04:33,242] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:04:33,245] {logging_mixin.py:109} INFO - [2022-06-12 22:04:33,245] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:04:33,364] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:04:33,434] {logging_mixin.py:109} INFO - [2022-06-12 22:04:33,434] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:04:33,526] {logging_mixin.py:109} INFO - [2022-06-12 22:04:33,526] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:03:00+00:00
+[2022-06-12 22:04:33,573] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.341 seconds
+[2022-06-12 22:05:17,401] {processor.py:163} INFO - Started process (PID=398) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:05:17,404] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:05:17,405] {logging_mixin.py:109} INFO - [2022-06-12 22:05:17,405] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:05:17,583] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:05:17,660] {logging_mixin.py:109} INFO - [2022-06-12 22:05:17,659] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:05:17,791] {logging_mixin.py:109} INFO - [2022-06-12 22:05:17,782] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:04:00+00:00
+[2022-06-12 22:05:17,845] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.450 seconds
+[2022-06-12 22:05:52,292] {processor.py:163} INFO - Started process (PID=460) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:05:52,296] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:05:52,298] {logging_mixin.py:109} INFO - [2022-06-12 22:05:52,297] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:05:52,365] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:05:52,407] {logging_mixin.py:109} INFO - [2022-06-12 22:05:52,406] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:05:52,477] {logging_mixin.py:109} INFO - [2022-06-12 22:05:52,476] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:04:00+00:00
+[2022-06-12 22:05:52,503] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.220 seconds
+[2022-06-12 22:06:26,898] {processor.py:163} INFO - Started process (PID=612) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:06:26,901] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:06:26,903] {logging_mixin.py:109} INFO - [2022-06-12 22:06:26,902] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:06:27,045] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:06:27,123] {logging_mixin.py:109} INFO - [2022-06-12 22:06:27,123] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:06:27,222] {logging_mixin.py:109} INFO - [2022-06-12 22:06:27,222] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:05:00+00:00
+[2022-06-12 22:06:27,309] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.429 seconds
+[2022-06-12 22:06:58,724] {processor.py:163} INFO - Started process (PID=638) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:06:58,726] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:06:58,726] {logging_mixin.py:109} INFO - [2022-06-12 22:06:58,726] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:06:58,759] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:06:58,777] {logging_mixin.py:109} INFO - [2022-06-12 22:06:58,777] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:06:58,810] {logging_mixin.py:109} INFO - [2022-06-12 22:06:58,810] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:05:00+00:00
+[2022-06-12 22:06:58,825] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.104 seconds
+[2022-06-12 22:07:36,746] {processor.py:163} INFO - Started process (PID=672) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:07:36,748] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:07:36,749] {logging_mixin.py:109} INFO - [2022-06-12 22:07:36,749] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:07:36,786] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:07:36,813] {logging_mixin.py:109} INFO - [2022-06-12 22:07:36,813] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:07:36,836] {logging_mixin.py:109} INFO - [2022-06-12 22:07:36,835] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:06:00+00:00
+[2022-06-12 22:07:36,850] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.110 seconds
+[2022-06-12 22:08:10,195] {processor.py:163} INFO - Started process (PID=705) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:08:10,199] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:08:10,199] {logging_mixin.py:109} INFO - [2022-06-12 22:08:10,199] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:08:10,223] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:08:10,237] {logging_mixin.py:109} INFO - [2022-06-12 22:08:10,237] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:08:10,258] {logging_mixin.py:109} INFO - [2022-06-12 22:08:10,258] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:07:00+00:00
+[2022-06-12 22:08:10,273] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.082 seconds
+[2022-06-12 22:08:40,874] {processor.py:163} INFO - Started process (PID=734) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:08:40,876] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:08:40,876] {logging_mixin.py:109} INFO - [2022-06-12 22:08:40,876] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:08:40,905] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:08:40,920] {logging_mixin.py:109} INFO - [2022-06-12 22:08:40,920] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:08:40,949] {logging_mixin.py:109} INFO - [2022-06-12 22:08:40,949] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:07:00+00:00
+[2022-06-12 22:08:40,971] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.100 seconds
+[2022-06-12 22:09:16,042] {processor.py:163} INFO - Started process (PID=766) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:09:16,043] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:09:16,044] {logging_mixin.py:109} INFO - [2022-06-12 22:09:16,044] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:09:16,073] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:09:16,096] {logging_mixin.py:109} INFO - [2022-06-12 22:09:16,095] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:09:16,119] {logging_mixin.py:109} INFO - [2022-06-12 22:09:16,119] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:08:00+00:00
+[2022-06-12 22:09:16,136] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.098 seconds
+[2022-06-12 22:09:48,588] {processor.py:163} INFO - Started process (PID=795) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:09:48,589] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:09:48,590] {logging_mixin.py:109} INFO - [2022-06-12 22:09:48,589] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:09:48,622] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:09:48,641] {logging_mixin.py:109} INFO - [2022-06-12 22:09:48,641] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:09:48,665] {logging_mixin.py:109} INFO - [2022-06-12 22:09:48,665] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:08:00+00:00
+[2022-06-12 22:09:48,680] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.095 seconds
+[2022-06-12 22:10:26,554] {processor.py:163} INFO - Started process (PID=828) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:10:26,558] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:10:26,560] {logging_mixin.py:109} INFO - [2022-06-12 22:10:26,559] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:10:26,655] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:10:26,683] {logging_mixin.py:109} INFO - [2022-06-12 22:10:26,683] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:10:26,755] {logging_mixin.py:109} INFO - [2022-06-12 22:10:26,754] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:09:00+00:00
+[2022-06-12 22:10:26,792] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.251 seconds
+[2022-06-12 22:11:06,461] {processor.py:163} INFO - Started process (PID=858) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:11:06,464] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:11:06,465] {logging_mixin.py:109} INFO - [2022-06-12 22:11:06,465] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:11:06,570] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:11:06,617] {logging_mixin.py:109} INFO - [2022-06-12 22:11:06,617] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:11:06,702] {logging_mixin.py:109} INFO - [2022-06-12 22:11:06,701] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:10:00+00:00
+[2022-06-12 22:11:06,739] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.291 seconds
+[2022-06-12 22:11:42,595] {processor.py:163} INFO - Started process (PID=885) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:11:42,599] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:11:42,600] {logging_mixin.py:109} INFO - [2022-06-12 22:11:42,600] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:11:42,662] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:11:42,686] {logging_mixin.py:109} INFO - [2022-06-12 22:11:42,686] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:11:42,722] {logging_mixin.py:109} INFO - [2022-06-12 22:11:42,722] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:10:00+00:00
+[2022-06-12 22:11:42,741] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.152 seconds
+[2022-06-12 22:12:23,681] {processor.py:163} INFO - Started process (PID=917) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:12:23,683] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:12:23,684] {logging_mixin.py:109} INFO - [2022-06-12 22:12:23,684] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:12:23,721] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:12:23,743] {logging_mixin.py:109} INFO - [2022-06-12 22:12:23,742] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:12:23,786] {logging_mixin.py:109} INFO - [2022-06-12 22:12:23,785] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:11:00+00:00
+[2022-06-12 22:12:23,805] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.127 seconds
+[2022-06-12 22:12:56,913] {processor.py:163} INFO - Started process (PID=946) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:12:56,915] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:12:56,916] {logging_mixin.py:109} INFO - [2022-06-12 22:12:56,916] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:12:56,950] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:12:56,968] {logging_mixin.py:109} INFO - [2022-06-12 22:12:56,968] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:12:57,004] {logging_mixin.py:109} INFO - [2022-06-12 22:12:57,003] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:11:00+00:00
+[2022-06-12 22:12:57,020] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.111 seconds
+[2022-06-12 22:13:30,709] {processor.py:163} INFO - Started process (PID=976) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:13:30,711] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:13:30,712] {logging_mixin.py:109} INFO - [2022-06-12 22:13:30,711] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:13:30,748] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:13:30,768] {logging_mixin.py:109} INFO - [2022-06-12 22:13:30,768] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:13:30,803] {logging_mixin.py:109} INFO - [2022-06-12 22:13:30,802] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:12:00+00:00
+[2022-06-12 22:13:30,819] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.114 seconds
+[2022-06-12 22:14:00,983] {processor.py:163} INFO - Started process (PID=1004) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:14:00,984] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:14:00,986] {logging_mixin.py:109} INFO - [2022-06-12 22:14:00,986] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:14:01,024] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:14:01,044] {logging_mixin.py:109} INFO - [2022-06-12 22:14:01,044] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:14:01,083] {logging_mixin.py:109} INFO - [2022-06-12 22:14:01,083] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:13:00+00:00
+[2022-06-12 22:14:01,102] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.124 seconds
+[2022-06-12 22:14:37,601] {processor.py:163} INFO - Started process (PID=1038) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:14:37,602] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:14:37,602] {logging_mixin.py:109} INFO - [2022-06-12 22:14:37,602] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:14:37,621] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:14:37,633] {logging_mixin.py:109} INFO - [2022-06-12 22:14:37,633] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:14:37,656] {logging_mixin.py:109} INFO - [2022-06-12 22:14:37,656] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:13:00+00:00
+[2022-06-12 22:14:37,671] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.073 seconds
+[2022-06-12 22:15:12,374] {processor.py:163} INFO - Started process (PID=1072) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:15:12,375] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:15:12,376] {logging_mixin.py:109} INFO - [2022-06-12 22:15:12,376] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:15:12,400] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:15:12,411] {logging_mixin.py:109} INFO - [2022-06-12 22:15:12,410] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:15:12,425] {logging_mixin.py:109} INFO - [2022-06-12 22:15:12,425] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:14:00+00:00
+[2022-06-12 22:15:12,438] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.067 seconds
+[2022-06-12 22:15:46,376] {processor.py:163} INFO - Started process (PID=1105) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:15:46,378] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:15:46,378] {logging_mixin.py:109} INFO - [2022-06-12 22:15:46,378] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:15:46,400] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:15:46,411] {logging_mixin.py:109} INFO - [2022-06-12 22:15:46,411] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:15:46,427] {logging_mixin.py:109} INFO - [2022-06-12 22:15:46,427] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:14:00+00:00
+[2022-06-12 22:15:46,438] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.064 seconds
+[2022-06-12 22:16:20,413] {processor.py:163} INFO - Started process (PID=1138) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:16:20,415] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:16:20,415] {logging_mixin.py:109} INFO - [2022-06-12 22:16:20,415] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:16:20,437] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:16:20,448] {logging_mixin.py:109} INFO - [2022-06-12 22:16:20,448] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:16:20,463] {logging_mixin.py:109} INFO - [2022-06-12 22:16:20,462] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:15:00+00:00
+[2022-06-12 22:16:20,475] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.064 seconds
+[2022-06-12 22:16:55,260] {processor.py:163} INFO - Started process (PID=1171) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:16:55,262] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:16:55,262] {logging_mixin.py:109} INFO - [2022-06-12 22:16:55,262] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:16:55,278] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:16:55,288] {logging_mixin.py:109} INFO - [2022-06-12 22:16:55,288] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:16:55,304] {logging_mixin.py:109} INFO - [2022-06-12 22:16:55,304] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:15:00+00:00
+[2022-06-12 22:16:55,316] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.057 seconds
+[2022-06-12 22:17:27,024] {processor.py:163} INFO - Started process (PID=1202) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:17:27,025] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:17:27,025] {logging_mixin.py:109} INFO - [2022-06-12 22:17:27,025] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:17:27,048] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:17:27,057] {logging_mixin.py:109} INFO - [2022-06-12 22:17:27,057] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:17:27,072] {logging_mixin.py:109} INFO - [2022-06-12 22:17:27,072] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:16:00+00:00
+[2022-06-12 22:17:27,083] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.061 seconds
+[2022-06-12 22:17:58,710] {processor.py:163} INFO - Started process (PID=1233) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:17:58,711] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:17:58,712] {logging_mixin.py:109} INFO - [2022-06-12 22:17:58,712] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:17:58,730] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:17:58,739] {logging_mixin.py:109} INFO - [2022-06-12 22:17:58,739] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:17:58,752] {logging_mixin.py:109} INFO - [2022-06-12 22:17:58,752] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:16:00+00:00
+[2022-06-12 22:17:58,765] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.057 seconds
+[2022-06-12 22:18:29,634] {processor.py:163} INFO - Started process (PID=1263) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:18:29,635] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:18:29,635] {logging_mixin.py:109} INFO - [2022-06-12 22:18:29,635] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:18:29,652] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:18:29,661] {logging_mixin.py:109} INFO - [2022-06-12 22:18:29,661] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:18:29,678] {logging_mixin.py:109} INFO - [2022-06-12 22:18:29,678] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:17:00+00:00
+[2022-06-12 22:18:29,693] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.061 seconds
+[2022-06-12 22:19:02,379] {processor.py:163} INFO - Started process (PID=1296) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:19:02,380] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:19:02,380] {logging_mixin.py:109} INFO - [2022-06-12 22:19:02,380] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:19:02,398] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:19:02,411] {logging_mixin.py:109} INFO - [2022-06-12 22:19:02,411] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:19:02,431] {logging_mixin.py:109} INFO - [2022-06-12 22:19:02,431] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:18:00+00:00
+[2022-06-12 22:19:02,441] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.064 seconds
+[2022-06-12 22:19:33,687] {processor.py:163} INFO - Started process (PID=1327) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:19:33,687] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:19:33,688] {logging_mixin.py:109} INFO - [2022-06-12 22:19:33,688] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:19:33,707] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:19:33,717] {logging_mixin.py:109} INFO - [2022-06-12 22:19:33,716] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:19:33,729] {logging_mixin.py:109} INFO - [2022-06-12 22:19:33,728] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:18:00+00:00
+[2022-06-12 22:19:33,739] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.055 seconds
+[2022-06-12 22:20:08,594] {processor.py:163} INFO - Started process (PID=1361) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:20:08,595] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:20:08,596] {logging_mixin.py:109} INFO - [2022-06-12 22:20:08,596] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:20:08,615] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:20:08,628] {logging_mixin.py:109} INFO - [2022-06-12 22:20:08,628] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:20:08,646] {logging_mixin.py:109} INFO - [2022-06-12 22:20:08,646] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:19:00+00:00
+[2022-06-12 22:20:08,659] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.067 seconds
+[2022-06-12 22:20:38,876] {processor.py:163} INFO - Started process (PID=1391) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:20:38,877] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:20:38,877] {logging_mixin.py:109} INFO - [2022-06-12 22:20:38,877] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:20:38,897] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:20:38,921] {logging_mixin.py:109} INFO - [2022-06-12 22:20:38,921] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:20:38,944] {logging_mixin.py:109} INFO - [2022-06-12 22:20:38,944] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:19:00+00:00
+[2022-06-12 22:20:38,958] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.086 seconds
+[2022-06-12 22:21:13,800] {processor.py:163} INFO - Started process (PID=1424) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:21:13,802] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:21:13,802] {logging_mixin.py:109} INFO - [2022-06-12 22:21:13,802] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:21:13,819] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:21:13,831] {logging_mixin.py:109} INFO - [2022-06-12 22:21:13,831] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:21:13,845] {logging_mixin.py:109} INFO - [2022-06-12 22:21:13,845] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:20:00+00:00
+[2022-06-12 22:21:13,856] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.058 seconds
+[2022-06-12 22:21:46,539] {processor.py:163} INFO - Started process (PID=1457) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:21:46,540] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:21:46,540] {logging_mixin.py:109} INFO - [2022-06-12 22:21:46,540] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:21:46,561] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:21:46,572] {logging_mixin.py:109} INFO - [2022-06-12 22:21:46,571] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:21:46,586] {logging_mixin.py:109} INFO - [2022-06-12 22:21:46,585] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:20:00+00:00
+[2022-06-12 22:21:46,597] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.060 seconds
+[2022-06-12 22:22:19,091] {processor.py:163} INFO - Started process (PID=1489) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:22:19,092] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:22:19,093] {logging_mixin.py:109} INFO - [2022-06-12 22:22:19,093] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:22:19,111] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:22:19,121] {logging_mixin.py:109} INFO - [2022-06-12 22:22:19,121] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:22:19,136] {logging_mixin.py:109} INFO - [2022-06-12 22:22:19,136] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:21:00+00:00
+[2022-06-12 22:22:19,150] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.062 seconds
+[2022-06-12 22:22:50,089] {processor.py:163} INFO - Started process (PID=1519) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:22:50,090] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:22:50,090] {logging_mixin.py:109} INFO - [2022-06-12 22:22:50,090] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:22:50,109] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:22:50,119] {logging_mixin.py:109} INFO - [2022-06-12 22:22:50,119] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:22:50,137] {logging_mixin.py:109} INFO - [2022-06-12 22:22:50,137] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:21:00+00:00
+[2022-06-12 22:22:50,150] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.063 seconds
+[2022-06-12 22:23:21,309] {processor.py:163} INFO - Started process (PID=1549) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:23:21,312] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:23:21,313] {logging_mixin.py:109} INFO - [2022-06-12 22:23:21,313] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:23:21,349] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:23:21,369] {logging_mixin.py:109} INFO - [2022-06-12 22:23:21,369] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:23:21,395] {logging_mixin.py:109} INFO - [2022-06-12 22:23:21,395] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:22:00+00:00
+[2022-06-12 22:23:21,406] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.103 seconds
+[2022-06-12 22:24:00,510] {processor.py:163} INFO - Started process (PID=1648) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:24:00,512] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:24:00,513] {logging_mixin.py:109} INFO - [2022-06-12 22:24:00,513] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:24:00,542] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:24:00,560] {logging_mixin.py:109} INFO - [2022-06-12 22:24:00,559] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:24:00,578] {logging_mixin.py:109} INFO - [2022-06-12 22:24:00,578] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:23:00+00:00
+[2022-06-12 22:24:00,593] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.086 seconds
+[2022-06-12 22:24:33,398] {processor.py:163} INFO - Started process (PID=1680) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:24:33,400] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:24:33,401] {logging_mixin.py:109} INFO - [2022-06-12 22:24:33,401] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:24:33,434] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:24:33,445] {logging_mixin.py:109} INFO - [2022-06-12 22:24:33,445] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:24:33,460] {logging_mixin.py:109} INFO - [2022-06-12 22:24:33,460] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:23:00+00:00
+[2022-06-12 22:24:33,473] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.080 seconds
+[2022-06-12 22:25:12,188] {processor.py:163} INFO - Started process (PID=1754) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:25:12,190] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:25:12,191] {logging_mixin.py:109} INFO - [2022-06-12 22:25:12,190] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:25:12,236] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:25:12,262] {logging_mixin.py:109} INFO - [2022-06-12 22:25:12,262] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:25:12,302] {logging_mixin.py:109} INFO - [2022-06-12 22:25:12,302] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:24:00+00:00
+[2022-06-12 22:25:12,325] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.141 seconds
+[2022-06-12 22:25:50,419] {processor.py:163} INFO - Started process (PID=1790) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:25:50,422] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:25:50,424] {logging_mixin.py:109} INFO - [2022-06-12 22:25:50,423] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:25:50,490] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:25:50,523] {logging_mixin.py:109} INFO - [2022-06-12 22:25:50,523] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:25:50,554] {logging_mixin.py:109} INFO - [2022-06-12 22:25:50,554] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:24:00+00:00
+[2022-06-12 22:25:50,574] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.162 seconds
+[2022-06-12 22:26:27,684] {processor.py:163} INFO - Started process (PID=1822) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:26:27,689] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:26:27,691] {logging_mixin.py:109} INFO - [2022-06-12 22:26:27,690] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:26:27,755] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:26:27,784] {logging_mixin.py:109} INFO - [2022-06-12 22:26:27,784] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:26:27,813] {logging_mixin.py:109} INFO - [2022-06-12 22:26:27,812] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:25:00+00:00
+[2022-06-12 22:26:27,832] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.153 seconds
+[2022-06-12 22:27:11,846] {processor.py:163} INFO - Started process (PID=1877) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:27:11,848] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:27:11,849] {logging_mixin.py:109} INFO - [2022-06-12 22:27:11,849] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:27:11,883] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:27:11,899] {logging_mixin.py:109} INFO - [2022-06-12 22:27:11,899] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:27:11,917] {logging_mixin.py:109} INFO - [2022-06-12 22:27:11,917] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:26:00+00:00
+[2022-06-12 22:27:11,940] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.097 seconds
+[2022-06-12 22:28:08,823] {processor.py:163} INFO - Started process (PID=1929) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:28:08,826] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:28:08,827] {logging_mixin.py:109} INFO - [2022-06-12 22:28:08,827] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:28:08,868] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:28:08,886] {logging_mixin.py:109} INFO - [2022-06-12 22:28:08,886] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:28:08,911] {logging_mixin.py:109} INFO - [2022-06-12 22:28:08,911] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:27:00+00:00
+[2022-06-12 22:28:08,933] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.115 seconds
+[2022-06-12 22:28:45,608] {processor.py:163} INFO - Started process (PID=2025) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:28:45,612] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:28:45,613] {logging_mixin.py:109} INFO - [2022-06-12 22:28:45,613] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:28:45,656] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:28:45,669] {logging_mixin.py:109} INFO - [2022-06-12 22:28:45,669] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:28:45,684] {logging_mixin.py:109} INFO - [2022-06-12 22:28:45,684] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:27:00+00:00
+[2022-06-12 22:28:45,701] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.098 seconds
+[2022-06-12 22:29:18,446] {processor.py:163} INFO - Started process (PID=2091) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:29:18,449] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:29:18,450] {logging_mixin.py:109} INFO - [2022-06-12 22:29:18,450] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:29:18,481] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:29:18,507] {logging_mixin.py:109} INFO - [2022-06-12 22:29:18,507] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:29:18,522] {logging_mixin.py:109} INFO - [2022-06-12 22:29:18,522] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:28:00+00:00
+[2022-06-12 22:29:18,538] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.098 seconds
+[2022-06-12 22:29:53,567] {processor.py:163} INFO - Started process (PID=2163) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:29:53,571] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:29:53,572] {logging_mixin.py:109} INFO - [2022-06-12 22:29:53,572] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:29:53,615] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:29:53,635] {logging_mixin.py:109} INFO - [2022-06-12 22:29:53,635] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:29:53,653] {logging_mixin.py:109} INFO - [2022-06-12 22:29:53,653] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:28:00+00:00
+[2022-06-12 22:29:53,665] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.104 seconds
+[2022-06-12 22:30:28,431] {processor.py:163} INFO - Started process (PID=2271) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:30:28,436] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:30:28,437] {logging_mixin.py:109} INFO - [2022-06-12 22:30:28,437] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:30:28,477] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:30:28,493] {logging_mixin.py:109} INFO - [2022-06-12 22:30:28,493] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:30:28,515] {logging_mixin.py:109} INFO - [2022-06-12 22:30:28,515] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:29:00+00:00
+[2022-06-12 22:30:28,533] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.107 seconds
+[2022-06-12 22:31:03,719] {processor.py:163} INFO - Started process (PID=2345) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:31:03,723] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:31:03,725] {logging_mixin.py:109} INFO - [2022-06-12 22:31:03,724] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:31:03,765] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:31:03,780] {logging_mixin.py:109} INFO - [2022-06-12 22:31:03,780] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:31:03,796] {logging_mixin.py:109} INFO - [2022-06-12 22:31:03,796] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:30:00+00:00
+[2022-06-12 22:31:03,809] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.095 seconds
+[2022-06-12 22:31:46,113] {processor.py:163} INFO - Started process (PID=2459) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:31:46,115] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:31:46,116] {logging_mixin.py:109} INFO - [2022-06-12 22:31:46,116] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:31:46,135] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:31:46,143] {logging_mixin.py:109} INFO - [2022-06-12 22:31:46,143] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:31:46,155] {logging_mixin.py:109} INFO - [2022-06-12 22:31:46,155] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:30:00+00:00
+[2022-06-12 22:31:46,167] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.057 seconds
+[2022-06-12 22:32:26,513] {processor.py:163} INFO - Started process (PID=2530) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:32:26,516] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:32:26,517] {logging_mixin.py:109} INFO - [2022-06-12 22:32:26,517] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:32:26,532] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:32:26,541] {logging_mixin.py:109} INFO - [2022-06-12 22:32:26,541] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:32:26,557] {logging_mixin.py:109} INFO - [2022-06-12 22:32:26,557] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:31:00+00:00
+[2022-06-12 22:32:26,576] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.065 seconds
+[2022-06-12 22:33:07,446] {processor.py:163} INFO - Started process (PID=2581) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:33:07,448] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:33:07,449] {logging_mixin.py:109} INFO - [2022-06-12 22:33:07,449] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:33:07,470] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:33:07,483] {logging_mixin.py:109} INFO - [2022-06-12 22:33:07,483] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:33:07,503] {logging_mixin.py:109} INFO - [2022-06-12 22:33:07,503] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:32:00+00:00
+[2022-06-12 22:33:07,518] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.075 seconds
+[2022-06-12 22:33:47,567] {processor.py:163} INFO - Started process (PID=2662) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:33:47,569] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:33:47,569] {logging_mixin.py:109} INFO - [2022-06-12 22:33:47,569] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:33:47,587] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:33:47,601] {logging_mixin.py:109} INFO - [2022-06-12 22:33:47,601] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:33:47,614] {logging_mixin.py:109} INFO - [2022-06-12 22:33:47,614] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:32:00+00:00
+[2022-06-12 22:33:47,627] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.063 seconds
+[2022-06-12 22:34:29,036] {processor.py:163} INFO - Started process (PID=2736) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:34:29,038] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:34:29,039] {logging_mixin.py:109} INFO - [2022-06-12 22:34:29,039] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:34:29,060] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:34:29,072] {logging_mixin.py:109} INFO - [2022-06-12 22:34:29,072] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:34:29,086] {logging_mixin.py:109} INFO - [2022-06-12 22:34:29,085] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:33:00+00:00
+[2022-06-12 22:34:29,099] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.065 seconds
+[2022-06-12 22:35:10,546] {processor.py:163} INFO - Started process (PID=2848) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:35:10,551] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:35:10,552] {logging_mixin.py:109} INFO - [2022-06-12 22:35:10,552] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:35:10,590] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:35:10,606] {logging_mixin.py:109} INFO - [2022-06-12 22:35:10,606] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:35:10,627] {logging_mixin.py:109} INFO - [2022-06-12 22:35:10,627] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:34:00+00:00
+[2022-06-12 22:35:10,642] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.101 seconds
+[2022-06-12 22:35:52,274] {processor.py:163} INFO - Started process (PID=2925) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:35:52,278] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:35:52,279] {logging_mixin.py:109} INFO - [2022-06-12 22:35:52,279] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:35:52,312] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:35:52,337] {logging_mixin.py:109} INFO - [2022-06-12 22:35:52,336] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:35:52,370] {logging_mixin.py:109} INFO - [2022-06-12 22:35:52,370] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:34:00+00:00
+[2022-06-12 22:35:52,381] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.114 seconds
+[2022-06-12 22:36:34,071] {processor.py:163} INFO - Started process (PID=2997) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:36:34,080] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:36:34,081] {logging_mixin.py:109} INFO - [2022-06-12 22:36:34,081] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:36:34,107] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:36:34,126] {logging_mixin.py:109} INFO - [2022-06-12 22:36:34,126] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:36:34,158] {logging_mixin.py:109} INFO - [2022-06-12 22:36:34,158] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:35:00+00:00
+[2022-06-12 22:36:34,174] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.107 seconds
+[2022-06-12 22:37:15,842] {processor.py:163} INFO - Started process (PID=3053) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:37:15,845] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:37:15,845] {logging_mixin.py:109} INFO - [2022-06-12 22:37:15,845] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:37:15,883] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:37:15,896] {logging_mixin.py:109} INFO - [2022-06-12 22:37:15,896] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:37:15,912] {logging_mixin.py:109} INFO - [2022-06-12 22:37:15,911] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:36:00+00:00
+[2022-06-12 22:37:15,926] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.088 seconds
+[2022-06-12 22:37:48,486] {processor.py:163} INFO - Started process (PID=3084) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:37:48,488] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:37:48,489] {logging_mixin.py:109} INFO - [2022-06-12 22:37:48,489] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:37:48,506] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:37:48,518] {logging_mixin.py:109} INFO - [2022-06-12 22:37:48,518] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:37:48,535] {logging_mixin.py:109} INFO - [2022-06-12 22:37:48,534] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:36:00+00:00
+[2022-06-12 22:37:48,548] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.064 seconds
+[2022-06-12 22:38:32,029] {processor.py:163} INFO - Started process (PID=3124) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:38:32,032] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:38:32,033] {logging_mixin.py:109} INFO - [2022-06-12 22:38:32,033] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:38:32,068] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:38:32,090] {logging_mixin.py:109} INFO - [2022-06-12 22:38:32,089] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:38:32,127] {logging_mixin.py:109} INFO - [2022-06-12 22:38:32,127] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:37:00+00:00
+[2022-06-12 22:38:32,153] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.127 seconds
+[2022-06-12 22:39:04,893] {processor.py:163} INFO - Started process (PID=3218) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:39:04,900] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:39:04,902] {logging_mixin.py:109} INFO - [2022-06-12 22:39:04,901] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:39:04,930] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:39:04,942] {logging_mixin.py:109} INFO - [2022-06-12 22:39:04,942] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:39:04,964] {logging_mixin.py:109} INFO - [2022-06-12 22:39:04,964] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:38:00+00:00
+[2022-06-12 22:39:04,981] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.102 seconds
+[2022-06-12 22:39:46,608] {processor.py:163} INFO - Started process (PID=3261) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:39:46,612] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:39:46,614] {logging_mixin.py:109} INFO - [2022-06-12 22:39:46,614] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:39:46,657] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:39:46,669] {logging_mixin.py:109} INFO - [2022-06-12 22:39:46,669] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:39:46,682] {logging_mixin.py:109} INFO - [2022-06-12 22:39:46,682] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:38:00+00:00
+[2022-06-12 22:39:46,697] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.092 seconds
+[2022-06-12 22:40:20,460] {processor.py:163} INFO - Started process (PID=3293) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:40:20,462] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2022-06-12 22:40:20,463] {logging_mixin.py:109} INFO - [2022-06-12 22:40:20,463] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:40:20,503] {processor.py:652} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2022-06-12 22:40:20,535] {logging_mixin.py:109} INFO - [2022-06-12 22:40:20,535] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-12 22:40:20,575] {logging_mixin.py:109} INFO - [2022-06-12 22:40:20,575] {dag.py:2937} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2022-06-12T20:39:00+00:00
+[2022-06-12 22:40:20,594] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.137 seconds
