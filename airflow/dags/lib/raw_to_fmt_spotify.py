@@ -76,5 +76,5 @@ def show_formatted(playlist_name, date) :
     parDF.printSchema()
     parDF.show()
 
-show_formatted("dailyMix1", "20220614")
+#show_formatted("dailyMix1", "20220614")
 #raw_to_fmt_spotify()    

@@ -5,7 +5,10 @@ from airflow.operators.python import PythonOperator
 
 from lib.spotify_fetcher import fetch_data_from_spotify
 from lib.lastfm_fetcher import fetch_data_from_lastfm
-from lib.raw_to_fmt_spotify import convert_raw_to_formatted
+from lib.raw_to_fmt_spotify import raw_to_fmt_spotify
+from lib.raw_to_fmt_lastfm import raw_to_fmt_lastfm
+
+from lib.produce_usage import produce_usage
 
 with DAG(
        'my_first_dag',
@@ -50,21 +53,21 @@ with DAG(
 
    raw_to_formatted_1 = PythonOperator(
        task_id='format_data_from_lastfm',
-       python_callable=launch_task,
+       python_callable=raw_to_fmt_lastfm,
        provide_context=True,
        op_kwargs={'task_number': 'task2'}
    )
 
    raw_to_formatted_2 = PythonOperator(
        task_id='format_data_from_spotify',
-       python_callable=convert_raw_to_formatted,
+       python_callable=raw_to_fmt_spotify,
        provide_context=True,
        op_kwargs={'task_number': 'task4'}
    )
 
    produce_usage = PythonOperator(
        task_id='produce_usage',
-       python_callable=launch_task,
+       python_callable=produce_usage,
        provide_context=True,
        op_kwargs={'task_number': 'task5'}
    )

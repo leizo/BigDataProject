@@ -1,0 +1,971 @@
+[2022-06-14 09:26:33,439] {processor.py:163} INFO - Started process (PID=6439) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:26:33,440] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:26:33,440] {logging_mixin.py:109} INFO - [2022-06-14 09:26:33,440] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:26:45,119] {logging_mixin.py:109} INFO - root
+ |-- album_name: string (nullable = true)
+ |-- album_total_tracks: long (nullable = true)
+ |-- artist: string (nullable = true)
+ |-- duration_ms: long (nullable = true)
+ |-- name: string (nullable = true)
+ |-- popularity: long (nullable = true)
+ |-- release_date: date (nullable = true)
+ |-- track_number: long (nullable = true)
+[2022-06-14 09:26:45,120] {logging_mixin.py:109} INFO - 
+[2022-06-14 09:26:47,682] {logging_mixin.py:109} INFO - +--------------------+------------------+----------------+-----------+--------------------+----------+------------+------------+
+|          album_name|album_total_tracks|          artist|duration_ms|                name|popularity|release_date|track_number|
++--------------------+------------------+----------------+-----------+--------------------+----------+------------+------------+
+|              Nobody|                 1|     Faith Marie|     235913|              Nobody|        45|  2020-05-01|           1|
+|             ANARCHY|                10|    Sizzy Rocket|     152900|          That Bitch|        43|  2020-09-25|           1|
+|          Philosophy|                10|       Jacob Lee|     251234|              Demons|        51|  2019-02-01|           1|
+|Cross My Heart I ...|                 1|       Meg Smith|     168874|Cross My Heart I ...|        54|  2020-08-21|           1|
+|            Revolver|                 1|           bülow|     168927|            Revolver|        53|  2021-06-04|           1|
+|               Dress|                 1| Charlotte Sands|     143500|               Dress|        58|  2020-12-02|           1|
+|    Heart Shaped Box|                 1|   Sophie Powers|     183726|    Heart Shaped Box|        38|  2021-09-24|           1|
+|   Late To The Party|                 1|            Emei|     177176|   Late To The Party|        59|  2021-10-15|           1|
+|            Deep End|                 3|      Hey Violet|     203360|                Sway|        34|  2021-10-22|           2|
+|         No Romeo EP|                 6|           Dylan|     191053|        Someone Else|        58|  2022-04-08|           3|
+|               Sober|                 1|     Cloudy June|     155557|               Sober|        31|  2021-11-26|           1|
+|       u look stupid|                 4|            LØLØ|     148897|       u look stupid|        46|  2021-10-01|           1|
+|                Boba|                 1|            DEZI|     213500|                Boba|        47|  2021-09-24|           1|
+|Cigarettes & Feel...|                 1|       The Haunt|     213204|Cigarettes & Feel...|        57|  2019-09-27|           1|
+|           evil twin|                 7|    Isaac Dunbar|     181853|        fan behavior|        61|  2021-02-19|           2|
+|         Bitter Pill|                 1|      Hey Violet|     183040|         Bitter Pill|        32|  2021-09-10|           1|
+|           10 Things|                 1|     Chloe Lilac|     159640|           10 Things|        35|  2021-09-03|           1|
+|          Bad for Me|                 1|   Meg DeAngelis|     157812|          Bad for Me|        50|  2021-09-17|           1|
+| Love and Other Lies|                 7| Charlotte Sands|     174565|  Want You Like That|        55|  2022-01-21|           1|
+|Girl From The Int...|                 1|Lauren Sanderson|     186500|Girl From The Int...|        44|  2021-07-29|           1|
++--------------------+------------------+----------------+-----------+--------------------+----------+------------+------------+
+only showing top 20 rows
+[2022-06-14 09:26:47,682] {logging_mixin.py:109} INFO - 
+[2022-06-14 09:26:47,683] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:26:47,702] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 14.265 seconds
+[2022-06-14 09:27:24,115] {processor.py:163} INFO - Started process (PID=6649) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:27:24,117] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:27:24,118] {logging_mixin.py:109} INFO - [2022-06-14 09:27:24,118] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:27:29,840] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:27:29,849] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 5.736 seconds
+[2022-06-14 09:27:45,358] {processor.py:163} INFO - Started process (PID=6979) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:27:45,360] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:27:45,362] {logging_mixin.py:109} INFO - [2022-06-14 09:27:45,362] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:27:51,556] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:27:51,564] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 6.215 seconds
+[2022-06-14 09:28:21,497] {processor.py:163} INFO - Started process (PID=7321) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:28:21,499] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:28:21,499] {logging_mixin.py:109} INFO - [2022-06-14 09:28:21,499] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:28:27,398] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:28:27,406] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 5.912 seconds
+[2022-06-14 09:29:00,378] {processor.py:163} INFO - Started process (PID=7821) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:29:00,380] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:29:00,381] {logging_mixin.py:109} INFO - [2022-06-14 09:29:00,380] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:29:08,472] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:29:08,492] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.117 seconds
+[2022-06-14 09:29:48,838] {processor.py:163} INFO - Started process (PID=8327) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:29:48,841] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:29:48,843] {logging_mixin.py:109} INFO - [2022-06-14 09:29:48,843] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:29:57,633] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:29:57,646] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.813 seconds
+[2022-06-14 09:31:52,290] {processor.py:163} INFO - Started process (PID=10009) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:31:52,292] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:31:52,293] {logging_mixin.py:109} INFO - [2022-06-14 09:31:52,293] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:31:57,787] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:31:57,798] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 5.511 seconds
+[2022-06-14 09:32:32,234] {processor.py:163} INFO - Started process (PID=10488) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:32:32,236] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:32:32,237] {logging_mixin.py:109} INFO - [2022-06-14 09:32:32,237] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:32:37,523] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:32:37,529] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 5.298 seconds
+[2022-06-14 09:33:06,899] {processor.py:163} INFO - Started process (PID=10967) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:33:06,901] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:33:06,902] {logging_mixin.py:109} INFO - [2022-06-14 09:33:06,901] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:33:12,556] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:33:12,565] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 5.668 seconds
+[2022-06-14 09:33:46,211] {processor.py:163} INFO - Started process (PID=11456) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:33:46,214] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:33:46,214] {logging_mixin.py:109} INFO - [2022-06-14 09:33:46,214] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:33:51,478] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:33:51,486] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 5.277 seconds
+[2022-06-14 09:34:20,275] {processor.py:163} INFO - Started process (PID=11937) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:34:20,276] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:34:20,277] {logging_mixin.py:109} INFO - [2022-06-14 09:34:20,277] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:34:25,840] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:34:25,849] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 5.576 seconds
+[2022-06-14 09:35:00,488] {processor.py:163} INFO - Started process (PID=12424) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:35:00,489] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:35:00,490] {logging_mixin.py:109} INFO - [2022-06-14 09:35:00,490] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:35:06,110] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:35:06,117] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 5.631 seconds
+[2022-06-14 09:35:36,464] {processor.py:163} INFO - Started process (PID=12905) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:35:36,465] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:35:36,466] {logging_mixin.py:109} INFO - [2022-06-14 09:35:36,466] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:35:42,054] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:35:42,064] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 5.603 seconds
+[2022-06-14 09:36:16,277] {processor.py:163} INFO - Started process (PID=13391) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:36:16,279] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:36:16,279] {logging_mixin.py:109} INFO - [2022-06-14 09:36:16,279] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:36:21,569] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:36:21,577] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 5.303 seconds
+[2022-06-14 09:36:51,692] {processor.py:163} INFO - Started process (PID=13872) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:36:51,694] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:36:51,695] {logging_mixin.py:109} INFO - [2022-06-14 09:36:51,695] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:36:57,842] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:36:57,849] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 6.159 seconds
+[2022-06-14 09:37:32,826] {processor.py:163} INFO - Started process (PID=14399) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:37:32,827] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:37:32,828] {logging_mixin.py:109} INFO - [2022-06-14 09:37:32,828] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:37:39,065] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:37:39,072] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 6.249 seconds
+[2022-06-14 09:38:15,034] {processor.py:163} INFO - Started process (PID=14881) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:38:15,036] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:38:15,038] {logging_mixin.py:109} INFO - [2022-06-14 09:38:15,037] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:38:29,111] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:38:29,123] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 14.095 seconds
+[2022-06-14 09:39:08,946] {processor.py:163} INFO - Started process (PID=15379) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:39:08,948] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:39:08,948] {logging_mixin.py:109} INFO - [2022-06-14 09:39:08,948] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:39:14,872] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:39:14,881] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 5.936 seconds
+[2022-06-14 09:39:50,828] {processor.py:163} INFO - Started process (PID=15863) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:39:50,831] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:39:50,832] {logging_mixin.py:109} INFO - [2022-06-14 09:39:50,832] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:39:59,845] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:39:59,855] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.032 seconds
+[2022-06-14 09:40:38,992] {processor.py:163} INFO - Started process (PID=16411) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:40:38,994] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:40:38,995] {logging_mixin.py:109} INFO - [2022-06-14 09:40:38,995] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:40:48,290] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:40:48,300] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.311 seconds
+[2022-06-14 09:41:24,449] {processor.py:163} INFO - Started process (PID=16909) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:41:24,451] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:41:24,452] {logging_mixin.py:109} INFO - [2022-06-14 09:41:24,452] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:41:33,846] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:41:33,867] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.420 seconds
+[2022-06-14 09:42:12,264] {processor.py:163} INFO - Started process (PID=17408) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:42:12,266] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:42:12,267] {logging_mixin.py:109} INFO - [2022-06-14 09:42:12,267] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:42:21,208] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:42:21,222] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.961 seconds
+[2022-06-14 09:42:56,193] {processor.py:163} INFO - Started process (PID=17969) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:42:56,195] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:42:56,196] {logging_mixin.py:109} INFO - [2022-06-14 09:42:56,196] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:43:03,106] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:43:03,121] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 6.930 seconds
+[2022-06-14 09:43:44,603] {processor.py:163} INFO - Started process (PID=18481) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:43:44,608] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:43:44,610] {logging_mixin.py:109} INFO - [2022-06-14 09:43:44,609] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:43:53,512] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:43:53,525] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.930 seconds
+[2022-06-14 09:44:30,956] {processor.py:163} INFO - Started process (PID=18980) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:44:30,960] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:44:30,962] {logging_mixin.py:109} INFO - [2022-06-14 09:44:30,961] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:44:40,483] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:44:40,500] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.548 seconds
+[2022-06-14 09:45:23,369] {processor.py:163} INFO - Started process (PID=19481) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:45:23,373] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:45:23,374] {logging_mixin.py:109} INFO - [2022-06-14 09:45:23,374] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:45:30,896] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:45:30,903] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.539 seconds
+[2022-06-14 09:46:05,265] {processor.py:163} INFO - Started process (PID=19973) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:46:05,267] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:46:05,268] {logging_mixin.py:109} INFO - [2022-06-14 09:46:05,268] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:46:13,583] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:46:13,591] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.329 seconds
+[2022-06-14 09:46:53,546] {processor.py:163} INFO - Started process (PID=20481) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:46:53,550] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:46:53,552] {logging_mixin.py:109} INFO - [2022-06-14 09:46:53,551] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:47:01,570] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:47:01,583] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.042 seconds
+[2022-06-14 09:47:35,447] {processor.py:163} INFO - Started process (PID=20980) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:47:35,450] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:47:35,451] {logging_mixin.py:109} INFO - [2022-06-14 09:47:35,451] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:47:43,013] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:47:43,021] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.580 seconds
+[2022-06-14 09:48:25,251] {processor.py:163} INFO - Started process (PID=21478) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:48:25,255] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:48:25,257] {logging_mixin.py:109} INFO - [2022-06-14 09:48:25,257] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:48:32,388] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:48:32,398] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.153 seconds
+[2022-06-14 09:49:04,811] {processor.py:163} INFO - Started process (PID=21968) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:49:04,814] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:49:04,814] {logging_mixin.py:109} INFO - [2022-06-14 09:49:04,814] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:49:12,949] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:49:12,968] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.160 seconds
+[2022-06-14 09:49:59,796] {processor.py:163} INFO - Started process (PID=22465) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:49:59,798] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:49:59,799] {logging_mixin.py:109} INFO - [2022-06-14 09:49:59,799] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:50:09,090] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:50:09,101] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.311 seconds
+[2022-06-14 09:50:48,576] {processor.py:163} INFO - Started process (PID=22960) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:50:48,578] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:50:48,578] {logging_mixin.py:109} INFO - [2022-06-14 09:50:48,578] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:50:56,615] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:50:56,639] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.066 seconds
+[2022-06-14 09:51:40,631] {processor.py:163} INFO - Started process (PID=23457) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:51:40,635] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:51:40,636] {logging_mixin.py:109} INFO - [2022-06-14 09:51:40,636] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:51:50,419] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:51:50,428] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.803 seconds
+[2022-06-14 09:52:27,558] {processor.py:163} INFO - Started process (PID=23955) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:52:27,562] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:52:27,563] {logging_mixin.py:109} INFO - [2022-06-14 09:52:27,563] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:52:38,497] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:52:38,509] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 10.956 seconds
+[2022-06-14 09:53:27,185] {processor.py:163} INFO - Started process (PID=24462) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:53:27,189] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:53:27,191] {logging_mixin.py:109} INFO - [2022-06-14 09:53:27,191] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:53:37,460] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:53:37,482] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 10.303 seconds
+[2022-06-14 09:54:10,194] {processor.py:163} INFO - Started process (PID=24957) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:54:10,196] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:54:10,197] {logging_mixin.py:109} INFO - [2022-06-14 09:54:10,197] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:54:17,541] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:54:17,549] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.358 seconds
+[2022-06-14 09:54:56,772] {processor.py:163} INFO - Started process (PID=25454) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:54:56,775] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:54:56,776] {logging_mixin.py:109} INFO - [2022-06-14 09:54:56,775] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:55:05,161] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:55:05,171] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.402 seconds
+[2022-06-14 09:55:42,347] {processor.py:163} INFO - Started process (PID=25997) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:55:42,351] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:55:42,352] {logging_mixin.py:109} INFO - [2022-06-14 09:55:42,352] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:55:50,166] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:55:50,175] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.834 seconds
+[2022-06-14 09:56:30,554] {processor.py:163} INFO - Started process (PID=26505) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:56:30,558] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:56:30,560] {logging_mixin.py:109} INFO - [2022-06-14 09:56:30,560] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:56:37,567] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:56:37,578] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.029 seconds
+[2022-06-14 09:57:09,668] {processor.py:163} INFO - Started process (PID=26993) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:57:09,671] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:57:09,673] {logging_mixin.py:109} INFO - [2022-06-14 09:57:09,673] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:57:18,738] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:57:18,764] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.103 seconds
+[2022-06-14 09:57:59,524] {processor.py:163} INFO - Started process (PID=27495) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:57:59,528] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:57:59,529] {logging_mixin.py:109} INFO - [2022-06-14 09:57:59,529] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:58:06,777] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:58:06,785] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.266 seconds
+[2022-06-14 09:58:43,947] {processor.py:163} INFO - Started process (PID=27998) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:58:43,952] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 09:58:43,954] {logging_mixin.py:109} INFO - [2022-06-14 09:58:43,953] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:58:52,389] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 09:58:52,411] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.470 seconds
+[2022-06-14 17:15:11,539] {processor.py:163} INFO - Started process (PID=28529) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:15:11,542] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:15:11,543] {logging_mixin.py:109} INFO - [2022-06-14 17:15:11,543] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:15:20,902] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:15:20,914] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.380 seconds
+[2022-06-14 17:16:14,817] {processor.py:163} INFO - Started process (PID=29044) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:16:14,820] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:16:14,821] {logging_mixin.py:109} INFO - [2022-06-14 17:16:14,821] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:16:23,108] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:16:23,119] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.305 seconds
+[2022-06-14 17:17:23,860] {processor.py:163} INFO - Started process (PID=29565) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:17:23,864] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:17:23,865] {logging_mixin.py:109} INFO - [2022-06-14 17:17:23,865] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:17:33,192] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:17:33,202] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.347 seconds
+[2022-06-14 17:18:34,298] {processor.py:163} INFO - Started process (PID=30085) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:18:34,302] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:18:34,303] {logging_mixin.py:109} INFO - [2022-06-14 17:18:34,303] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:18:42,595] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:18:42,607] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.314 seconds
+[2022-06-14 17:19:37,075] {processor.py:163} INFO - Started process (PID=30601) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:19:37,078] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:19:37,079] {logging_mixin.py:109} INFO - [2022-06-14 17:19:37,079] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:19:45,418] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:19:45,429] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.361 seconds
+[2022-06-14 17:20:39,953] {processor.py:163} INFO - Started process (PID=31114) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:20:39,957] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:20:39,959] {logging_mixin.py:109} INFO - [2022-06-14 17:20:39,959] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:20:48,335] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:20:48,345] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.398 seconds
+[2022-06-14 17:21:42,195] {processor.py:163} INFO - Started process (PID=31625) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:21:42,198] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:21:42,199] {logging_mixin.py:109} INFO - [2022-06-14 17:21:42,199] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:21:48,862] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:21:48,874] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 6.685 seconds
+[2022-06-14 17:22:37,396] {processor.py:163} INFO - Started process (PID=32130) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:22:37,399] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:22:37,399] {logging_mixin.py:109} INFO - [2022-06-14 17:22:37,399] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:22:45,502] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:22:45,514] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.120 seconds
+[2022-06-14 17:23:41,279] {processor.py:163} INFO - Started process (PID=32648) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:23:41,282] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:23:41,284] {logging_mixin.py:109} INFO - [2022-06-14 17:23:41,284] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:23:49,044] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:23:49,055] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.781 seconds
+[2022-06-14 17:24:43,650] {processor.py:163} INFO - Started process (PID=693) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:24:43,652] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:24:43,653] {logging_mixin.py:109} INFO - [2022-06-14 17:24:43,653] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:24:50,756] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:24:50,766] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.119 seconds
+[2022-06-14 17:25:45,361] {processor.py:163} INFO - Started process (PID=1232) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:25:45,365] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:25:45,366] {logging_mixin.py:109} INFO - [2022-06-14 17:25:45,366] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:25:52,538] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:25:52,550] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.195 seconds
+[2022-06-14 17:26:49,074] {processor.py:163} INFO - Started process (PID=1750) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:26:49,078] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:26:49,080] {logging_mixin.py:109} INFO - [2022-06-14 17:26:49,079] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:26:57,619] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:26:57,635] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.565 seconds
+[2022-06-14 17:27:49,206] {processor.py:163} INFO - Started process (PID=2503) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:27:49,211] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:27:49,213] {logging_mixin.py:109} INFO - [2022-06-14 17:27:49,212] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:27:57,175] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:27:57,187] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.987 seconds
+[2022-06-14 17:29:19,271] {processor.py:163} INFO - Started process (PID=3248) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:29:19,273] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:29:19,274] {logging_mixin.py:109} INFO - [2022-06-14 17:29:19,274] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:29:27,466] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:29:27,478] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.213 seconds
+[2022-06-14 17:30:57,601] {processor.py:163} INFO - Started process (PID=3991) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:30:57,605] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:30:57,606] {logging_mixin.py:109} INFO - [2022-06-14 17:30:57,606] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:31:06,084] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:31:06,098] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.503 seconds
+[2022-06-14 17:32:29,958] {processor.py:163} INFO - Started process (PID=5203) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:32:29,961] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:32:29,962] {logging_mixin.py:109} INFO - [2022-06-14 17:32:29,962] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:32:37,008] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:32:37,014] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.060 seconds
+[2022-06-14 17:33:55,863] {processor.py:163} INFO - Started process (PID=6773) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:33:55,864] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:33:55,865] {logging_mixin.py:109} INFO - [2022-06-14 17:33:55,865] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:34:04,162] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:34:04,173] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.313 seconds
+[2022-06-14 17:35:36,955] {processor.py:163} INFO - Started process (PID=7852) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:35:36,958] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:35:36,960] {logging_mixin.py:109} INFO - [2022-06-14 17:35:36,959] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:35:46,076] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:35:46,089] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.140 seconds
+[2022-06-14 17:37:43,753] {processor.py:163} INFO - Started process (PID=9902) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:37:43,756] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:37:43,756] {logging_mixin.py:109} INFO - [2022-06-14 17:37:43,756] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:37:52,174] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:37:52,200] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.451 seconds
+[2022-06-14 17:39:36,578] {processor.py:163} INFO - Started process (PID=11302) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:39:36,581] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:39:36,582] {logging_mixin.py:109} INFO - [2022-06-14 17:39:36,582] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:39:44,460] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:39:44,472] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.897 seconds
+[2022-06-14 17:41:26,952] {processor.py:163} INFO - Started process (PID=12695) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:41:26,956] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:41:26,958] {logging_mixin.py:109} INFO - [2022-06-14 17:41:26,958] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:41:34,451] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:41:34,460] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.515 seconds
+[2022-06-14 17:43:28,748] {processor.py:163} INFO - Started process (PID=14110) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:43:28,751] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:43:28,752] {logging_mixin.py:109} INFO - [2022-06-14 17:43:28,752] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:43:38,724] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:43:38,737] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.996 seconds
+[2022-06-14 17:45:27,011] {processor.py:163} INFO - Started process (PID=15533) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:45:27,013] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:45:27,015] {logging_mixin.py:109} INFO - [2022-06-14 17:45:27,014] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:45:36,348] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:45:36,365] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.360 seconds
+[2022-06-14 17:46:51,431] {processor.py:163} INFO - Started process (PID=16338) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:46:51,434] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:46:51,437] {logging_mixin.py:109} INFO - [2022-06-14 17:46:51,436] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:47:00,969] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:47:00,983] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.556 seconds
+[2022-06-14 17:47:52,195] {processor.py:163} INFO - Started process (PID=16958) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:47:52,197] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:47:52,199] {logging_mixin.py:109} INFO - [2022-06-14 17:47:52,199] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:48:00,026] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:48:00,039] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.849 seconds
+[2022-06-14 17:48:51,243] {processor.py:163} INFO - Started process (PID=17330) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:48:51,245] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:48:51,246] {logging_mixin.py:109} INFO - [2022-06-14 17:48:51,246] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:48:59,671] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:48:59,691] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.454 seconds
+[2022-06-14 17:50:58,187] {processor.py:163} INFO - Started process (PID=18816) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:50:58,191] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:50:58,192] {logging_mixin.py:109} INFO - [2022-06-14 17:50:58,192] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:51:06,525] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:51:06,550] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.369 seconds
+[2022-06-14 17:53:02,717] {processor.py:163} INFO - Started process (PID=20217) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:53:02,722] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:53:02,724] {logging_mixin.py:109} INFO - [2022-06-14 17:53:02,724] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:53:11,704] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:53:11,719] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.008 seconds
+[2022-06-14 17:55:11,725] {processor.py:163} INFO - Started process (PID=21872) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:55:11,728] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:55:11,729] {logging_mixin.py:109} INFO - [2022-06-14 17:55:11,729] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:55:21,786] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:55:21,826] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 10.105 seconds
+[2022-06-14 17:57:25,774] {processor.py:163} INFO - Started process (PID=23277) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:57:25,778] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:57:25,780] {logging_mixin.py:109} INFO - [2022-06-14 17:57:25,780] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:57:35,396] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:57:35,410] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.639 seconds
+[2022-06-14 17:59:36,545] {processor.py:163} INFO - Started process (PID=24981) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:59:36,550] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 17:59:36,551] {logging_mixin.py:109} INFO - [2022-06-14 17:59:36,551] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:59:46,286] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 17:59:46,311] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.773 seconds
+[2022-06-14 18:01:46,800] {processor.py:163} INFO - Started process (PID=26720) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:01:46,803] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:01:46,804] {logging_mixin.py:109} INFO - [2022-06-14 18:01:46,804] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:01:55,533] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:01:55,547] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.750 seconds
+[2022-06-14 18:03:54,696] {processor.py:163} INFO - Started process (PID=28420) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:03:54,698] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:03:54,699] {logging_mixin.py:109} INFO - [2022-06-14 18:03:54,699] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:04:06,722] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:04:06,742] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 12.049 seconds
+[2022-06-14 18:06:14,006] {processor.py:163} INFO - Started process (PID=30114) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:06:14,010] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:06:14,011] {logging_mixin.py:109} INFO - [2022-06-14 18:06:14,011] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:06:22,251] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:06:22,262] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.262 seconds
+[2022-06-14 18:08:25,322] {processor.py:163} INFO - Started process (PID=31520) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:08:25,325] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:08:25,327] {logging_mixin.py:109} INFO - [2022-06-14 18:08:25,327] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:08:33,777] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:08:33,791] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.476 seconds
+[2022-06-14 18:10:37,316] {processor.py:163} INFO - Started process (PID=726) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:10:37,319] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:10:37,320] {logging_mixin.py:109} INFO - [2022-06-14 18:10:37,320] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:10:44,945] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:10:44,956] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.644 seconds
+[2022-06-14 18:12:33,439] {processor.py:163} INFO - Started process (PID=2118) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:12:33,443] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:12:33,445] {logging_mixin.py:109} INFO - [2022-06-14 18:12:33,444] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:12:41,631] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:12:41,638] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.205 seconds
+[2022-06-14 18:14:28,539] {processor.py:163} INFO - Started process (PID=3511) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:14:28,542] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:14:28,544] {logging_mixin.py:109} INFO - [2022-06-14 18:14:28,543] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:14:36,461] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:14:36,472] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.937 seconds
+[2022-06-14 18:16:28,151] {processor.py:163} INFO - Started process (PID=5221) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:16:28,154] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:16:28,155] {logging_mixin.py:109} INFO - [2022-06-14 18:16:28,155] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:16:35,689] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:16:35,702] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.556 seconds
+[2022-06-14 18:18:29,786] {processor.py:163} INFO - Started process (PID=7067) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:18:29,790] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:18:29,792] {logging_mixin.py:109} INFO - [2022-06-14 18:18:29,792] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:18:38,488] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:18:38,498] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.717 seconds
+[2022-06-14 18:20:30,962] {processor.py:163} INFO - Started process (PID=8465) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:20:30,966] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:20:30,968] {logging_mixin.py:109} INFO - [2022-06-14 18:20:30,968] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:20:39,330] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:20:39,337] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.380 seconds
+[2022-06-14 18:22:33,183] {processor.py:163} INFO - Started process (PID=10326) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:22:33,186] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:22:33,188] {logging_mixin.py:109} INFO - [2022-06-14 18:22:33,187] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:22:44,752] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:22:44,762] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 11.584 seconds
+[2022-06-14 18:24:37,691] {processor.py:163} INFO - Started process (PID=11712) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:24:37,694] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:24:37,695] {logging_mixin.py:109} INFO - [2022-06-14 18:24:37,695] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:24:45,922] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:24:45,938] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.250 seconds
+[2022-06-14 18:26:40,210] {processor.py:163} INFO - Started process (PID=13255) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:26:40,213] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:26:40,214] {logging_mixin.py:109} INFO - [2022-06-14 18:26:40,214] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:26:50,632] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:26:50,652] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 10.447 seconds
+[2022-06-14 18:28:47,754] {processor.py:163} INFO - Started process (PID=15436) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:28:47,756] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:28:47,757] {logging_mixin.py:109} INFO - [2022-06-14 18:28:47,757] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:28:57,472] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:28:57,487] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.738 seconds
+[2022-06-14 18:30:54,574] {processor.py:163} INFO - Started process (PID=17201) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:30:54,578] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:30:54,580] {logging_mixin.py:109} INFO - [2022-06-14 18:30:54,579] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:31:02,557] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:31:02,568] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.004 seconds
+[2022-06-14 18:33:16,020] {processor.py:163} INFO - Started process (PID=18861) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:33:16,025] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:33:16,026] {logging_mixin.py:109} INFO - [2022-06-14 18:33:16,026] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:33:30,114] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:33:30,126] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 14.113 seconds
+[2022-06-14 18:35:37,767] {processor.py:163} INFO - Started process (PID=20497) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:35:37,771] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:35:37,772] {logging_mixin.py:109} INFO - [2022-06-14 18:35:37,772] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:35:47,321] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:35:47,332] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.569 seconds
+[2022-06-14 18:38:04,375] {processor.py:163} INFO - Started process (PID=22359) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:38:04,378] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:38:04,379] {logging_mixin.py:109} INFO - [2022-06-14 18:38:04,379] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:38:12,982] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:38:12,994] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.621 seconds
+[2022-06-14 18:40:19,149] {processor.py:163} INFO - Started process (PID=23757) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:40:19,152] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:40:19,154] {logging_mixin.py:109} INFO - [2022-06-14 18:40:19,154] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:40:29,945] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:40:29,959] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 10.814 seconds
+[2022-06-14 18:42:55,245] {processor.py:163} INFO - Started process (PID=26069) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:42:55,248] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:42:55,249] {logging_mixin.py:109} INFO - [2022-06-14 18:42:55,249] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:43:04,002] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:43:04,011] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.768 seconds
+[2022-06-14 18:44:53,666] {processor.py:163} INFO - Started process (PID=27093) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:44:53,668] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:44:53,668] {logging_mixin.py:109} INFO - [2022-06-14 18:44:53,668] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:45:02,912] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:45:02,920] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.257 seconds
+[2022-06-14 18:46:53,285] {processor.py:163} INFO - Started process (PID=28538) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:46:53,289] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:46:53,290] {logging_mixin.py:109} INFO - [2022-06-14 18:46:53,290] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:47:03,646] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:47:03,654] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 10.373 seconds
+[2022-06-14 18:48:42,839] {processor.py:163} INFO - Started process (PID=29284) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:48:42,841] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:48:42,841] {logging_mixin.py:109} INFO - [2022-06-14 18:48:42,841] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:48:50,670] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:48:50,679] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.842 seconds
+[2022-06-14 18:50:18,284] {processor.py:163} INFO - Started process (PID=30016) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:50:18,287] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:50:18,288] {logging_mixin.py:109} INFO - [2022-06-14 18:50:18,288] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:50:26,135] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:50:26,152] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.870 seconds
+[2022-06-14 18:51:48,508] {processor.py:163} INFO - Started process (PID=30739) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:51:48,510] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:51:48,511] {logging_mixin.py:109} INFO - [2022-06-14 18:51:48,511] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:51:55,975] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:51:55,985] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.480 seconds
+[2022-06-14 18:53:34,586] {processor.py:163} INFO - Started process (PID=31485) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:53:34,588] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:53:34,589] {logging_mixin.py:109} INFO - [2022-06-14 18:53:34,589] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:53:43,592] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:53:43,602] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.018 seconds
+[2022-06-14 18:55:08,453] {processor.py:163} INFO - Started process (PID=32226) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:55:08,456] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:55:08,457] {logging_mixin.py:109} INFO - [2022-06-14 18:55:08,457] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:55:17,075] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:55:17,084] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.633 seconds
+[2022-06-14 18:56:47,634] {processor.py:163} INFO - Started process (PID=491) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:56:47,637] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:56:47,638] {logging_mixin.py:109} INFO - [2022-06-14 18:56:47,638] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:56:55,155] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:56:55,164] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.532 seconds
+[2022-06-14 18:58:17,989] {processor.py:163} INFO - Started process (PID=1207) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:58:17,992] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:58:17,992] {logging_mixin.py:109} INFO - [2022-06-14 18:58:17,992] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:58:25,936] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:58:25,945] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.959 seconds
+[2022-06-14 18:59:48,785] {processor.py:163} INFO - Started process (PID=1936) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:59:48,788] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 18:59:48,789] {logging_mixin.py:109} INFO - [2022-06-14 18:59:48,789] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:59:56,466] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 18:59:56,479] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.697 seconds
+[2022-06-14 19:01:22,963] {processor.py:163} INFO - Started process (PID=2667) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:01:22,965] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:01:22,966] {logging_mixin.py:109} INFO - [2022-06-14 19:01:22,966] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:01:30,611] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:01:30,621] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.661 seconds
+[2022-06-14 19:05:36,949] {processor.py:163} INFO - Started process (PID=3410) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:05:36,953] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:05:36,954] {logging_mixin.py:109} INFO - [2022-06-14 19:05:36,954] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:05:44,395] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:05:44,404] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.460 seconds
+[2022-06-14 19:06:37,889] {processor.py:163} INFO - Started process (PID=3949) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:06:37,891] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:06:37,893] {logging_mixin.py:109} INFO - [2022-06-14 19:06:37,893] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:06:45,170] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:06:45,179] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.295 seconds
+[2022-06-14 19:08:37,031] {processor.py:163} INFO - Started process (PID=4695) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:08:37,033] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:08:37,033] {logging_mixin.py:109} INFO - [2022-06-14 19:08:37,033] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:08:44,776] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:08:44,784] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.755 seconds
+[2022-06-14 19:10:23,960] {processor.py:163} INFO - Started process (PID=5435) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:10:23,963] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:10:23,965] {logging_mixin.py:109} INFO - [2022-06-14 19:10:23,964] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:10:32,140] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:10:32,153] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.198 seconds
+[2022-06-14 19:12:06,797] {processor.py:163} INFO - Started process (PID=6257) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:12:06,799] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:12:06,800] {logging_mixin.py:109} INFO - [2022-06-14 19:12:06,800] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:12:15,037] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:12:15,044] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.251 seconds
+[2022-06-14 19:13:33,489] {processor.py:163} INFO - Started process (PID=6995) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:13:33,491] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:13:33,492] {logging_mixin.py:109} INFO - [2022-06-14 19:13:33,492] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:13:42,117] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:13:42,126] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.640 seconds
+[2022-06-14 19:15:12,821] {processor.py:163} INFO - Started process (PID=7731) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:15:12,824] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:15:12,825] {logging_mixin.py:109} INFO - [2022-06-14 19:15:12,825] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:15:21,822] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:15:21,834] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.018 seconds
+[2022-06-14 19:16:51,114] {processor.py:163} INFO - Started process (PID=8468) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:16:51,117] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:16:51,118] {logging_mixin.py:109} INFO - [2022-06-14 19:16:51,118] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:16:58,465] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:16:58,473] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.364 seconds
+[2022-06-14 19:18:30,471] {processor.py:163} INFO - Started process (PID=9208) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:18:30,473] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:18:30,473] {logging_mixin.py:109} INFO - [2022-06-14 19:18:30,473] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:18:38,071] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:18:38,078] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.611 seconds
+[2022-06-14 19:19:55,409] {processor.py:163} INFO - Started process (PID=9924) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:19:55,412] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:19:55,413] {logging_mixin.py:109} INFO - [2022-06-14 19:19:55,413] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:20:03,640] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:20:03,648] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.245 seconds
+[2022-06-14 19:21:32,748] {processor.py:163} INFO - Started process (PID=10658) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:21:32,750] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:21:32,750] {logging_mixin.py:109} INFO - [2022-06-14 19:21:32,750] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:21:40,191] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:21:40,199] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.454 seconds
+[2022-06-14 19:23:19,199] {processor.py:163} INFO - Started process (PID=11393) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:23:19,201] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:23:19,202] {logging_mixin.py:109} INFO - [2022-06-14 19:23:19,202] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:23:27,644] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:23:27,658] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.462 seconds
+[2022-06-14 19:24:56,594] {processor.py:163} INFO - Started process (PID=12124) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:24:56,597] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:24:56,599] {logging_mixin.py:109} INFO - [2022-06-14 19:24:56,599] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:25:03,810] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:25:03,819] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.231 seconds
+[2022-06-14 19:26:28,983] {processor.py:163} INFO - Started process (PID=12862) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:26:28,987] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:26:28,989] {logging_mixin.py:109} INFO - [2022-06-14 19:26:28,989] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:26:37,387] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:26:37,400] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.423 seconds
+[2022-06-14 19:28:02,045] {processor.py:163} INFO - Started process (PID=13600) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:28:02,047] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:28:02,048] {logging_mixin.py:109} INFO - [2022-06-14 19:28:02,047] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:28:09,374] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:28:09,380] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.338 seconds
+[2022-06-14 19:29:35,975] {processor.py:163} INFO - Started process (PID=14513) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:29:35,979] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:29:35,980] {logging_mixin.py:109} INFO - [2022-06-14 19:29:35,980] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:29:46,767] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:29:46,776] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 10.804 seconds
+[2022-06-14 19:31:11,782] {processor.py:163} INFO - Started process (PID=15452) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:31:11,784] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:31:11,784] {logging_mixin.py:109} INFO - [2022-06-14 19:31:11,784] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:31:18,707] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:31:18,714] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 6.934 seconds
+[2022-06-14 19:32:36,188] {processor.py:163} INFO - Started process (PID=16173) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:32:36,190] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:32:36,191] {logging_mixin.py:109} INFO - [2022-06-14 19:32:36,191] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:32:42,954] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:32:42,961] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 6.776 seconds
+[2022-06-14 19:34:09,644] {processor.py:163} INFO - Started process (PID=16898) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:34:09,648] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:34:09,649] {logging_mixin.py:109} INFO - [2022-06-14 19:34:09,649] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:34:17,588] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:34:17,597] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.955 seconds
+[2022-06-14 19:35:37,077] {processor.py:163} INFO - Started process (PID=17623) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:35:37,079] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:35:37,080] {logging_mixin.py:109} INFO - [2022-06-14 19:35:37,080] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:35:44,374] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:35:44,387] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.313 seconds
+[2022-06-14 19:37:06,556] {processor.py:163} INFO - Started process (PID=18428) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:37:06,558] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:37:06,559] {logging_mixin.py:109} INFO - [2022-06-14 19:37:06,558] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:37:13,810] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:37:13,821] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.267 seconds
+[2022-06-14 19:38:45,798] {processor.py:163} INFO - Started process (PID=19220) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:38:45,801] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:38:45,803] {logging_mixin.py:109} INFO - [2022-06-14 19:38:45,803] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:38:55,034] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:38:55,042] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.248 seconds
+[2022-06-14 19:40:25,151] {processor.py:163} INFO - Started process (PID=19952) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:40:25,154] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:40:25,154] {logging_mixin.py:109} INFO - [2022-06-14 19:40:25,154] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:40:33,089] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:40:33,101] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.952 seconds
+[2022-06-14 19:41:56,723] {processor.py:163} INFO - Started process (PID=20677) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:41:56,726] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:41:56,726] {logging_mixin.py:109} INFO - [2022-06-14 19:41:56,726] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:42:03,861] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:42:03,867] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.146 seconds
+[2022-06-14 19:43:25,424] {processor.py:163} INFO - Started process (PID=21407) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:43:25,426] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:43:25,427] {logging_mixin.py:109} INFO - [2022-06-14 19:43:25,427] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:43:32,546] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:43:32,553] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.132 seconds
+[2022-06-14 19:44:57,994] {processor.py:163} INFO - Started process (PID=22142) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:44:57,997] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:44:57,998] {logging_mixin.py:109} INFO - [2022-06-14 19:44:57,998] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:45:05,658] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:45:05,673] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.682 seconds
+[2022-06-14 19:46:32,631] {processor.py:163} INFO - Started process (PID=22872) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:46:32,633] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:46:32,634] {logging_mixin.py:109} INFO - [2022-06-14 19:46:32,634] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:46:40,674] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:46:40,686] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.057 seconds
+[2022-06-14 19:48:08,357] {processor.py:163} INFO - Started process (PID=23603) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:48:08,359] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:48:08,359] {logging_mixin.py:109} INFO - [2022-06-14 19:48:08,359] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:48:17,469] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:48:17,483] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.130 seconds
+[2022-06-14 19:49:44,462] {processor.py:163} INFO - Started process (PID=24330) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:49:44,465] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:49:44,465] {logging_mixin.py:109} INFO - [2022-06-14 19:49:44,465] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:49:52,870] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:49:52,877] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.417 seconds
+[2022-06-14 19:51:24,063] {processor.py:163} INFO - Started process (PID=25067) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:51:24,065] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:51:24,065] {logging_mixin.py:109} INFO - [2022-06-14 19:51:24,065] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:51:32,252] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:51:32,262] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.201 seconds
+[2022-06-14 19:53:13,467] {processor.py:163} INFO - Started process (PID=26683) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:53:13,470] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:53:13,470] {logging_mixin.py:109} INFO - [2022-06-14 19:53:13,470] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:53:21,553] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:53:21,563] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.097 seconds
+[2022-06-14 19:54:50,120] {processor.py:163} INFO - Started process (PID=27415) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:54:50,121] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:54:50,122] {logging_mixin.py:109} INFO - [2022-06-14 19:54:50,122] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:54:58,590] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:54:58,600] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.483 seconds
+[2022-06-14 19:56:26,667] {processor.py:163} INFO - Started process (PID=28146) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:56:26,669] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:56:26,669] {logging_mixin.py:109} INFO - [2022-06-14 19:56:26,669] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:56:34,933] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:56:34,944] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.280 seconds
+[2022-06-14 19:58:05,970] {processor.py:163} INFO - Started process (PID=28904) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:58:05,972] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:58:05,973] {logging_mixin.py:109} INFO - [2022-06-14 19:58:05,973] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:58:14,024] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:58:14,040] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.072 seconds
+[2022-06-14 19:59:47,555] {processor.py:163} INFO - Started process (PID=29638) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:59:47,557] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 19:59:47,558] {logging_mixin.py:109} INFO - [2022-06-14 19:59:47,558] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:59:55,266] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 19:59:55,279] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.726 seconds
+[2022-06-14 20:01:34,226] {processor.py:163} INFO - Started process (PID=30893) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:01:34,230] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:01:34,231] {logging_mixin.py:109} INFO - [2022-06-14 20:01:34,231] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:01:46,671] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:01:46,686] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 12.465 seconds
+[2022-06-14 20:03:25,320] {processor.py:163} INFO - Started process (PID=32122) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:03:25,322] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:03:25,323] {logging_mixin.py:109} INFO - [2022-06-14 20:03:25,323] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:03:32,121] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:03:32,130] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 6.813 seconds
+[2022-06-14 20:05:33,523] {processor.py:163} INFO - Started process (PID=952) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:05:33,525] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:05:33,526] {logging_mixin.py:109} INFO - [2022-06-14 20:05:33,525] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:05:42,496] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:05:42,512] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.993 seconds
+[2022-06-14 20:07:51,913] {processor.py:163} INFO - Started process (PID=2263) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:07:51,915] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:07:51,915] {logging_mixin.py:109} INFO - [2022-06-14 20:07:51,915] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:07:58,777] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:07:58,788] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 6.876 seconds
+[2022-06-14 20:09:51,481] {processor.py:163} INFO - Started process (PID=3574) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:09:51,484] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:09:51,485] {logging_mixin.py:109} INFO - [2022-06-14 20:09:51,484] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:09:59,291] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:09:59,305] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.827 seconds
+[2022-06-14 20:11:49,738] {processor.py:163} INFO - Started process (PID=4878) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:11:49,739] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:11:49,740] {logging_mixin.py:109} INFO - [2022-06-14 20:11:49,740] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:11:56,713] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:11:56,722] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 6.987 seconds
+[2022-06-14 20:13:40,475] {processor.py:163} INFO - Started process (PID=6249) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:13:40,476] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:13:40,477] {logging_mixin.py:109} INFO - [2022-06-14 20:13:40,477] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:13:46,868] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:13:46,875] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 6.403 seconds
+[2022-06-14 20:15:36,132] {processor.py:163} INFO - Started process (PID=7550) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:15:36,136] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:15:36,137] {logging_mixin.py:109} INFO - [2022-06-14 20:15:36,137] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:15:43,587] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:15:43,601] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.476 seconds
+[2022-06-14 20:17:46,636] {processor.py:163} INFO - Started process (PID=8863) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:17:46,640] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:17:46,642] {logging_mixin.py:109} INFO - [2022-06-14 20:17:46,641] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:17:56,002] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:17:56,021] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.395 seconds
+[2022-06-14 20:20:13,163] {processor.py:163} INFO - Started process (PID=11081) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:20:13,166] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:20:13,167] {logging_mixin.py:109} INFO - [2022-06-14 20:20:13,167] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:20:20,862] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:20:20,874] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.716 seconds
+[2022-06-14 20:22:28,629] {processor.py:163} INFO - Started process (PID=12567) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:22:28,630] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:22:28,631] {logging_mixin.py:109} INFO - [2022-06-14 20:22:28,631] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:22:38,461] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:22:38,478] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.851 seconds
+[2022-06-14 20:24:53,958] {processor.py:163} INFO - Started process (PID=14232) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:24:53,961] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:24:53,962] {logging_mixin.py:109} INFO - [2022-06-14 20:24:53,962] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:25:04,137] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:25:04,160] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 10.207 seconds
+[2022-06-14 20:27:21,285] {processor.py:163} INFO - Started process (PID=16549) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:27:21,287] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:27:21,287] {logging_mixin.py:109} INFO - [2022-06-14 20:27:21,287] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:27:29,096] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:27:29,107] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.825 seconds
+[2022-06-14 20:29:55,711] {processor.py:163} INFO - Started process (PID=18875) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:29:55,713] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:29:55,714] {logging_mixin.py:109} INFO - [2022-06-14 20:29:55,714] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:30:03,797] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:30:03,809] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.101 seconds
+[2022-06-14 20:32:17,791] {processor.py:163} INFO - Started process (PID=20374) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:32:17,796] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:32:17,798] {logging_mixin.py:109} INFO - [2022-06-14 20:32:17,798] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:32:27,213] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:32:27,230] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.445 seconds
+[2022-06-14 20:34:48,511] {processor.py:163} INFO - Started process (PID=21889) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:34:48,514] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:34:48,516] {logging_mixin.py:109} INFO - [2022-06-14 20:34:48,516] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:34:58,543] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:34:58,555] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 10.049 seconds
+[2022-06-14 20:37:10,002] {processor.py:163} INFO - Started process (PID=23284) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:37:10,004] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:37:10,005] {logging_mixin.py:109} INFO - [2022-06-14 20:37:10,005] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:37:19,264] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:37:19,274] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.275 seconds
+[2022-06-14 20:39:36,118] {processor.py:163} INFO - Started process (PID=24740) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:39:36,121] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:39:36,123] {logging_mixin.py:109} INFO - [2022-06-14 20:39:36,123] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:39:47,454] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:39:47,470] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 11.358 seconds
+[2022-06-14 20:42:14,936] {processor.py:163} INFO - Started process (PID=27368) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:42:14,939] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:42:14,940] {logging_mixin.py:109} INFO - [2022-06-14 20:42:14,940] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:42:24,680] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:42:24,698] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.768 seconds
+[2022-06-14 20:44:34,646] {processor.py:163} INFO - Started process (PID=29327) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:44:34,648] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:44:34,649] {logging_mixin.py:109} INFO - [2022-06-14 20:44:34,649] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:44:43,695] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:44:43,714] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.071 seconds
+[2022-06-14 20:46:44,666] {processor.py:163} INFO - Started process (PID=31041) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:46:44,670] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:46:44,671] {logging_mixin.py:109} INFO - [2022-06-14 20:46:44,670] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:46:54,073] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:46:54,092] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.429 seconds
+[2022-06-14 20:48:39,507] {processor.py:163} INFO - Started process (PID=32593) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:48:39,509] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:48:39,510] {logging_mixin.py:109} INFO - [2022-06-14 20:48:39,510] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:48:45,146] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:48:45,153] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 5.649 seconds
+[2022-06-14 20:50:20,544] {processor.py:163} INFO - Started process (PID=1335) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:50:20,545] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:50:20,546] {logging_mixin.py:109} INFO - [2022-06-14 20:50:20,546] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:50:27,906] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:50:27,917] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.375 seconds
+[2022-06-14 20:52:11,366] {processor.py:163} INFO - Started process (PID=2555) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:52:11,368] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:52:11,368] {logging_mixin.py:109} INFO - [2022-06-14 20:52:11,368] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:52:21,080] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:52:21,095] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.731 seconds
+[2022-06-14 20:54:08,418] {processor.py:163} INFO - Started process (PID=3770) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:54:08,420] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:54:08,421] {logging_mixin.py:109} INFO - [2022-06-14 20:54:08,421] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:54:15,251] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:54:15,261] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 6.845 seconds
+[2022-06-14 20:55:58,437] {processor.py:163} INFO - Started process (PID=5529) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:55:58,442] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:55:58,444] {logging_mixin.py:109} INFO - [2022-06-14 20:55:58,443] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:56:07,228] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:56:07,238] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.806 seconds
+[2022-06-14 20:58:01,275] {processor.py:163} INFO - Started process (PID=7011) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:58:01,277] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 20:58:01,278] {logging_mixin.py:109} INFO - [2022-06-14 20:58:01,278] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:58:09,072] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 20:58:09,079] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.808 seconds
+[2022-06-14 21:00:06,663] {processor.py:163} INFO - Started process (PID=8424) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:00:06,665] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 21:00:06,667] {logging_mixin.py:109} INFO - [2022-06-14 21:00:06,667] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:00:15,415] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:00:15,429] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.769 seconds
+[2022-06-14 21:01:43,661] {processor.py:163} INFO - Started process (PID=10034) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:01:43,673] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 21:01:43,674] {logging_mixin.py:109} INFO - [2022-06-14 21:01:43,674] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:01:52,290] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:01:52,299] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.641 seconds
+[2022-06-14 21:04:18,541] {processor.py:163} INFO - Started process (PID=13228) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:04:18,545] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 21:04:18,546] {logging_mixin.py:109} INFO - [2022-06-14 21:04:18,545] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:04:27,021] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:04:27,033] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.497 seconds
+[2022-06-14 21:06:35,677] {processor.py:163} INFO - Started process (PID=16008) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:06:35,680] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 21:06:35,681] {logging_mixin.py:109} INFO - [2022-06-14 21:06:35,681] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:06:42,395] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:06:42,404] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 6.732 seconds
+[2022-06-14 21:09:17,168] {processor.py:163} INFO - Started process (PID=19464) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:09:17,170] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 21:09:17,171] {logging_mixin.py:109} INFO - [2022-06-14 21:09:17,170] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:09:25,493] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:09:25,506] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.341 seconds
+[2022-06-14 21:11:48,525] {processor.py:163} INFO - Started process (PID=22521) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:11:48,528] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 21:11:48,529] {logging_mixin.py:109} INFO - [2022-06-14 21:11:48,529] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:11:56,268] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:11:56,279] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.755 seconds
+[2022-06-14 21:14:11,003] {processor.py:163} INFO - Started process (PID=25085) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:14:11,006] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 21:14:11,007] {logging_mixin.py:109} INFO - [2022-06-14 21:14:11,007] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:14:18,684] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:14:18,694] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.693 seconds
+[2022-06-14 21:16:43,014] {processor.py:163} INFO - Started process (PID=27328) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:16:43,018] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 21:16:43,019] {logging_mixin.py:109} INFO - [2022-06-14 21:16:43,019] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:16:53,140] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:16:53,149] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 10.141 seconds
+[2022-06-14 21:19:05,020] {processor.py:163} INFO - Started process (PID=29585) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:19:05,023] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 21:19:05,023] {logging_mixin.py:109} INFO - [2022-06-14 21:19:05,023] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:19:12,217] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:19:12,226] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.208 seconds
+[2022-06-14 21:21:24,194] {processor.py:163} INFO - Started process (PID=31592) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:21:24,197] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 21:21:24,198] {logging_mixin.py:109} INFO - [2022-06-14 21:21:24,197] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:21:32,139] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:21:32,148] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.956 seconds
+[2022-06-14 21:24:00,837] {processor.py:163} INFO - Started process (PID=1565) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:24:00,839] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 21:24:00,840] {logging_mixin.py:109} INFO - [2022-06-14 21:24:00,840] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:24:08,074] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:24:08,084] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 7.249 seconds
+[2022-06-14 21:26:32,883] {processor.py:163} INFO - Started process (PID=4083) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:26:32,889] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 21:26:32,890] {logging_mixin.py:109} INFO - [2022-06-14 21:26:32,890] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:26:43,964] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:26:43,983] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 11.105 seconds
+[2022-06-14 21:29:16,464] {processor.py:163} INFO - Started process (PID=6846) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:29:16,466] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 21:29:16,467] {logging_mixin.py:109} INFO - [2022-06-14 21:29:16,467] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:29:25,712] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:29:25,721] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.259 seconds
+[2022-06-14 21:31:44,758] {processor.py:163} INFO - Started process (PID=9053) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:31:44,759] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 21:31:44,760] {logging_mixin.py:109} INFO - [2022-06-14 21:31:44,760] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:31:55,373] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:31:55,393] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 10.637 seconds
+[2022-06-14 21:34:40,650] {processor.py:163} INFO - Started process (PID=11798) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:34:40,653] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 21:34:40,654] {logging_mixin.py:109} INFO - [2022-06-14 21:34:40,653] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:34:50,216] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:34:50,237] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.589 seconds
+[2022-06-14 21:37:33,551] {processor.py:163} INFO - Started process (PID=14765) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:37:33,554] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 21:37:33,554] {logging_mixin.py:109} INFO - [2022-06-14 21:37:33,554] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:37:42,692] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:37:42,706] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.158 seconds
+[2022-06-14 21:41:04,709] {processor.py:163} INFO - Started process (PID=19218) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:41:04,711] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 21:41:04,712] {logging_mixin.py:109} INFO - [2022-06-14 21:41:04,712] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:41:13,342] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:41:13,356] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 8.650 seconds
+[2022-06-14 21:44:51,952] {processor.py:163} INFO - Started process (PID=23607) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:44:51,954] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 21:44:51,955] {logging_mixin.py:109} INFO - [2022-06-14 21:44:51,955] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:45:01,525] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:45:01,540] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 9.589 seconds
+[2022-06-14 21:48:16,811] {processor.py:163} INFO - Started process (PID=27521) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:48:16,816] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 21:48:16,818] {logging_mixin.py:109} INFO - [2022-06-14 21:48:16,817] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:48:29,474] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:48:29,489] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 12.685 seconds
+[2022-06-14 21:52:24,622] {processor.py:163} INFO - Started process (PID=473) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:52:24,628] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py for tasks to queue
+[2022-06-14 21:52:24,631] {logging_mixin.py:109} INFO - [2022-06-14 21:52:24,630] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:52:37,299] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py
+[2022-06-14 21:52:37,314] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_spotify.py took 12.712 seconds

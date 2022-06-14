@@ -5,7 +5,6 @@ import os
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import split, col, to_date, when
 from pyspark.sql.types import IntegerType, LongType
-from traitlets import Long
 
 spark = SparkSession \
         .builder \
@@ -29,6 +28,14 @@ def raw_to_fmt_lastfm(**kwargs):
                 raw_to_fmt_json(e, tag, current_day)
             except :
                 print("doesn't exist " + e + " " + tag + " " + current_day)
+    
+    for e in ["topArtist", "topTracks"] :
+        for i in range(len(tags_to_parse)):
+            tag = tags_to_parse[i]
+            try :
+                raw_to_fmt_json(e, tag, "20220613")
+            except :
+                print("doesn't exist " + e + " " + tag + " " + "20220613")
 
 def simplify_items_json(top, tag, date) :
 
@@ -42,7 +49,7 @@ def simplify_items_json(top, tag, date) :
 
         for i in range(len(items)) :
             test = {}
-            test["rank_artist"] = items[i]["@attr"]["rank"]
+            test["rank_artist_"+tag] = items[i]["@attr"]["rank"]
             test["artist"] = items[i]["name"]
 
             map_of_test.append(test)
@@ -58,8 +65,8 @@ def simplify_items_json(top, tag, date) :
             test = {}
             test["name"] = items[i]["name"]
             test["duration_s"] = items[i]["duration"]
-            test["rank_tag"] = items[i]["@attr"]["rank"]
-            test["artist"] = items[i]["artist"]["name"]
+            test["rank_tag_"+tag] = items[i]["@attr"]["rank"]
+            test["artist_name"] = items[i]["artist"]["name"]
 
             map_of_test.append(test)
         
@@ -73,11 +80,11 @@ def raw_to_fmt_json(top, tag, date) :
     df = spark.read.json(HOME + PATH + top + "/" + tag + "/" + date + "/lastfm_simplified.json")
 
     if top == "topArtist" : 
-        df_transformed = df.withColumn("rank_artist", df["rank_artist"].cast(LongType()))
+        df_transformed = df.withColumn("rank_artist_"+tag, df["rank_artist_"+tag].cast(LongType()))
 
     elif top == "topTracks" :
         df_transformed = df.withColumn("duration_s", df["duration_s"].cast(LongType())) \
-                            .withColumn("rank_tag", df["rank_tag"].cast(LongType()))
+                            .withColumn("rank_tag_"+tag, df["rank_tag_"+tag].cast(LongType()))
 
     TARGET_PATH = HOME + "/datalake/formatted/lastfm/" + top + "/" + tag + "/" + date + "/lastfm.parquet"
 
@@ -96,5 +103,5 @@ def show_formatted(top, tag, date) :
     parDF.show()
 
     
-show_formatted("topArtist", "indie", "20220614")
-#raw_to_fmt_lastfm()
+#show_formatted("topTracks", "indie", "20220614")
+raw_to_fmt_lastfm()
