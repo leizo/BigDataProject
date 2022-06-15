@@ -1,0 +1,49 @@
+[2022-06-15 21:13:13,207] {processor.py:163} INFO - Started process (PID=5426) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-06-15 21:13:13,208] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-06-15 21:13:13,209] {logging_mixin.py:109} INFO - [2022-06-15 21:13:13,209] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-06-15 21:13:13,240] {processor.py:652} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-06-15 21:13:13,263] {logging_mixin.py:109} INFO - [2022-06-15 21:13:13,263] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-15 21:13:13,283] {logging_mixin.py:109} INFO - [2022-06-15 21:13:13,283] {dag.py:2937} INFO - Setting next_dagrun for example_complex to None
+[2022-06-15 21:13:13,300] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.097 seconds
+[2022-06-16 00:45:26,456] {processor.py:163} INFO - Started process (PID=12422) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-06-16 00:45:26,460] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-06-16 00:45:26,461] {logging_mixin.py:109} INFO - [2022-06-16 00:45:26,461] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-06-16 00:45:26,512] {processor.py:652} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-06-16 00:45:26,547] {logging_mixin.py:109} INFO - [2022-06-16 00:45:26,547] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:45:26,565] {logging_mixin.py:109} INFO - [2022-06-16 00:45:26,565] {dag.py:2937} INFO - Setting next_dagrun for example_complex to None
+[2022-06-16 00:45:26,579] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.132 seconds
+[2022-06-16 00:49:09,271] {processor.py:163} INFO - Started process (PID=15241) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-06-16 00:49:09,274] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-06-16 00:49:09,275] {logging_mixin.py:109} INFO - [2022-06-16 00:49:09,275] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-06-16 00:49:09,292] {processor.py:652} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-06-16 00:49:09,305] {logging_mixin.py:109} INFO - [2022-06-16 00:49:09,304] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:49:09,317] {logging_mixin.py:109} INFO - [2022-06-16 00:49:09,317] {dag.py:2937} INFO - Setting next_dagrun for example_complex to None
+[2022-06-16 00:49:09,333] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2022-06-16 00:51:30,947] {processor.py:163} INFO - Started process (PID=17081) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-06-16 00:51:30,950] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-06-16 00:51:30,951] {logging_mixin.py:109} INFO - [2022-06-16 00:51:30,951] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-06-16 00:51:30,967] {processor.py:652} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-06-16 00:51:31,001] {logging_mixin.py:109} INFO - [2022-06-16 00:51:31,001] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:51:31,034] {logging_mixin.py:109} INFO - [2022-06-16 00:51:31,034] {dag.py:2937} INFO - Setting next_dagrun for example_complex to None
+[2022-06-16 00:51:31,063] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.125 seconds
+[2022-06-16 00:53:44,104] {processor.py:163} INFO - Started process (PID=20208) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-06-16 00:53:44,107] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-06-16 00:53:44,108] {logging_mixin.py:109} INFO - [2022-06-16 00:53:44,108] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-06-16 00:53:44,125] {processor.py:652} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-06-16 00:53:44,149] {logging_mixin.py:109} INFO - [2022-06-16 00:53:44,149] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:53:44,167] {logging_mixin.py:109} INFO - [2022-06-16 00:53:44,167] {dag.py:2937} INFO - Setting next_dagrun for example_complex to None
+[2022-06-16 00:53:44,183] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.082 seconds
+[2022-06-16 00:55:23,532] {processor.py:163} INFO - Started process (PID=20984) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-06-16 00:55:23,535] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-06-16 00:55:23,535] {logging_mixin.py:109} INFO - [2022-06-16 00:55:23,535] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-06-16 00:55:23,553] {processor.py:652} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-06-16 00:55:23,575] {logging_mixin.py:109} INFO - [2022-06-16 00:55:23,575] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:55:23,593] {logging_mixin.py:109} INFO - [2022-06-16 00:55:23,593] {dag.py:2937} INFO - Setting next_dagrun for example_complex to None
+[2022-06-16 00:55:23,609] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.082 seconds
+[2022-06-16 00:57:30,441] {processor.py:163} INFO - Started process (PID=22040) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-06-16 00:57:30,444] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-06-16 00:57:30,445] {logging_mixin.py:109} INFO - [2022-06-16 00:57:30,445] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-06-16 00:57:30,466] {processor.py:652} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-06-16 00:57:30,491] {logging_mixin.py:109} INFO - [2022-06-16 00:57:30,491] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:57:30,508] {logging_mixin.py:109} INFO - [2022-06-16 00:57:30,508] {dag.py:2937} INFO - Setting next_dagrun for example_complex to None
+[2022-06-16 00:57:30,525] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds

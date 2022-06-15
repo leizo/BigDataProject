@@ -1,0 +1,49 @@
+[2022-06-15 21:13:10,487] {processor.py:163} INFO - Started process (PID=5424) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-06-15 21:13:10,488] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-06-15 21:13:10,490] {logging_mixin.py:109} INFO - [2022-06-15 21:13:10,489] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-06-15 21:13:10,539] {processor.py:652} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-06-15 21:13:10,809] {logging_mixin.py:109} INFO - [2022-06-15 21:13:10,809] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-15 21:13:10,826] {logging_mixin.py:109} INFO - [2022-06-15 21:13:10,825] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-06-15 21:13:10,841] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.363 seconds
+[2022-06-16 00:45:23,881] {processor.py:163} INFO - Started process (PID=12420) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-06-16 00:45:23,886] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-06-16 00:45:23,888] {logging_mixin.py:109} INFO - [2022-06-16 00:45:23,887] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-06-16 00:45:23,917] {processor.py:652} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-06-16 00:45:24,122] {logging_mixin.py:109} INFO - [2022-06-16 00:45:24,122] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:45:24,131] {logging_mixin.py:109} INFO - [2022-06-16 00:45:24,130] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-06-16 00:45:24,148] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.272 seconds
+[2022-06-16 00:49:06,749] {processor.py:163} INFO - Started process (PID=15239) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-06-16 00:49:06,754] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-06-16 00:49:06,755] {logging_mixin.py:109} INFO - [2022-06-16 00:49:06,755] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-06-16 00:49:06,784] {processor.py:652} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-06-16 00:49:06,978] {logging_mixin.py:109} INFO - [2022-06-16 00:49:06,977] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:49:06,990] {logging_mixin.py:109} INFO - [2022-06-16 00:49:06,990] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-06-16 00:49:07,007] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.263 seconds
+[2022-06-16 00:50:57,559] {processor.py:163} INFO - Started process (PID=15990) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-06-16 00:50:57,561] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-06-16 00:50:57,562] {logging_mixin.py:109} INFO - [2022-06-16 00:50:57,562] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-06-16 00:50:57,584] {processor.py:652} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-06-16 00:50:57,871] {logging_mixin.py:109} INFO - [2022-06-16 00:50:57,871] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:50:57,883] {logging_mixin.py:109} INFO - [2022-06-16 00:50:57,883] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-06-16 00:50:57,903] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.347 seconds
+[2022-06-16 00:53:15,190] {processor.py:163} INFO - Started process (PID=19917) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-06-16 00:53:15,194] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-06-16 00:53:15,195] {logging_mixin.py:109} INFO - [2022-06-16 00:53:15,195] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-06-16 00:53:15,220] {processor.py:652} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-06-16 00:53:15,573] {logging_mixin.py:109} INFO - [2022-06-16 00:53:15,573] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:53:15,590] {logging_mixin.py:109} INFO - [2022-06-16 00:53:15,590] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-06-16 00:53:15,609] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.421 seconds
+[2022-06-16 00:54:55,214] {processor.py:163} INFO - Started process (PID=20691) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-06-16 00:54:55,218] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-06-16 00:54:55,220] {logging_mixin.py:109} INFO - [2022-06-16 00:54:55,219] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-06-16 00:54:55,251] {processor.py:652} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-06-16 00:54:55,575] {logging_mixin.py:109} INFO - [2022-06-16 00:54:55,574] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:54:55,591] {logging_mixin.py:109} INFO - [2022-06-16 00:54:55,591] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-06-16 00:54:55,613] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.404 seconds
+[2022-06-16 00:57:01,347] {processor.py:163} INFO - Started process (PID=21747) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-06-16 00:57:01,350] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-06-16 00:57:01,351] {logging_mixin.py:109} INFO - [2022-06-16 00:57:01,351] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-06-16 00:57:01,369] {processor.py:652} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-06-16 00:57:01,643] {logging_mixin.py:109} INFO - [2022-06-16 00:57:01,642] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:57:01,654] {logging_mixin.py:109} INFO - [2022-06-16 00:57:01,654] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-06-16 00:57:01,672] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.328 seconds

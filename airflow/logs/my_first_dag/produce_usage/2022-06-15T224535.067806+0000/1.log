@@ -1,0 +1,31 @@
+[2022-06-16 00:48:07,021] {taskinstance.py:1043} INFO - Dependencies all met for <TaskInstance: my_first_dag.produce_usage manual__2022-06-15T22:45:35.067806+00:00 [queued]>
+[2022-06-16 00:48:07,031] {taskinstance.py:1043} INFO - Dependencies all met for <TaskInstance: my_first_dag.produce_usage manual__2022-06-15T22:45:35.067806+00:00 [queued]>
+[2022-06-16 00:48:07,031] {taskinstance.py:1249} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-16 00:48:07,031] {taskinstance.py:1250} INFO - Starting attempt 1 of 2
+[2022-06-16 00:48:07,031] {taskinstance.py:1251} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-16 00:48:07,046] {taskinstance.py:1270} INFO - Executing <Task(PythonOperator): produce_usage> on 2022-06-15 22:45:35.067806+00:00
+[2022-06-16 00:48:07,049] {standard_task_runner.py:52} INFO - Started process 14325 to run task
+[2022-06-16 00:48:07,053] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'my_first_dag', 'produce_usage', 'manual__2022-06-15T22:45:35.067806+00:00', '--job-id', '75', '--raw', '--subdir', 'DAGS_FOLDER/my_first_dag.py', '--cfg-path', '/tmp/tmprndx4hxo', '--error-file', '/tmp/tmpftyps37v']
+[2022-06-16 00:48:07,054] {standard_task_runner.py:80} INFO - Job 75: Subtask produce_usage
+[2022-06-16 00:48:07,111] {logging_mixin.py:109} INFO - Running <TaskInstance: my_first_dag.produce_usage manual__2022-06-15T22:45:35.067806+00:00 [running]> on host LAPTOP-M1F9EL62.localdomain
+[2022-06-16 00:48:07,163] {taskinstance.py:1446} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=my_first_dag
+AIRFLOW_CTX_TASK_ID=produce_usage
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-15T22:45:35.067806+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-06-15T22:45:35.067806+00:00
+[2022-06-16 00:48:11,683] {logging_mixin.py:109} INFO - paquet already exists /bytracks/rock/20220616
+[2022-06-16 00:48:12,206] {logging_mixin.py:109} INFO - paquet already exists /byartist/rock/20220616
+[2022-06-16 00:48:12,640] {logging_mixin.py:109} INFO - paquet already exists /bytracks/indie/20220616
+[2022-06-16 00:48:12,923] {logging_mixin.py:109} INFO - paquet already exists /byartist/indie/20220616
+[2022-06-16 00:48:13,161] {logging_mixin.py:109} INFO - paquet already exists /bytracks/alternative/20220616
+[2022-06-16 00:48:13,364] {logging_mixin.py:109} INFO - paquet already exists /byartist/alternative/20220616
+[2022-06-16 00:48:13,621] {logging_mixin.py:109} INFO - paquet already exists /bytracks/pop/20220616
+[2022-06-16 00:48:13,819] {logging_mixin.py:109} INFO - paquet already exists /byartist/pop/20220616
+[2022-06-16 00:48:13,819] {python.py:175} INFO - Done. Returned value was: None
+[2022-06-16 00:48:13,835] {taskinstance.py:1278} INFO - Marking task as SUCCESS. dag_id=my_first_dag, task_id=produce_usage, execution_date=20220615T224535, start_date=20220615T224807, end_date=20220615T224813
+[2022-06-16 00:48:13,893] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-06-16 00:48:13,921] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

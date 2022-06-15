@@ -1,0 +1,42 @@
+[2022-06-15 21:13:18,354] {processor.py:163} INFO - Started process (PID=5430) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-06-15 21:13:18,356] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-06-15 21:13:18,358] {logging_mixin.py:109} INFO - [2022-06-15 21:13:18,357] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-06-15 21:13:18,379] {processor.py:652} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-06-15 21:13:18,399] {logging_mixin.py:109} INFO - [2022-06-15 21:13:18,399] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-15 21:13:18,418] {logging_mixin.py:109} INFO - [2022-06-15 21:13:18,418] {dag.py:2937} INFO - Setting next_dagrun for tutorial to 2022-06-14T19:13:18.418039+00:00
+[2022-06-15 21:13:18,439] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.089 seconds
+[2022-06-16 00:45:31,077] {processor.py:163} INFO - Started process (PID=12426) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-06-16 00:45:31,082] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-06-16 00:45:31,083] {logging_mixin.py:109} INFO - [2022-06-16 00:45:31,083] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-06-16 00:45:31,118] {processor.py:652} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-06-16 00:45:31,145] {logging_mixin.py:109} INFO - [2022-06-16 00:45:31,145] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:45:31,180] {logging_mixin.py:109} INFO - [2022-06-16 00:45:31,180] {dag.py:2937} INFO - Setting next_dagrun for tutorial to 2022-06-14T22:45:31.179360+00:00
+[2022-06-16 00:45:31,203] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.131 seconds
+[2022-06-16 00:49:13,932] {processor.py:163} INFO - Started process (PID=15245) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-06-16 00:49:13,935] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-06-16 00:49:13,937] {logging_mixin.py:109} INFO - [2022-06-16 00:49:13,936] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-06-16 00:49:13,950] {processor.py:652} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-06-16 00:49:13,964] {logging_mixin.py:109} INFO - [2022-06-16 00:49:13,964] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:49:13,976] {logging_mixin.py:109} INFO - [2022-06-16 00:49:13,976] {dag.py:2937} INFO - Setting next_dagrun for tutorial to 2022-06-14T22:49:13.976211+00:00
+[2022-06-16 00:49:13,993] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.067 seconds
+[2022-06-16 00:51:36,324] {processor.py:163} INFO - Started process (PID=17085) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-06-16 00:51:36,329] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-06-16 00:51:36,331] {logging_mixin.py:109} INFO - [2022-06-16 00:51:36,331] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-06-16 00:51:36,346] {processor.py:652} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-06-16 00:51:36,387] {logging_mixin.py:109} INFO - [2022-06-16 00:51:36,386] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:51:36,412] {logging_mixin.py:109} INFO - [2022-06-16 00:51:36,412] {dag.py:2937} INFO - Setting next_dagrun for tutorial to 2022-06-14T22:51:36.411726+00:00
+[2022-06-16 00:51:36,435] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.119 seconds
+[2022-06-16 00:53:49,157] {processor.py:163} INFO - Started process (PID=20212) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-06-16 00:53:49,159] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-06-16 00:53:49,160] {logging_mixin.py:109} INFO - [2022-06-16 00:53:49,160] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-06-16 00:53:49,169] {processor.py:652} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-06-16 00:53:49,184] {logging_mixin.py:109} INFO - [2022-06-16 00:53:49,184] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:53:49,200] {logging_mixin.py:109} INFO - [2022-06-16 00:53:49,200] {dag.py:2937} INFO - Setting next_dagrun for tutorial to 2022-06-14T22:53:49.199431+00:00
+[2022-06-16 00:53:49,222] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.069 seconds
+[2022-06-16 00:55:27,508] {processor.py:163} INFO - Started process (PID=20988) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-06-16 00:55:27,511] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-06-16 00:55:27,512] {logging_mixin.py:109} INFO - [2022-06-16 00:55:27,512] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-06-16 00:55:27,523] {processor.py:652} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-06-16 00:55:27,540] {logging_mixin.py:109} INFO - [2022-06-16 00:55:27,540] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:55:27,555] {logging_mixin.py:109} INFO - [2022-06-16 00:55:27,555] {dag.py:2937} INFO - Setting next_dagrun for tutorial to 2022-06-14T22:55:27.554901+00:00
+[2022-06-16 00:55:27,570] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.066 seconds

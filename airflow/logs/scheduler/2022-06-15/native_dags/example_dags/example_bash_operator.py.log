@@ -1,0 +1,35 @@
+[2022-06-15 21:13:28,552] {processor.py:163} INFO - Started process (PID=5439) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-06-15 21:13:28,553] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-06-15 21:13:28,553] {logging_mixin.py:109} INFO - [2022-06-15 21:13:28,553] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-06-15 21:13:28,569] {processor.py:652} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-06-15 21:13:28,581] {logging_mixin.py:109} INFO - [2022-06-15 21:13:28,581] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-15 21:13:28,600] {logging_mixin.py:109} INFO - [2022-06-15 21:13:28,600] {dag.py:2937} INFO - Setting next_dagrun for example_bash_operator to 2022-06-14 00:00:00+00:00
+[2022-06-15 21:13:28,615] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.066 seconds
+[2022-06-16 00:49:23,211] {processor.py:163} INFO - Started process (PID=15254) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-06-16 00:49:23,213] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-06-16 00:49:23,214] {logging_mixin.py:109} INFO - [2022-06-16 00:49:23,214] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-06-16 00:49:23,227] {processor.py:652} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-06-16 00:49:23,246] {logging_mixin.py:109} INFO - [2022-06-16 00:49:23,246] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:49:23,264] {logging_mixin.py:109} INFO - [2022-06-16 00:49:23,263] {dag.py:2937} INFO - Setting next_dagrun for example_bash_operator to 2022-06-14 00:00:00+00:00
+[2022-06-16 00:49:23,280] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.073 seconds
+[2022-06-16 00:51:46,670] {processor.py:163} INFO - Started process (PID=17105) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-06-16 00:51:46,672] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-06-16 00:51:46,673] {logging_mixin.py:109} INFO - [2022-06-16 00:51:46,673] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-06-16 00:51:46,693] {processor.py:652} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-06-16 00:51:46,708] {logging_mixin.py:109} INFO - [2022-06-16 00:51:46,708] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:51:46,723] {logging_mixin.py:109} INFO - [2022-06-16 00:51:46,723] {dag.py:2937} INFO - Setting next_dagrun for example_bash_operator to 2022-06-14 00:00:00+00:00
+[2022-06-16 00:51:46,746] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.084 seconds
+[2022-06-16 00:53:58,461] {processor.py:163} INFO - Started process (PID=20221) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-06-16 00:53:58,463] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-06-16 00:53:58,464] {logging_mixin.py:109} INFO - [2022-06-16 00:53:58,464] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-06-16 00:53:58,481] {processor.py:652} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-06-16 00:53:58,501] {logging_mixin.py:109} INFO - [2022-06-16 00:53:58,501] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:53:58,518] {logging_mixin.py:109} INFO - [2022-06-16 00:53:58,518] {dag.py:2937} INFO - Setting next_dagrun for example_bash_operator to 2022-06-14 00:00:00+00:00
+[2022-06-16 00:53:58,536] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.078 seconds
+[2022-06-16 00:55:37,518] {processor.py:163} INFO - Started process (PID=20997) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-06-16 00:55:37,523] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-06-16 00:55:37,524] {logging_mixin.py:109} INFO - [2022-06-16 00:55:37,524] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-06-16 00:55:37,539] {processor.py:652} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-06-16 00:55:37,558] {logging_mixin.py:109} INFO - [2022-06-16 00:55:37,558] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:55:37,582] {logging_mixin.py:109} INFO - [2022-06-16 00:55:37,581] {dag.py:2937} INFO - Setting next_dagrun for example_bash_operator to 2022-06-14 00:00:00+00:00
+[2022-06-16 00:55:37,602] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.089 seconds

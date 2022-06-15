@@ -1,0 +1,195 @@
+[2022-06-15 21:12:29,695] {processor.py:163} INFO - Started process (PID=4965) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-15 21:12:29,697] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py for tasks to queue
+[2022-06-15 21:12:29,699] {logging_mixin.py:109} INFO - [2022-06-15 21:12:29,699] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-15 21:12:38,859] {logging_mixin.py:109} INFO - doesn't exist topArtist rock 20220615
+[2022-06-15 21:12:38,861] {logging_mixin.py:109} INFO - doesn't exist topArtist indie 20220615
+[2022-06-15 21:12:38,861] {logging_mixin.py:109} INFO - doesn't exist topArtist indie rock 20220615
+[2022-06-15 21:12:38,862] {logging_mixin.py:109} INFO - doesn't exist topArtist alternative 20220615
+[2022-06-15 21:12:38,863] {logging_mixin.py:109} INFO - doesn't exist topArtist pop 20220615
+[2022-06-15 21:12:38,864] {logging_mixin.py:109} INFO - doesn't exist topTracks rock 20220615
+[2022-06-15 21:12:38,865] {logging_mixin.py:109} INFO - doesn't exist topTracks indie 20220615
+[2022-06-15 21:12:38,866] {logging_mixin.py:109} INFO - doesn't exist topTracks indie rock 20220615
+[2022-06-15 21:12:38,866] {logging_mixin.py:109} INFO - doesn't exist topTracks alternative 20220615
+[2022-06-15 21:12:38,867] {logging_mixin.py:109} INFO - doesn't exist topTracks pop 20220615
+[2022-06-15 21:12:47,243] {logging_mixin.py:109} INFO - paquet already exists topArtist rock 20220613
+[2022-06-15 21:12:47,872] {logging_mixin.py:109} INFO - paquet already exists topArtist indie 20220613
+[2022-06-15 21:12:48,488] {logging_mixin.py:109} INFO - paquet already exists topArtist indie rock 20220613
+[2022-06-15 21:12:49,016] {logging_mixin.py:109} INFO - paquet already exists topArtist alternative 20220613
+[2022-06-15 21:12:49,511] {logging_mixin.py:109} INFO - paquet already exists topArtist pop 20220613
+[2022-06-15 21:12:50,010] {logging_mixin.py:109} INFO - paquet already exists topTracks rock 20220613
+[2022-06-15 21:12:50,490] {logging_mixin.py:109} INFO - paquet already exists topTracks indie 20220613
+[2022-06-15 21:12:50,958] {logging_mixin.py:109} INFO - paquet already exists topTracks indie rock 20220613
+[2022-06-15 21:12:51,398] {logging_mixin.py:109} INFO - paquet already exists topTracks alternative 20220613
+[2022-06-15 21:12:51,857] {logging_mixin.py:109} INFO - paquet already exists topTracks pop 20220613
+[2022-06-15 21:12:51,857] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-15 21:12:51,870] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py took 22.184 seconds
+[2022-06-16 00:44:26,957] {processor.py:163} INFO - Started process (PID=11692) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:44:26,959] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py for tasks to queue
+[2022-06-16 00:44:26,960] {logging_mixin.py:109} INFO - [2022-06-16 00:44:26,960] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:44:43,688] {logging_mixin.py:109} INFO - paquet already exists topArtist rock 20220616
+[2022-06-16 00:44:44,379] {logging_mixin.py:109} INFO - paquet already exists topArtist indie 20220616
+[2022-06-16 00:44:44,753] {logging_mixin.py:109} INFO - paquet already exists topArtist indie rock 20220616
+[2022-06-16 00:44:45,144] {logging_mixin.py:109} INFO - paquet already exists topArtist alternative 20220616
+[2022-06-16 00:44:45,663] {logging_mixin.py:109} INFO - paquet already exists topArtist pop 20220616
+[2022-06-16 00:44:45,930] {logging_mixin.py:109} INFO - paquet already exists topTracks rock 20220616
+[2022-06-16 00:44:46,240] {logging_mixin.py:109} INFO - paquet already exists topTracks indie 20220616
+[2022-06-16 00:44:46,521] {logging_mixin.py:109} INFO - paquet already exists topTracks indie rock 20220616
+[2022-06-16 00:44:46,813] {logging_mixin.py:109} INFO - paquet already exists topTracks alternative 20220616
+[2022-06-16 00:44:47,135] {logging_mixin.py:109} INFO - paquet already exists topTracks pop 20220616
+[2022-06-16 00:44:47,136] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:44:47,143] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py took 20.189 seconds
+[2022-06-16 00:47:28,846] {processor.py:163} INFO - Started process (PID=13742) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:47:28,849] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py for tasks to queue
+[2022-06-16 00:47:28,850] {logging_mixin.py:109} INFO - [2022-06-16 00:47:28,850] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:47:43,788] {logging_mixin.py:109} INFO - paquet already exists topArtist rock 20220616
+[2022-06-16 00:47:44,283] {logging_mixin.py:109} INFO - paquet already exists topArtist indie 20220616
+[2022-06-16 00:47:44,708] {logging_mixin.py:109} INFO - paquet already exists topArtist indie rock 20220616
+[2022-06-16 00:47:44,972] {logging_mixin.py:109} INFO - paquet already exists topArtist alternative 20220616
+[2022-06-16 00:47:45,289] {logging_mixin.py:109} INFO - paquet already exists topArtist pop 20220616
+[2022-06-16 00:47:45,656] {logging_mixin.py:109} INFO - paquet already exists topTracks rock 20220616
+[2022-06-16 00:47:45,956] {logging_mixin.py:109} INFO - paquet already exists topTracks indie 20220616
+[2022-06-16 00:47:46,245] {logging_mixin.py:109} INFO - paquet already exists topTracks indie rock 20220616
+[2022-06-16 00:47:46,527] {logging_mixin.py:109} INFO - paquet already exists topTracks alternative 20220616
+[2022-06-16 00:47:46,905] {logging_mixin.py:109} INFO - paquet already exists topTracks pop 20220616
+[2022-06-16 00:47:46,905] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:47:46,939] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py took 18.100 seconds
+[2022-06-16 00:49:38,558] {processor.py:163} INFO - Started process (PID=15274) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:49:38,561] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py for tasks to queue
+[2022-06-16 00:49:38,561] {logging_mixin.py:109} INFO - [2022-06-16 00:49:38,561] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:50:02,832] {logging_mixin.py:109} INFO - paquet already exists topArtist rock 20220616
+[2022-06-16 00:50:03,647] {logging_mixin.py:109} INFO - paquet already exists topArtist indie 20220616
+[2022-06-16 00:50:04,825] {logging_mixin.py:109} INFO - paquet already exists topArtist indie rock 20220616
+[2022-06-16 00:50:05,538] {logging_mixin.py:109} INFO - paquet already exists topArtist alternative 20220616
+[2022-06-16 00:50:06,016] {logging_mixin.py:109} INFO - paquet already exists topArtist pop 20220616
+[2022-06-16 00:50:06,783] {logging_mixin.py:109} INFO - paquet already exists topTracks rock 20220616
+[2022-06-16 00:50:07,554] {logging_mixin.py:109} INFO - paquet already exists topTracks indie 20220616
+[2022-06-16 00:50:08,439] {logging_mixin.py:109} INFO - paquet already exists topTracks indie rock 20220616
+[2022-06-16 00:50:08,567] {logging_mixin.py:109} INFO - [2022-06-16 00:50:08,564] {timeout.py:36} ERROR - Process timed out, PID: 15274
+[2022-06-16 00:50:08,583] {logging_mixin.py:109} INFO - [2022-06-16 00:50:08,567] {clientserver.py:502} INFO - Error while receiving.
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/py4j/clientserver.py", line 475, in send_command
+    answer = smart_decode(self.stream.readline()[:-1])
+  File "/usr/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/utils/timeout.py", line 37, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.2.5/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.2.5/best-practices.html#reducing-dag-complexity, PID: 15274
+[2022-06-16 00:50:08,584] {logging_mixin.py:109} INFO - [2022-06-16 00:50:08,584] {clientserver.py:507} INFO - Closing down clientserver connection
+[2022-06-16 00:50:08,591] {logging_mixin.py:109} INFO - [2022-06-16 00:50:08,584] {java_gateway.py:1055} ERROR - Exception while sending command.
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/py4j/clientserver.py", line 475, in send_command
+    answer = smart_decode(self.stream.readline()[:-1])
+  File "/usr/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/home/leizo/.local/lib/python3.8/site-packages/airflow/utils/timeout.py", line 37, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.2.5/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.2.5/best-practices.html#reducing-dag-complexity, PID: 15274
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/leizo/.local/lib/python3.8/site-packages/py4j/java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+  File "/home/leizo/.local/lib/python3.8/site-packages/py4j/clientserver.py", line 503, in send_command
+    raise Py4JNetworkError(
+py4j.protocol.Py4JNetworkError: Error while sending or receiving
+[2022-06-16 00:50:08,592] {logging_mixin.py:109} INFO - doesn't exist topTracks alternative 20220616
+[2022-06-16 00:50:09,367] {logging_mixin.py:109} INFO - paquet already exists topTracks pop 20220616
+[2022-06-16 00:50:09,368] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:50:09,384] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py took 30.829 seconds
+[2022-06-16 00:51:00,296] {processor.py:163} INFO - Started process (PID=15999) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:51:00,299] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py for tasks to queue
+[2022-06-16 00:51:00,300] {logging_mixin.py:109} INFO - [2022-06-16 00:51:00,300] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:51:22,194] {logging_mixin.py:109} INFO - paquet already exists topArtist rock 20220616
+[2022-06-16 00:51:22,863] {logging_mixin.py:109} INFO - paquet already exists topArtist indie 20220616
+[2022-06-16 00:51:23,768] {logging_mixin.py:109} INFO - paquet already exists topArtist indie rock 20220616
+[2022-06-16 00:51:24,400] {logging_mixin.py:109} INFO - paquet already exists topArtist alternative 20220616
+[2022-06-16 00:51:25,045] {logging_mixin.py:109} INFO - paquet already exists topArtist pop 20220616
+[2022-06-16 00:51:25,768] {logging_mixin.py:109} INFO - paquet already exists topTracks rock 20220616
+[2022-06-16 00:51:26,401] {logging_mixin.py:109} INFO - paquet already exists topTracks indie 20220616
+[2022-06-16 00:51:27,095] {logging_mixin.py:109} INFO - paquet already exists topTracks indie rock 20220616
+[2022-06-16 00:51:27,788] {logging_mixin.py:109} INFO - paquet already exists topTracks alternative 20220616
+[2022-06-16 00:51:28,390] {logging_mixin.py:109} INFO - paquet already exists topTracks pop 20220616
+[2022-06-16 00:51:28,391] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:51:28,406] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py took 28.114 seconds
+[2022-06-16 00:52:01,283] {processor.py:163} INFO - Started process (PID=17157) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:52:01,285] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py for tasks to queue
+[2022-06-16 00:52:01,286] {logging_mixin.py:109} INFO - [2022-06-16 00:52:01,286] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:52:22,738] {logging_mixin.py:109} INFO - paquet already exists topArtist rock 20220616
+[2022-06-16 00:52:23,406] {logging_mixin.py:109} INFO - paquet already exists topArtist indie 20220616
+[2022-06-16 00:52:24,066] {logging_mixin.py:109} INFO - paquet already exists topArtist indie rock 20220616
+[2022-06-16 00:52:24,693] {logging_mixin.py:109} INFO - paquet already exists topArtist alternative 20220616
+[2022-06-16 00:52:25,261] {logging_mixin.py:109} INFO - paquet already exists topArtist pop 20220616
+[2022-06-16 00:52:25,879] {logging_mixin.py:109} INFO - paquet already exists topTracks rock 20220616
+[2022-06-16 00:52:26,418] {logging_mixin.py:109} INFO - paquet already exists topTracks indie 20220616
+[2022-06-16 00:52:27,021] {logging_mixin.py:109} INFO - paquet already exists topTracks indie rock 20220616
+[2022-06-16 00:52:27,649] {logging_mixin.py:109} INFO - paquet already exists topTracks alternative 20220616
+[2022-06-16 00:52:28,143] {logging_mixin.py:109} INFO - paquet already exists topTracks pop 20220616
+[2022-06-16 00:52:28,144] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:52:28,158] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py took 26.879 seconds
+[2022-06-16 00:53:19,350] {processor.py:163} INFO - Started process (PID=19927) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:53:19,354] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py for tasks to queue
+[2022-06-16 00:53:19,354] {logging_mixin.py:109} INFO - [2022-06-16 00:53:19,354] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:53:38,421] {logging_mixin.py:109} INFO - paquet already exists topArtist rock 20220616
+[2022-06-16 00:53:38,905] {logging_mixin.py:109} INFO - paquet already exists topArtist indie 20220616
+[2022-06-16 00:53:39,559] {logging_mixin.py:109} INFO - paquet already exists topArtist indie rock 20220616
+[2022-06-16 00:53:40,047] {logging_mixin.py:109} INFO - paquet already exists topArtist alternative 20220616
+[2022-06-16 00:53:40,518] {logging_mixin.py:109} INFO - paquet already exists topArtist pop 20220616
+[2022-06-16 00:53:41,055] {logging_mixin.py:109} INFO - paquet already exists topTracks rock 20220616
+[2022-06-16 00:53:41,509] {logging_mixin.py:109} INFO - paquet already exists topTracks indie 20220616
+[2022-06-16 00:53:41,989] {logging_mixin.py:109} INFO - paquet already exists topTracks indie rock 20220616
+[2022-06-16 00:53:42,438] {logging_mixin.py:109} INFO - paquet already exists topTracks alternative 20220616
+[2022-06-16 00:53:42,898] {logging_mixin.py:109} INFO - paquet already exists topTracks pop 20220616
+[2022-06-16 00:53:42,899] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:53:42,909] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py took 23.565 seconds
+[2022-06-16 00:54:59,363] {processor.py:163} INFO - Started process (PID=20701) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:54:59,366] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py for tasks to queue
+[2022-06-16 00:54:59,367] {logging_mixin.py:109} INFO - [2022-06-16 00:54:59,367] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:55:17,822] {logging_mixin.py:109} INFO - paquet already exists topArtist rock 20220616
+[2022-06-16 00:55:18,322] {logging_mixin.py:109} INFO - paquet already exists topArtist indie 20220616
+[2022-06-16 00:55:18,999] {logging_mixin.py:109} INFO - paquet already exists topArtist indie rock 20220616
+[2022-06-16 00:55:19,509] {logging_mixin.py:109} INFO - paquet already exists topArtist alternative 20220616
+[2022-06-16 00:55:19,980] {logging_mixin.py:109} INFO - paquet already exists topArtist pop 20220616
+[2022-06-16 00:55:20,504] {logging_mixin.py:109} INFO - paquet already exists topTracks rock 20220616
+[2022-06-16 00:55:20,969] {logging_mixin.py:109} INFO - paquet already exists topTracks indie 20220616
+[2022-06-16 00:55:21,446] {logging_mixin.py:109} INFO - paquet already exists topTracks indie rock 20220616
+[2022-06-16 00:55:21,874] {logging_mixin.py:109} INFO - paquet already exists topTracks alternative 20220616
+[2022-06-16 00:55:22,308] {logging_mixin.py:109} INFO - paquet already exists topTracks pop 20220616
+[2022-06-16 00:55:22,309] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:55:22,326] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py took 22.966 seconds
+[2022-06-16 00:55:54,182] {processor.py:163} INFO - Started process (PID=21017) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:55:54,186] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py for tasks to queue
+[2022-06-16 00:55:54,188] {logging_mixin.py:109} INFO - [2022-06-16 00:55:54,188] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:56:13,045] {logging_mixin.py:109} INFO - paquet already exists topArtist rock 20220616
+[2022-06-16 00:56:13,569] {logging_mixin.py:109} INFO - paquet already exists topArtist indie 20220616
+[2022-06-16 00:56:14,211] {logging_mixin.py:109} INFO - paquet already exists topArtist indie rock 20220616
+[2022-06-16 00:56:14,744] {logging_mixin.py:109} INFO - paquet already exists topArtist alternative 20220616
+[2022-06-16 00:56:15,177] {logging_mixin.py:109} INFO - paquet already exists topArtist pop 20220616
+[2022-06-16 00:56:15,650] {logging_mixin.py:109} INFO - paquet already exists topTracks rock 20220616
+[2022-06-16 00:56:16,153] {logging_mixin.py:109} INFO - paquet already exists topTracks indie 20220616
+[2022-06-16 00:56:16,643] {logging_mixin.py:109} INFO - paquet already exists topTracks indie rock 20220616
+[2022-06-16 00:56:17,094] {logging_mixin.py:109} INFO - paquet already exists topTracks alternative 20220616
+[2022-06-16 00:56:17,585] {logging_mixin.py:109} INFO - paquet already exists topTracks pop 20220616
+[2022-06-16 00:56:17,585] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:56:17,601] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py took 23.426 seconds
+[2022-06-16 00:57:05,387] {processor.py:163} INFO - Started process (PID=21757) to work on /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:57:05,390] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py for tasks to queue
+[2022-06-16 00:57:05,391] {logging_mixin.py:109} INFO - [2022-06-16 00:57:05,391] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:57:23,913] {logging_mixin.py:109} INFO - paquet already exists topArtist rock 20220616
+[2022-06-16 00:57:24,419] {logging_mixin.py:109} INFO - paquet already exists topArtist indie 20220616
+[2022-06-16 00:57:25,102] {logging_mixin.py:109} INFO - paquet already exists topArtist indie rock 20220616
+[2022-06-16 00:57:25,604] {logging_mixin.py:109} INFO - paquet already exists topArtist alternative 20220616
+[2022-06-16 00:57:26,080] {logging_mixin.py:109} INFO - paquet already exists topArtist pop 20220616
+[2022-06-16 00:57:26,606] {logging_mixin.py:109} INFO - paquet already exists topTracks rock 20220616
+[2022-06-16 00:57:27,206] {logging_mixin.py:109} INFO - paquet already exists topTracks indie 20220616
+[2022-06-16 00:57:27,951] {logging_mixin.py:109} INFO - paquet already exists topTracks indie rock 20220616
+[2022-06-16 00:57:28,565] {logging_mixin.py:109} INFO - paquet already exists topTracks alternative 20220616
+[2022-06-16 00:57:29,205] {logging_mixin.py:109} INFO - paquet already exists topTracks pop 20220616
+[2022-06-16 00:57:29,206] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py
+[2022-06-16 00:57:29,218] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/raw_to_fmt_lastfm.py took 23.835 seconds

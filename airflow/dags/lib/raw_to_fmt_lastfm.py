@@ -28,14 +28,6 @@ def raw_to_fmt_lastfm(**kwargs):
                 raw_to_fmt_json(e, tag, current_day)
             except :
                 print("doesn't exist " + e + " " + tag + " " + current_day)
-    
-    for e in ["topArtist", "topTracks"] :
-        for i in range(len(tags_to_parse)):
-            tag = tags_to_parse[i]
-            try :
-                raw_to_fmt_json(e, tag, "20220613")
-            except :
-                print("doesn't exist " + e + " " + tag + " " + "20220613")
 
 def simplify_items_json(top, tag, date) :
 

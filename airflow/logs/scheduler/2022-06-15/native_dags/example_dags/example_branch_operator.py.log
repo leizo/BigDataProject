@@ -1,0 +1,35 @@
+[2022-06-15 21:13:24,914] {processor.py:163} INFO - Started process (PID=5436) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-06-15 21:13:24,915] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-06-15 21:13:24,916] {logging_mixin.py:109} INFO - [2022-06-15 21:13:24,916] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-06-15 21:13:24,947] {processor.py:652} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-06-15 21:13:24,969] {logging_mixin.py:109} INFO - [2022-06-15 21:13:24,969] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-15 21:13:24,989] {logging_mixin.py:109} INFO - [2022-06-15 21:13:24,989] {dag.py:2937} INFO - Setting next_dagrun for example_branch_operator to 2022-06-14 00:00:00+00:00
+[2022-06-15 21:13:25,012] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.102 seconds
+[2022-06-16 00:49:20,260] {processor.py:163} INFO - Started process (PID=15251) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-06-16 00:49:20,264] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-06-16 00:49:20,266] {logging_mixin.py:109} INFO - [2022-06-16 00:49:20,265] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-06-16 00:49:20,278] {processor.py:652} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-06-16 00:49:20,289] {logging_mixin.py:109} INFO - [2022-06-16 00:49:20,289] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:49:20,300] {logging_mixin.py:109} INFO - [2022-06-16 00:49:20,300] {dag.py:2937} INFO - Setting next_dagrun for example_branch_operator to 2022-06-14 00:00:00+00:00
+[2022-06-16 00:49:20,318] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.066 seconds
+[2022-06-16 00:51:43,684] {processor.py:163} INFO - Started process (PID=17092) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-06-16 00:51:43,687] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-06-16 00:51:43,688] {logging_mixin.py:109} INFO - [2022-06-16 00:51:43,688] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-06-16 00:51:43,705] {processor.py:652} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-06-16 00:51:43,733] {logging_mixin.py:109} INFO - [2022-06-16 00:51:43,733] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:51:43,771] {logging_mixin.py:109} INFO - [2022-06-16 00:51:43,770] {dag.py:2937} INFO - Setting next_dagrun for example_branch_operator to 2022-06-14 00:00:00+00:00
+[2022-06-16 00:51:43,799] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.119 seconds
+[2022-06-16 00:53:55,969] {processor.py:163} INFO - Started process (PID=20218) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-06-16 00:53:55,972] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-06-16 00:53:55,973] {logging_mixin.py:109} INFO - [2022-06-16 00:53:55,973] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-06-16 00:53:55,992] {processor.py:652} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-06-16 00:53:56,029] {logging_mixin.py:109} INFO - [2022-06-16 00:53:56,029] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:53:56,058] {logging_mixin.py:109} INFO - [2022-06-16 00:53:56,058] {dag.py:2937} INFO - Setting next_dagrun for example_branch_operator to 2022-06-14 00:00:00+00:00
+[2022-06-16 00:53:56,088] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.125 seconds
+[2022-06-16 00:55:34,163] {processor.py:163} INFO - Started process (PID=20994) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-06-16 00:55:34,166] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-06-16 00:55:34,167] {logging_mixin.py:109} INFO - [2022-06-16 00:55:34,167] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-06-16 00:55:34,180] {processor.py:652} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-06-16 00:55:34,199] {logging_mixin.py:109} INFO - [2022-06-16 00:55:34,199] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 00:55:34,217] {logging_mixin.py:109} INFO - [2022-06-16 00:55:34,216] {dag.py:2937} INFO - Setting next_dagrun for example_branch_operator to 2022-06-14 00:00:00+00:00
+[2022-06-16 00:55:34,234] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.074 seconds
