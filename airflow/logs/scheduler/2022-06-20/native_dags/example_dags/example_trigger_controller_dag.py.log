@@ -1,0 +1,679 @@
+[2022-06-20 11:07:16,018] {processor.py:163} INFO - Started process (PID=6172) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:07:16,019] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:07:16,020] {logging_mixin.py:109} INFO - [2022-06-20 11:07:16,020] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:07:16,034] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:07:16,046] {logging_mixin.py:109} INFO - [2022-06-20 11:07:16,046] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:07:16,056] {logging_mixin.py:109} INFO - [2022-06-20 11:07:16,056] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:07:16,070] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.055 seconds
+[2022-06-20 11:09:24,152] {processor.py:163} INFO - Started process (PID=7469) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:09:24,155] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:09:24,156] {logging_mixin.py:109} INFO - [2022-06-20 11:09:24,156] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:09:24,170] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:09:24,183] {logging_mixin.py:109} INFO - [2022-06-20 11:09:24,183] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:09:24,197] {logging_mixin.py:109} INFO - [2022-06-20 11:09:24,197] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:09:24,216] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.066 seconds
+[2022-06-20 11:11:53,211] {processor.py:163} INFO - Started process (PID=9020) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:11:53,214] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:11:53,215] {logging_mixin.py:109} INFO - [2022-06-20 11:11:53,215] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:11:53,227] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:11:53,238] {logging_mixin.py:109} INFO - [2022-06-20 11:11:53,238] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:11:53,249] {logging_mixin.py:109} INFO - [2022-06-20 11:11:53,249] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:11:53,263] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.054 seconds
+[2022-06-20 11:13:59,452] {processor.py:163} INFO - Started process (PID=10374) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:13:59,455] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:13:59,455] {logging_mixin.py:109} INFO - [2022-06-20 11:13:59,455] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:13:59,469] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:13:59,483] {logging_mixin.py:109} INFO - [2022-06-20 11:13:59,483] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:13:59,502] {logging_mixin.py:109} INFO - [2022-06-20 11:13:59,502] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:13:59,522] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.073 seconds
+[2022-06-20 11:16:11,956] {processor.py:163} INFO - Started process (PID=11666) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:16:11,958] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:16:11,959] {logging_mixin.py:109} INFO - [2022-06-20 11:16:11,959] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:16:11,975] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:16:11,992] {logging_mixin.py:109} INFO - [2022-06-20 11:16:11,992] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:16:12,009] {logging_mixin.py:109} INFO - [2022-06-20 11:16:12,009] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:16:12,023] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.070 seconds
+[2022-06-20 11:18:44,369] {processor.py:163} INFO - Started process (PID=13082) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:18:44,373] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:18:44,374] {logging_mixin.py:109} INFO - [2022-06-20 11:18:44,374] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:18:44,390] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:18:44,406] {logging_mixin.py:109} INFO - [2022-06-20 11:18:44,406] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:18:44,425] {logging_mixin.py:109} INFO - [2022-06-20 11:18:44,425] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:18:44,439] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.076 seconds
+[2022-06-20 11:21:03,646] {processor.py:163} INFO - Started process (PID=14427) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:21:03,648] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:21:03,648] {logging_mixin.py:109} INFO - [2022-06-20 11:21:03,648] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:21:03,662] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:21:03,673] {logging_mixin.py:109} INFO - [2022-06-20 11:21:03,673] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:21:03,693] {logging_mixin.py:109} INFO - [2022-06-20 11:21:03,693] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:21:03,717] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.075 seconds
+[2022-06-20 11:23:17,145] {processor.py:163} INFO - Started process (PID=15738) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:23:17,148] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:23:17,148] {logging_mixin.py:109} INFO - [2022-06-20 11:23:17,148] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:23:17,160] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:23:17,171] {logging_mixin.py:109} INFO - [2022-06-20 11:23:17,171] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:23:17,187] {logging_mixin.py:109} INFO - [2022-06-20 11:23:17,187] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:23:17,204] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.062 seconds
+[2022-06-20 11:25:43,083] {processor.py:163} INFO - Started process (PID=17055) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:25:43,085] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:25:43,086] {logging_mixin.py:109} INFO - [2022-06-20 11:25:43,086] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:25:43,101] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:25:43,111] {logging_mixin.py:109} INFO - [2022-06-20 11:25:43,111] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:25:43,121] {logging_mixin.py:109} INFO - [2022-06-20 11:25:43,121] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:25:43,135] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.055 seconds
+[2022-06-20 11:28:11,446] {processor.py:163} INFO - Started process (PID=18354) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:28:11,455] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:28:11,457] {logging_mixin.py:109} INFO - [2022-06-20 11:28:11,456] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:28:11,497] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:28:11,529] {logging_mixin.py:109} INFO - [2022-06-20 11:28:11,529] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:28:11,559] {logging_mixin.py:109} INFO - [2022-06-20 11:28:11,559] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:28:11,599] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.157 seconds
+[2022-06-20 11:30:23,767] {processor.py:163} INFO - Started process (PID=19644) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:30:23,769] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:30:23,770] {logging_mixin.py:109} INFO - [2022-06-20 11:30:23,770] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:30:23,792] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:30:23,810] {logging_mixin.py:109} INFO - [2022-06-20 11:30:23,809] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:30:23,834] {logging_mixin.py:109} INFO - [2022-06-20 11:30:23,833] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:30:23,851] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.088 seconds
+[2022-06-20 11:32:29,475] {processor.py:163} INFO - Started process (PID=21015) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:32:29,478] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:32:29,479] {logging_mixin.py:109} INFO - [2022-06-20 11:32:29,478] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:32:29,495] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:32:29,507] {logging_mixin.py:109} INFO - [2022-06-20 11:32:29,507] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:32:29,523] {logging_mixin.py:109} INFO - [2022-06-20 11:32:29,523] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:32:29,545] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.074 seconds
+[2022-06-20 11:34:03,214] {processor.py:163} INFO - Started process (PID=21976) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:34:03,217] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:34:03,218] {logging_mixin.py:109} INFO - [2022-06-20 11:34:03,217] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:34:03,234] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:34:03,247] {logging_mixin.py:109} INFO - [2022-06-20 11:34:03,247] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:34:03,258] {logging_mixin.py:109} INFO - [2022-06-20 11:34:03,258] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:34:03,274] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.063 seconds
+[2022-06-20 11:35:40,575] {processor.py:163} INFO - Started process (PID=22915) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:35:40,577] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:35:40,578] {logging_mixin.py:109} INFO - [2022-06-20 11:35:40,578] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:35:40,591] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:35:40,610] {logging_mixin.py:109} INFO - [2022-06-20 11:35:40,609] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:35:40,627] {logging_mixin.py:109} INFO - [2022-06-20 11:35:40,627] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:35:40,643] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.073 seconds
+[2022-06-20 11:37:26,884] {processor.py:163} INFO - Started process (PID=23955) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:37:26,887] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:37:26,897] {logging_mixin.py:109} INFO - [2022-06-20 11:37:26,896] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:37:26,960] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:37:27,022] {logging_mixin.py:109} INFO - [2022-06-20 11:37:27,022] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:37:27,100] {logging_mixin.py:109} INFO - [2022-06-20 11:37:27,096] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:37:27,165] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.289 seconds
+[2022-06-20 11:38:59,531] {processor.py:163} INFO - Started process (PID=24873) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:38:59,534] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:38:59,535] {logging_mixin.py:109} INFO - [2022-06-20 11:38:59,535] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:38:59,547] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:38:59,563] {logging_mixin.py:109} INFO - [2022-06-20 11:38:59,563] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:38:59,590] {logging_mixin.py:109} INFO - [2022-06-20 11:38:59,590] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:38:59,603] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.075 seconds
+[2022-06-20 11:40:42,974] {processor.py:163} INFO - Started process (PID=25911) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:40:42,978] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:40:42,978] {logging_mixin.py:109} INFO - [2022-06-20 11:40:42,978] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:40:42,993] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:40:43,008] {logging_mixin.py:109} INFO - [2022-06-20 11:40:43,007] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:40:43,022] {logging_mixin.py:109} INFO - [2022-06-20 11:40:43,022] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:40:43,037] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.065 seconds
+[2022-06-20 11:42:07,245] {processor.py:163} INFO - Started process (PID=26673) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:42:07,247] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:42:07,249] {logging_mixin.py:109} INFO - [2022-06-20 11:42:07,248] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:42:07,272] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:42:07,290] {logging_mixin.py:109} INFO - [2022-06-20 11:42:07,289] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:42:07,307] {logging_mixin.py:109} INFO - [2022-06-20 11:42:07,307] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:42:07,324] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.082 seconds
+[2022-06-20 11:43:57,893] {processor.py:163} INFO - Started process (PID=27622) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:43:57,896] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:43:57,896] {logging_mixin.py:109} INFO - [2022-06-20 11:43:57,896] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:43:57,911] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:43:57,925] {logging_mixin.py:109} INFO - [2022-06-20 11:43:57,925] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:43:57,940] {logging_mixin.py:109} INFO - [2022-06-20 11:43:57,940] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:43:57,952] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.062 seconds
+[2022-06-20 11:45:39,732] {processor.py:163} INFO - Started process (PID=28559) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:45:39,735] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:45:39,735] {logging_mixin.py:109} INFO - [2022-06-20 11:45:39,735] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:45:39,749] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:45:39,764] {logging_mixin.py:109} INFO - [2022-06-20 11:45:39,764] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:45:39,777] {logging_mixin.py:109} INFO - [2022-06-20 11:45:39,776] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:45:39,793] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.064 seconds
+[2022-06-20 11:47:12,352] {processor.py:163} INFO - Started process (PID=29571) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:47:12,355] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:47:12,356] {logging_mixin.py:109} INFO - [2022-06-20 11:47:12,356] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:47:12,373] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:47:12,385] {logging_mixin.py:109} INFO - [2022-06-20 11:47:12,385] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:47:12,398] {logging_mixin.py:109} INFO - [2022-06-20 11:47:12,398] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:47:12,415] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.066 seconds
+[2022-06-20 11:48:54,142] {processor.py:163} INFO - Started process (PID=30600) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:48:54,146] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:48:54,147] {logging_mixin.py:109} INFO - [2022-06-20 11:48:54,147] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:48:54,160] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:48:54,172] {logging_mixin.py:109} INFO - [2022-06-20 11:48:54,172] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:48:54,182] {logging_mixin.py:109} INFO - [2022-06-20 11:48:54,182] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:48:54,197] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.059 seconds
+[2022-06-20 11:50:36,084] {processor.py:163} INFO - Started process (PID=31573) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:50:36,087] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:50:36,088] {logging_mixin.py:109} INFO - [2022-06-20 11:50:36,088] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:50:36,114] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:50:36,133] {logging_mixin.py:109} INFO - [2022-06-20 11:50:36,133] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:50:36,146] {logging_mixin.py:109} INFO - [2022-06-20 11:50:36,145] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:50:36,167] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.087 seconds
+[2022-06-20 11:52:40,346] {processor.py:163} INFO - Started process (PID=350) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:52:40,349] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:52:40,350] {logging_mixin.py:109} INFO - [2022-06-20 11:52:40,350] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:52:40,364] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:52:40,376] {logging_mixin.py:109} INFO - [2022-06-20 11:52:40,376] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:52:40,386] {logging_mixin.py:109} INFO - [2022-06-20 11:52:40,386] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:52:40,402] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.059 seconds
+[2022-06-20 11:54:21,837] {processor.py:163} INFO - Started process (PID=1269) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:54:21,839] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:54:21,839] {logging_mixin.py:109} INFO - [2022-06-20 11:54:21,839] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:54:21,852] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:54:21,866] {logging_mixin.py:109} INFO - [2022-06-20 11:54:21,866] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:54:21,882] {logging_mixin.py:109} INFO - [2022-06-20 11:54:21,882] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:54:21,893] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.059 seconds
+[2022-06-20 11:56:03,861] {processor.py:163} INFO - Started process (PID=2208) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:56:03,864] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:56:03,865] {logging_mixin.py:109} INFO - [2022-06-20 11:56:03,865] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:56:03,881] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:56:03,893] {logging_mixin.py:109} INFO - [2022-06-20 11:56:03,893] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:56:03,903] {logging_mixin.py:109} INFO - [2022-06-20 11:56:03,903] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:56:03,919] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.060 seconds
+[2022-06-20 11:57:37,161] {processor.py:163} INFO - Started process (PID=2980) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:57:37,164] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:57:37,166] {logging_mixin.py:109} INFO - [2022-06-20 11:57:37,165] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:57:37,179] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:57:37,194] {logging_mixin.py:109} INFO - [2022-06-20 11:57:37,194] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:57:37,206] {logging_mixin.py:109} INFO - [2022-06-20 11:57:37,206] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:57:37,222] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.063 seconds
+[2022-06-20 11:59:29,847] {processor.py:163} INFO - Started process (PID=3903) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:59:29,850] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 11:59:29,851] {logging_mixin.py:109} INFO - [2022-06-20 11:59:29,851] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:59:29,866] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 11:59:29,879] {logging_mixin.py:109} INFO - [2022-06-20 11:59:29,879] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:59:29,906] {logging_mixin.py:109} INFO - [2022-06-20 11:59:29,906] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 11:59:29,931] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.088 seconds
+[2022-06-20 12:01:50,605] {processor.py:163} INFO - Started process (PID=5411) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:01:50,608] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 12:01:50,609] {logging_mixin.py:109} INFO - [2022-06-20 12:01:50,608] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:01:50,655] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:01:50,700] {logging_mixin.py:109} INFO - [2022-06-20 12:01:50,700] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:01:50,761] {logging_mixin.py:109} INFO - [2022-06-20 12:01:50,761] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 12:01:50,798] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.197 seconds
+[2022-06-20 12:05:11,492] {processor.py:163} INFO - Started process (PID=7153) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:05:11,497] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 12:05:11,499] {logging_mixin.py:109} INFO - [2022-06-20 12:05:11,499] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:05:11,594] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:05:11,635] {logging_mixin.py:109} INFO - [2022-06-20 12:05:11,634] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:05:11,674] {logging_mixin.py:109} INFO - [2022-06-20 12:05:11,674] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 12:05:11,727] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.250 seconds
+[2022-06-20 12:08:44,821] {processor.py:163} INFO - Started process (PID=8790) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:08:44,823] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 12:08:44,824] {logging_mixin.py:109} INFO - [2022-06-20 12:08:44,824] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:08:44,836] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:08:44,846] {logging_mixin.py:109} INFO - [2022-06-20 12:08:44,846] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:08:44,860] {logging_mixin.py:109} INFO - [2022-06-20 12:08:44,860] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 12:08:44,879] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.061 seconds
+[2022-06-20 12:11:44,274] {processor.py:163} INFO - Started process (PID=10432) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:11:44,278] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 12:11:44,279] {logging_mixin.py:109} INFO - [2022-06-20 12:11:44,279] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:11:44,360] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:11:44,388] {logging_mixin.py:109} INFO - [2022-06-20 12:11:44,388] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:11:44,411] {logging_mixin.py:109} INFO - [2022-06-20 12:11:44,410] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 12:11:44,431] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.163 seconds
+[2022-06-20 12:14:16,827] {processor.py:163} INFO - Started process (PID=11782) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:14:16,829] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 12:14:16,830] {logging_mixin.py:109} INFO - [2022-06-20 12:14:16,830] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:14:16,841] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:14:16,855] {logging_mixin.py:109} INFO - [2022-06-20 12:14:16,855] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:14:16,870] {logging_mixin.py:109} INFO - [2022-06-20 12:14:16,870] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 12:14:16,888] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.063 seconds
+[2022-06-20 12:17:08,018] {processor.py:163} INFO - Started process (PID=13123) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:17:08,021] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 12:17:08,022] {logging_mixin.py:109} INFO - [2022-06-20 12:17:08,022] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:17:08,033] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:17:08,045] {logging_mixin.py:109} INFO - [2022-06-20 12:17:08,045] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:17:08,058] {logging_mixin.py:109} INFO - [2022-06-20 12:17:08,058] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 12:17:08,076] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.062 seconds
+[2022-06-20 12:20:34,294] {processor.py:163} INFO - Started process (PID=14506) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:20:34,298] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 12:20:34,299] {logging_mixin.py:109} INFO - [2022-06-20 12:20:34,299] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:20:34,369] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:20:34,422] {logging_mixin.py:109} INFO - [2022-06-20 12:20:34,421] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:20:34,469] {logging_mixin.py:109} INFO - [2022-06-20 12:20:34,469] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 12:20:34,504] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.217 seconds
+[2022-06-20 12:24:01,125] {processor.py:163} INFO - Started process (PID=16132) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:24:01,127] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 12:24:01,128] {logging_mixin.py:109} INFO - [2022-06-20 12:24:01,128] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:24:01,142] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:24:01,157] {logging_mixin.py:109} INFO - [2022-06-20 12:24:01,156] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:24:01,171] {logging_mixin.py:109} INFO - [2022-06-20 12:24:01,171] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 12:24:01,185] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.063 seconds
+[2022-06-20 12:26:30,158] {processor.py:163} INFO - Started process (PID=17449) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:26:30,161] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 12:26:30,162] {logging_mixin.py:109} INFO - [2022-06-20 12:26:30,162] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:26:30,187] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:26:30,202] {logging_mixin.py:109} INFO - [2022-06-20 12:26:30,202] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:26:30,226] {logging_mixin.py:109} INFO - [2022-06-20 12:26:30,225] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 12:26:30,251] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.098 seconds
+[2022-06-20 12:29:39,966] {processor.py:163} INFO - Started process (PID=18809) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:29:39,969] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 12:29:39,971] {logging_mixin.py:109} INFO - [2022-06-20 12:29:39,971] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:29:40,058] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:29:40,136] {logging_mixin.py:109} INFO - [2022-06-20 12:29:40,136] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:29:40,211] {logging_mixin.py:109} INFO - [2022-06-20 12:29:40,210] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 12:29:40,265] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.315 seconds
+[2022-06-20 12:33:03,382] {processor.py:163} INFO - Started process (PID=20176) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:33:03,387] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 12:33:03,390] {logging_mixin.py:109} INFO - [2022-06-20 12:33:03,389] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:33:03,478] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:33:03,588] {logging_mixin.py:109} INFO - [2022-06-20 12:33:03,588] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:33:03,683] {logging_mixin.py:109} INFO - [2022-06-20 12:33:03,682] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 12:33:03,734] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.364 seconds
+[2022-06-20 12:36:21,068] {processor.py:163} INFO - Started process (PID=21520) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:36:21,070] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 12:36:21,071] {logging_mixin.py:109} INFO - [2022-06-20 12:36:21,071] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:36:21,090] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:36:21,117] {logging_mixin.py:109} INFO - [2022-06-20 12:36:21,117] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:36:21,143] {logging_mixin.py:109} INFO - [2022-06-20 12:36:21,143] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 12:36:21,165] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.099 seconds
+[2022-06-20 12:40:03,879] {processor.py:163} INFO - Started process (PID=23137) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:40:03,882] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 12:40:03,883] {logging_mixin.py:109} INFO - [2022-06-20 12:40:03,882] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:40:03,897] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:40:03,910] {logging_mixin.py:109} INFO - [2022-06-20 12:40:03,910] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:40:03,920] {logging_mixin.py:109} INFO - [2022-06-20 12:40:03,920] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 12:40:03,936] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.059 seconds
+[2022-06-20 12:42:09,998] {processor.py:163} INFO - Started process (PID=24457) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:42:10,000] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 12:42:10,001] {logging_mixin.py:109} INFO - [2022-06-20 12:42:10,001] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:42:10,015] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:42:10,027] {logging_mixin.py:109} INFO - [2022-06-20 12:42:10,027] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:42:10,038] {logging_mixin.py:109} INFO - [2022-06-20 12:42:10,038] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 12:42:10,054] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.059 seconds
+[2022-06-20 12:44:16,514] {processor.py:163} INFO - Started process (PID=25765) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:44:16,516] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 12:44:16,517] {logging_mixin.py:109} INFO - [2022-06-20 12:44:16,517] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:44:16,533] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:44:16,548] {logging_mixin.py:109} INFO - [2022-06-20 12:44:16,548] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:44:16,560] {logging_mixin.py:109} INFO - [2022-06-20 12:44:16,560] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 12:44:16,575] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.064 seconds
+[2022-06-20 12:46:18,420] {processor.py:163} INFO - Started process (PID=27078) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:46:18,423] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 12:46:18,424] {logging_mixin.py:109} INFO - [2022-06-20 12:46:18,424] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:46:18,438] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:46:18,450] {logging_mixin.py:109} INFO - [2022-06-20 12:46:18,450] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:46:18,462] {logging_mixin.py:109} INFO - [2022-06-20 12:46:18,462] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 12:46:18,479] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.061 seconds
+[2022-06-20 12:48:25,709] {processor.py:163} INFO - Started process (PID=28380) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:48:25,712] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 12:48:25,713] {logging_mixin.py:109} INFO - [2022-06-20 12:48:25,713] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:48:25,727] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:48:25,742] {logging_mixin.py:109} INFO - [2022-06-20 12:48:25,741] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:48:25,754] {logging_mixin.py:109} INFO - [2022-06-20 12:48:25,754] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 12:48:25,768] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.061 seconds
+[2022-06-20 12:50:33,075] {processor.py:163} INFO - Started process (PID=29799) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:50:33,078] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 12:50:33,079] {logging_mixin.py:109} INFO - [2022-06-20 12:50:33,079] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:50:33,095] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:50:33,109] {logging_mixin.py:109} INFO - [2022-06-20 12:50:33,109] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:50:33,119] {logging_mixin.py:109} INFO - [2022-06-20 12:50:33,119] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 12:50:33,132] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.060 seconds
+[2022-06-20 12:52:42,313] {processor.py:163} INFO - Started process (PID=31122) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:52:42,314] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 12:52:42,315] {logging_mixin.py:109} INFO - [2022-06-20 12:52:42,315] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:52:42,328] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:52:42,344] {logging_mixin.py:109} INFO - [2022-06-20 12:52:42,344] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:52:42,359] {logging_mixin.py:109} INFO - [2022-06-20 12:52:42,359] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 12:52:42,370] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.060 seconds
+[2022-06-20 12:55:55,447] {processor.py:163} INFO - Started process (PID=32434) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:55:55,452] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 12:55:55,453] {logging_mixin.py:109} INFO - [2022-06-20 12:55:55,453] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:55:55,524] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:55:55,580] {logging_mixin.py:109} INFO - [2022-06-20 12:55:55,579] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:55:55,636] {logging_mixin.py:109} INFO - [2022-06-20 12:55:55,635] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 12:55:55,685] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.246 seconds
+[2022-06-20 12:59:18,945] {processor.py:163} INFO - Started process (PID=1305) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:59:18,947] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 12:59:18,952] {logging_mixin.py:109} INFO - [2022-06-20 12:59:18,951] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:59:18,993] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 12:59:19,047] {logging_mixin.py:109} INFO - [2022-06-20 12:59:19,046] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:59:19,088] {logging_mixin.py:109} INFO - [2022-06-20 12:59:19,088] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 12:59:19,131] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.189 seconds
+[2022-06-20 13:03:53,577] {processor.py:163} INFO - Started process (PID=3003) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 13:03:53,580] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 13:03:53,581] {logging_mixin.py:109} INFO - [2022-06-20 13:03:53,581] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 13:03:53,595] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 13:03:53,609] {logging_mixin.py:109} INFO - [2022-06-20 13:03:53,608] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 13:03:53,631] {logging_mixin.py:109} INFO - [2022-06-20 13:03:53,631] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 13:03:53,648] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.075 seconds
+[2022-06-20 15:44:11,529] {processor.py:163} INFO - Started process (PID=2400) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:44:11,533] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 15:44:11,534] {logging_mixin.py:109} INFO - [2022-06-20 15:44:11,534] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:44:11,554] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:44:11,565] {logging_mixin.py:109} INFO - [2022-06-20 15:44:11,565] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 15:44:11,573] {logging_mixin.py:109} INFO - [2022-06-20 15:44:11,573] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 15:44:11,585] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.061 seconds
+[2022-06-20 15:46:07,565] {processor.py:163} INFO - Started process (PID=3774) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:46:07,568] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 15:46:07,569] {logging_mixin.py:109} INFO - [2022-06-20 15:46:07,569] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:46:07,600] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:46:07,621] {logging_mixin.py:109} INFO - [2022-06-20 15:46:07,621] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 15:46:07,633] {logging_mixin.py:109} INFO - [2022-06-20 15:46:07,633] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 15:46:07,643] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.084 seconds
+[2022-06-20 15:48:03,530] {processor.py:163} INFO - Started process (PID=5153) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:48:03,532] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 15:48:03,533] {logging_mixin.py:109} INFO - [2022-06-20 15:48:03,533] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:48:03,559] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:48:03,578] {logging_mixin.py:109} INFO - [2022-06-20 15:48:03,578] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 15:48:03,590] {logging_mixin.py:109} INFO - [2022-06-20 15:48:03,590] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 15:48:03,605] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.081 seconds
+[2022-06-20 15:49:52,260] {processor.py:163} INFO - Started process (PID=6488) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:49:52,263] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 15:49:52,264] {logging_mixin.py:109} INFO - [2022-06-20 15:49:52,264] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:49:52,286] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:49:52,305] {logging_mixin.py:109} INFO - [2022-06-20 15:49:52,304] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 15:49:52,323] {logging_mixin.py:109} INFO - [2022-06-20 15:49:52,322] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 15:49:52,343] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.087 seconds
+[2022-06-20 15:51:40,870] {processor.py:163} INFO - Started process (PID=7853) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:51:40,873] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 15:51:40,874] {logging_mixin.py:109} INFO - [2022-06-20 15:51:40,874] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:51:40,895] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:51:40,907] {logging_mixin.py:109} INFO - [2022-06-20 15:51:40,907] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 15:51:40,919] {logging_mixin.py:109} INFO - [2022-06-20 15:51:40,919] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 15:51:40,934] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.068 seconds
+[2022-06-20 15:53:32,662] {processor.py:163} INFO - Started process (PID=9228) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:53:32,666] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 15:53:32,667] {logging_mixin.py:109} INFO - [2022-06-20 15:53:32,667] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:53:32,684] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:53:32,703] {logging_mixin.py:109} INFO - [2022-06-20 15:53:32,703] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 15:53:32,716] {logging_mixin.py:109} INFO - [2022-06-20 15:53:32,716] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 15:53:32,728] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.070 seconds
+[2022-06-20 15:55:30,365] {processor.py:163} INFO - Started process (PID=10554) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:55:30,368] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 15:55:30,369] {logging_mixin.py:109} INFO - [2022-06-20 15:55:30,369] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:55:30,390] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:55:30,405] {logging_mixin.py:109} INFO - [2022-06-20 15:55:30,405] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 15:55:30,420] {logging_mixin.py:109} INFO - [2022-06-20 15:55:30,420] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 15:55:30,432] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.071 seconds
+[2022-06-20 15:57:25,675] {processor.py:163} INFO - Started process (PID=11898) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:57:25,677] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 15:57:25,679] {logging_mixin.py:109} INFO - [2022-06-20 15:57:25,678] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:57:25,699] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:57:25,709] {logging_mixin.py:109} INFO - [2022-06-20 15:57:25,709] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 15:57:25,719] {logging_mixin.py:109} INFO - [2022-06-20 15:57:25,718] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 15:57:25,729] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.060 seconds
+[2022-06-20 15:59:15,508] {processor.py:163} INFO - Started process (PID=13258) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:59:15,510] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 15:59:15,511] {logging_mixin.py:109} INFO - [2022-06-20 15:59:15,511] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:59:15,525] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 15:59:15,535] {logging_mixin.py:109} INFO - [2022-06-20 15:59:15,535] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 15:59:15,544] {logging_mixin.py:109} INFO - [2022-06-20 15:59:15,544] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 15:59:15,555] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.051 seconds
+[2022-06-20 16:00:58,675] {processor.py:163} INFO - Started process (PID=14456) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:00:58,678] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:00:58,679] {logging_mixin.py:109} INFO - [2022-06-20 16:00:58,679] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:00:58,700] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:00:58,721] {logging_mixin.py:109} INFO - [2022-06-20 16:00:58,721] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:00:58,737] {logging_mixin.py:109} INFO - [2022-06-20 16:00:58,736] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:00:58,749] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.078 seconds
+[2022-06-20 16:03:35,129] {processor.py:163} INFO - Started process (PID=16747) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:03:35,131] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:03:35,131] {logging_mixin.py:109} INFO - [2022-06-20 16:03:35,131] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:03:35,141] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:03:35,151] {logging_mixin.py:109} INFO - [2022-06-20 16:03:35,151] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:03:35,161] {logging_mixin.py:109} INFO - [2022-06-20 16:03:35,161] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:03:35,174] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.048 seconds
+[2022-06-20 16:05:40,190] {processor.py:163} INFO - Started process (PID=18595) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:05:40,194] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:05:40,199] {logging_mixin.py:109} INFO - [2022-06-20 16:05:40,199] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:05:40,279] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:05:40,426] {logging_mixin.py:109} INFO - [2022-06-20 16:05:40,410] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:05:40,554] {logging_mixin.py:109} INFO - [2022-06-20 16:05:40,554] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:05:40,729] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.549 seconds
+[2022-06-20 16:08:33,143] {processor.py:163} INFO - Started process (PID=20167) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:08:33,145] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:08:33,146] {logging_mixin.py:109} INFO - [2022-06-20 16:08:33,146] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:08:33,155] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:08:33,165] {logging_mixin.py:109} INFO - [2022-06-20 16:08:33,165] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:08:33,175] {logging_mixin.py:109} INFO - [2022-06-20 16:08:33,175] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:08:33,189] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.048 seconds
+[2022-06-20 16:10:26,326] {processor.py:163} INFO - Started process (PID=21594) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:10:26,329] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:10:26,332] {logging_mixin.py:109} INFO - [2022-06-20 16:10:26,332] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:10:26,348] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:10:26,365] {logging_mixin.py:109} INFO - [2022-06-20 16:10:26,365] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:10:26,379] {logging_mixin.py:109} INFO - [2022-06-20 16:10:26,379] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:10:26,413] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.090 seconds
+[2022-06-20 16:12:19,489] {processor.py:163} INFO - Started process (PID=23040) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:12:19,492] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:12:19,493] {logging_mixin.py:109} INFO - [2022-06-20 16:12:19,492] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:12:19,502] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:12:19,511] {logging_mixin.py:109} INFO - [2022-06-20 16:12:19,511] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:12:19,523] {logging_mixin.py:109} INFO - [2022-06-20 16:12:19,523] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:12:19,536] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.050 seconds
+[2022-06-20 16:16:35,234] {processor.py:163} INFO - Started process (PID=26514) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:16:35,236] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:16:35,237] {logging_mixin.py:109} INFO - [2022-06-20 16:16:35,237] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:16:35,250] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:16:35,264] {logging_mixin.py:109} INFO - [2022-06-20 16:16:35,264] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:16:35,277] {logging_mixin.py:109} INFO - [2022-06-20 16:16:35,277] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:16:35,291] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.059 seconds
+[2022-06-20 16:18:20,965] {processor.py:163} INFO - Started process (PID=27795) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:18:20,967] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:18:20,968] {logging_mixin.py:109} INFO - [2022-06-20 16:18:20,967] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:18:20,978] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:18:20,988] {logging_mixin.py:109} INFO - [2022-06-20 16:18:20,988] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:18:20,999] {logging_mixin.py:109} INFO - [2022-06-20 16:18:20,999] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:18:21,013] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.050 seconds
+[2022-06-20 16:20:11,077] {processor.py:163} INFO - Started process (PID=29062) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:20:11,079] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:20:11,080] {logging_mixin.py:109} INFO - [2022-06-20 16:20:11,079] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:20:11,090] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:20:11,100] {logging_mixin.py:109} INFO - [2022-06-20 16:20:11,100] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:20:11,111] {logging_mixin.py:109} INFO - [2022-06-20 16:20:11,111] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:20:11,125] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.051 seconds
+[2022-06-20 16:21:58,448] {processor.py:163} INFO - Started process (PID=30328) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:21:58,449] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:21:58,450] {logging_mixin.py:109} INFO - [2022-06-20 16:21:58,450] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:21:58,461] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:21:58,471] {logging_mixin.py:109} INFO - [2022-06-20 16:21:58,470] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:21:58,482] {logging_mixin.py:109} INFO - [2022-06-20 16:21:58,481] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:21:58,495] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.050 seconds
+[2022-06-20 16:23:43,089] {processor.py:163} INFO - Started process (PID=31593) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:23:43,091] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:23:43,092] {logging_mixin.py:109} INFO - [2022-06-20 16:23:43,092] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:23:43,106] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:23:43,121] {logging_mixin.py:109} INFO - [2022-06-20 16:23:43,120] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:23:43,133] {logging_mixin.py:109} INFO - [2022-06-20 16:23:43,133] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:23:43,149] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.062 seconds
+[2022-06-20 16:25:29,821] {processor.py:163} INFO - Started process (PID=391) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:25:29,823] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:25:29,824] {logging_mixin.py:109} INFO - [2022-06-20 16:25:29,823] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:25:29,833] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:25:29,843] {logging_mixin.py:109} INFO - [2022-06-20 16:25:29,843] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:25:29,852] {logging_mixin.py:109} INFO - [2022-06-20 16:25:29,852] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:25:29,867] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.048 seconds
+[2022-06-20 16:27:23,792] {processor.py:163} INFO - Started process (PID=1785) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:27:23,794] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:27:23,794] {logging_mixin.py:109} INFO - [2022-06-20 16:27:23,794] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:27:23,805] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:27:23,819] {logging_mixin.py:109} INFO - [2022-06-20 16:27:23,818] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:27:23,831] {logging_mixin.py:109} INFO - [2022-06-20 16:27:23,830] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:27:23,843] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.054 seconds
+[2022-06-20 16:29:17,023] {processor.py:163} INFO - Started process (PID=3045) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:29:17,024] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:29:17,025] {logging_mixin.py:109} INFO - [2022-06-20 16:29:17,025] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:29:17,037] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:29:17,049] {logging_mixin.py:109} INFO - [2022-06-20 16:29:17,049] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:29:17,060] {logging_mixin.py:109} INFO - [2022-06-20 16:29:17,060] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:29:17,076] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.057 seconds
+[2022-06-20 16:31:02,402] {processor.py:163} INFO - Started process (PID=4282) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:31:02,404] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:31:02,405] {logging_mixin.py:109} INFO - [2022-06-20 16:31:02,405] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:31:02,417] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:31:02,428] {logging_mixin.py:109} INFO - [2022-06-20 16:31:02,428] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:31:02,438] {logging_mixin.py:109} INFO - [2022-06-20 16:31:02,438] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:31:02,451] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.051 seconds
+[2022-06-20 16:32:46,808] {processor.py:163} INFO - Started process (PID=5533) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:32:46,810] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:32:46,811] {logging_mixin.py:109} INFO - [2022-06-20 16:32:46,811] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:32:46,822] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:32:46,833] {logging_mixin.py:109} INFO - [2022-06-20 16:32:46,833] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:32:46,845] {logging_mixin.py:109} INFO - [2022-06-20 16:32:46,845] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:32:46,862] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.056 seconds
+[2022-06-20 16:34:30,855] {processor.py:163} INFO - Started process (PID=6804) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:34:30,857] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:34:30,858] {logging_mixin.py:109} INFO - [2022-06-20 16:34:30,858] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:34:30,869] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:34:30,880] {logging_mixin.py:109} INFO - [2022-06-20 16:34:30,880] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:34:30,895] {logging_mixin.py:109} INFO - [2022-06-20 16:34:30,895] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:34:30,910] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.056 seconds
+[2022-06-20 16:36:15,505] {processor.py:163} INFO - Started process (PID=8086) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:36:15,506] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:36:15,507] {logging_mixin.py:109} INFO - [2022-06-20 16:36:15,507] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:36:15,522] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:36:15,536] {logging_mixin.py:109} INFO - [2022-06-20 16:36:15,536] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:36:15,551] {logging_mixin.py:109} INFO - [2022-06-20 16:36:15,551] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:36:15,562] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.060 seconds
+[2022-06-20 16:38:14,025] {processor.py:163} INFO - Started process (PID=9347) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:38:14,027] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:38:14,028] {logging_mixin.py:109} INFO - [2022-06-20 16:38:14,027] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:38:14,041] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:38:14,052] {logging_mixin.py:109} INFO - [2022-06-20 16:38:14,052] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:38:14,064] {logging_mixin.py:109} INFO - [2022-06-20 16:38:14,064] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:38:14,079] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.057 seconds
+[2022-06-20 16:42:36,815] {processor.py:163} INFO - Started process (PID=12238) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:42:36,817] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:42:36,818] {logging_mixin.py:109} INFO - [2022-06-20 16:42:36,818] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:42:36,829] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:42:36,840] {logging_mixin.py:109} INFO - [2022-06-20 16:42:36,840] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:42:36,853] {logging_mixin.py:109} INFO - [2022-06-20 16:42:36,853] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:42:36,865] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.053 seconds
+[2022-06-20 16:46:23,090] {processor.py:163} INFO - Started process (PID=14642) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:46:23,093] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:46:23,094] {logging_mixin.py:109} INFO - [2022-06-20 16:46:23,094] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:46:23,098] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:46:23,114] {logging_mixin.py:109} INFO - [2022-06-20 16:46:23,113] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:46:23,129] {logging_mixin.py:109} INFO - [2022-06-20 16:46:23,129] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:46:23,152] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.064 seconds
+[2022-06-20 16:48:36,588] {processor.py:163} INFO - Started process (PID=15916) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:48:36,591] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:48:36,591] {logging_mixin.py:109} INFO - [2022-06-20 16:48:36,591] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:48:36,596] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:48:36,609] {logging_mixin.py:109} INFO - [2022-06-20 16:48:36,608] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:48:36,634] {logging_mixin.py:109} INFO - [2022-06-20 16:48:36,634] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:48:36,650] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.065 seconds
+[2022-06-20 16:50:50,932] {processor.py:163} INFO - Started process (PID=17680) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:50:50,934] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:50:50,935] {logging_mixin.py:109} INFO - [2022-06-20 16:50:50,935] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:50:50,939] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:50:50,954] {logging_mixin.py:109} INFO - [2022-06-20 16:50:50,954] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:50:50,966] {logging_mixin.py:109} INFO - [2022-06-20 16:50:50,966] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:50:50,978] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.048 seconds
+[2022-06-20 16:53:01,578] {processor.py:163} INFO - Started process (PID=19251) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:53:01,580] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:53:01,581] {logging_mixin.py:109} INFO - [2022-06-20 16:53:01,581] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:53:01,585] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:53:01,597] {logging_mixin.py:109} INFO - [2022-06-20 16:53:01,597] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:53:01,606] {logging_mixin.py:109} INFO - [2022-06-20 16:53:01,606] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:53:01,618] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.043 seconds
+[2022-06-20 16:55:29,983] {processor.py:163} INFO - Started process (PID=20505) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:55:29,987] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:55:29,988] {logging_mixin.py:109} INFO - [2022-06-20 16:55:29,988] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:55:30,013] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:55:30,056] {logging_mixin.py:109} INFO - [2022-06-20 16:55:30,055] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:55:30,069] {logging_mixin.py:109} INFO - [2022-06-20 16:55:30,069] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:55:30,081] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.107 seconds
+[2022-06-20 16:57:50,229] {processor.py:163} INFO - Started process (PID=21768) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:57:50,231] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 16:57:50,231] {logging_mixin.py:109} INFO - [2022-06-20 16:57:50,231] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:57:50,237] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 16:57:50,257] {logging_mixin.py:109} INFO - [2022-06-20 16:57:50,257] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:57:50,275] {logging_mixin.py:109} INFO - [2022-06-20 16:57:50,275] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 16:57:50,296] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.069 seconds
+[2022-06-20 17:00:34,319] {processor.py:163} INFO - Started process (PID=23064) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:00:34,321] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 17:00:34,321] {logging_mixin.py:109} INFO - [2022-06-20 17:00:34,321] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:00:34,329] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:00:34,341] {logging_mixin.py:109} INFO - [2022-06-20 17:00:34,341] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:00:34,353] {logging_mixin.py:109} INFO - [2022-06-20 17:00:34,353] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 17:00:34,368] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.051 seconds
+[2022-06-20 17:03:04,485] {processor.py:163} INFO - Started process (PID=24361) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:03:04,489] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 17:03:04,490] {logging_mixin.py:109} INFO - [2022-06-20 17:03:04,490] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:03:04,506] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:03:04,535] {logging_mixin.py:109} INFO - [2022-06-20 17:03:04,534] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:03:04,567] {logging_mixin.py:109} INFO - [2022-06-20 17:03:04,566] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 17:03:04,593] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.119 seconds
+[2022-06-20 17:06:15,016] {processor.py:163} INFO - Started process (PID=25653) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:06:15,020] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 17:06:15,021] {logging_mixin.py:109} INFO - [2022-06-20 17:06:15,021] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:06:15,030] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:06:15,121] {logging_mixin.py:109} INFO - [2022-06-20 17:06:15,121] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:06:15,193] {logging_mixin.py:109} INFO - [2022-06-20 17:06:15,193] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 17:06:15,280] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.279 seconds
+[2022-06-20 17:09:36,832] {processor.py:163} INFO - Started process (PID=26918) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:09:36,835] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 17:09:36,837] {logging_mixin.py:109} INFO - [2022-06-20 17:09:36,836] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:09:36,847] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:09:36,866] {logging_mixin.py:109} INFO - [2022-06-20 17:09:36,866] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:09:36,889] {logging_mixin.py:109} INFO - [2022-06-20 17:09:36,889] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 17:09:36,909] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.081 seconds
+[2022-06-20 17:13:05,363] {processor.py:163} INFO - Started process (PID=28165) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:13:05,365] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 17:13:05,366] {logging_mixin.py:109} INFO - [2022-06-20 17:13:05,366] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:13:05,371] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:13:05,400] {logging_mixin.py:109} INFO - [2022-06-20 17:13:05,399] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:13:05,434] {logging_mixin.py:109} INFO - [2022-06-20 17:13:05,433] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 17:13:05,492] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.133 seconds
+[2022-06-20 17:16:25,257] {processor.py:163} INFO - Started process (PID=29464) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:16:25,261] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 17:16:25,264] {logging_mixin.py:109} INFO - [2022-06-20 17:16:25,263] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:16:25,278] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:16:25,324] {logging_mixin.py:109} INFO - [2022-06-20 17:16:25,323] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:16:25,362] {logging_mixin.py:109} INFO - [2022-06-20 17:16:25,361] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 17:16:25,382] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.131 seconds
+[2022-06-20 17:19:28,608] {processor.py:163} INFO - Started process (PID=30778) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:19:28,611] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 17:19:28,613] {logging_mixin.py:109} INFO - [2022-06-20 17:19:28,613] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:19:28,626] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:19:28,663] {logging_mixin.py:109} INFO - [2022-06-20 17:19:28,662] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:19:28,693] {logging_mixin.py:109} INFO - [2022-06-20 17:19:28,693] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 17:19:28,724] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.123 seconds
+[2022-06-20 17:22:30,546] {processor.py:163} INFO - Started process (PID=32093) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:22:30,551] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 17:22:30,552] {logging_mixin.py:109} INFO - [2022-06-20 17:22:30,552] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:22:30,565] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:22:30,590] {logging_mixin.py:109} INFO - [2022-06-20 17:22:30,590] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:22:30,602] {logging_mixin.py:109} INFO - [2022-06-20 17:22:30,602] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 17:22:30,618] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.080 seconds
+[2022-06-20 17:25:30,924] {processor.py:163} INFO - Started process (PID=964) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:25:30,928] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 17:25:30,930] {logging_mixin.py:109} INFO - [2022-06-20 17:25:30,929] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:25:30,961] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:25:31,038] {logging_mixin.py:109} INFO - [2022-06-20 17:25:31,038] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:25:31,109] {logging_mixin.py:109} INFO - [2022-06-20 17:25:31,109] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 17:25:31,164] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.257 seconds
+[2022-06-20 17:28:34,968] {processor.py:163} INFO - Started process (PID=2356) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:28:34,973] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 17:28:34,975] {logging_mixin.py:109} INFO - [2022-06-20 17:28:34,974] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:28:34,986] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:28:35,007] {logging_mixin.py:109} INFO - [2022-06-20 17:28:35,007] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:28:35,030] {logging_mixin.py:109} INFO - [2022-06-20 17:28:35,030] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 17:28:35,058] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.095 seconds
+[2022-06-20 17:31:43,025] {processor.py:163} INFO - Started process (PID=3661) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:31:43,028] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 17:31:43,028] {logging_mixin.py:109} INFO - [2022-06-20 17:31:43,028] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:31:43,037] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:31:43,059] {logging_mixin.py:109} INFO - [2022-06-20 17:31:43,059] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:31:43,081] {logging_mixin.py:109} INFO - [2022-06-20 17:31:43,081] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 17:31:43,107] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.088 seconds
+[2022-06-20 17:34:54,690] {processor.py:163} INFO - Started process (PID=4910) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:34:54,693] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-06-20 17:34:54,694] {logging_mixin.py:109} INFO - [2022-06-20 17:34:54,693] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:34:54,698] {processor.py:652} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-06-20 17:34:54,712] {logging_mixin.py:109} INFO - [2022-06-20 17:34:54,712] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:34:54,725] {logging_mixin.py:109} INFO - [2022-06-20 17:34:54,725] {dag.py:2937} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-06-20 17:34:54,741] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.053 seconds

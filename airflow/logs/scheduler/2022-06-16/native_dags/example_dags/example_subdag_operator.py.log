@@ -1,0 +1,12 @@
+[2022-06-17 01:01:04,919] {processor.py:163} INFO - Started process (PID=26591) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2022-06-17 01:01:04,921] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2022-06-17 01:01:04,929] {logging_mixin.py:109} INFO - [2022-06-17 01:01:04,925] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2022-06-17 01:01:05,021] {processor.py:652} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2022-06-17 01:01:05,049] {logging_mixin.py:109} INFO - [2022-06-17 01:01:05,049] {dag.py:2398} INFO - Sync 3 DAGs
+[2022-06-17 01:01:05,105] {logging_mixin.py:109} INFO - [2022-06-17 01:01:05,105] {dag.py:2937} INFO - Setting next_dagrun for example_subdag_operator to 2022-06-14T00:00:00+00:00
+[2022-06-17 01:01:05,106] {logging_mixin.py:109} INFO - [2022-06-17 01:01:05,105] {dag.py:2937} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2022-06-17 01:01:05,106] {logging_mixin.py:109} INFO - [2022-06-17 01:01:05,106] {dag.py:2937} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2022-06-17 01:01:05,122] {logging_mixin.py:109} INFO - [2022-06-17 01:01:05,122] {dag.py:2398} INFO - Sync 2 DAGs
+[2022-06-17 01:01:05,145] {logging_mixin.py:109} INFO - [2022-06-17 01:01:05,145] {dag.py:2937} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2022-06-17 01:01:05,146] {logging_mixin.py:109} INFO - [2022-06-17 01:01:05,146] {dag.py:2937} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2022-06-17 01:01:05,175] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py took 0.261 seconds

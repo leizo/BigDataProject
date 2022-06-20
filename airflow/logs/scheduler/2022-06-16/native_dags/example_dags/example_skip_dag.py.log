@@ -1,0 +1,14 @@
+[2022-06-17 01:00:45,809] {processor.py:163} INFO - Started process (PID=26573) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-17 01:00:45,810] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-17 01:00:45,810] {logging_mixin.py:109} INFO - [2022-06-17 01:00:45,810] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-17 01:00:45,821] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-17 01:00:45,832] {logging_mixin.py:109} INFO - [2022-06-17 01:00:45,832] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-17 01:00:45,840] {logging_mixin.py:109} INFO - [2022-06-17 01:00:45,840] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-15T23:00:45.840547+00:00
+[2022-06-17 01:00:45,855] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.048 seconds
+[2022-06-17 01:02:40,484] {processor.py:163} INFO - Started process (PID=28730) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-17 01:02:40,495] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-17 01:02:40,497] {logging_mixin.py:109} INFO - [2022-06-17 01:02:40,496] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-17 01:02:40,563] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-17 01:02:40,672] {logging_mixin.py:109} INFO - [2022-06-17 01:02:40,672] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-17 01:02:40,790] {logging_mixin.py:109} INFO - [2022-06-17 01:02:40,790] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-15T23:02:40.788239+00:00
+[2022-06-17 01:02:40,833] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.379 seconds

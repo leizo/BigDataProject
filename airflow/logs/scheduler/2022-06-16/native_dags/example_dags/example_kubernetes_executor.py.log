@@ -1,0 +1,12 @@
+[2022-06-17 01:00:39,501] {processor.py:163} INFO - Started process (PID=26567) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-06-17 01:00:39,502] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-06-17 01:00:39,503] {logging_mixin.py:109} INFO - [2022-06-17 01:00:39,503] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-06-17 01:00:39,512] {logging_mixin.py:109} INFO - [2022-06-17 01:00:39,512] {example_kubernetes_executor.py:39} WARNING - The example_kubernetes_executor example DAG requires the kubernetes provider. Please install it with: pip install apache-airflow[cncf.kubernetes]
+[2022-06-17 01:00:39,512] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-06-17 01:00:39,520] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.021 seconds
+[2022-06-17 01:02:05,430] {processor.py:163} INFO - Started process (PID=27643) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-06-17 01:02:05,432] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2022-06-17 01:02:05,433] {logging_mixin.py:109} INFO - [2022-06-17 01:02:05,433] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-06-17 01:02:05,445] {logging_mixin.py:109} INFO - [2022-06-17 01:02:05,445] {example_kubernetes_executor.py:39} WARNING - The example_kubernetes_executor example DAG requires the kubernetes provider. Please install it with: pip install apache-airflow[cncf.kubernetes]
+[2022-06-17 01:02:05,446] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2022-06-17 01:02:05,457] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.031 seconds

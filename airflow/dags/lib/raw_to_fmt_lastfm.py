@@ -87,8 +87,6 @@ def raw_to_fmt_json(top, tag, date) :
     except :
         print("paquet already exists " + top + " " + tag + " " + date)
 
-    
-
 def show_formatted(top, tag, date) :
     parDF=spark.read.parquet(HOME + "/datalake/formatted/lastfm/" + top + "/" + tag + "/" + date + "/lastfm.parquet")
     parDF.printSchema()
@@ -96,4 +94,4 @@ def show_formatted(top, tag, date) :
 
     
 #show_formatted("topTracks", "indie", "20220614")
-raw_to_fmt_lastfm()
+#raw_to_fmt_lastfm()

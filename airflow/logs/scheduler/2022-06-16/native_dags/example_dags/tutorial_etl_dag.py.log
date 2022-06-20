@@ -1,0 +1,14 @@
+[2022-06-17 01:00:44,651] {processor.py:163} INFO - Started process (PID=26572) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-06-17 01:00:44,652] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-06-17 01:00:44,653] {logging_mixin.py:109} INFO - [2022-06-17 01:00:44,652] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-06-17 01:00:44,667] {processor.py:652} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-06-17 01:00:44,678] {logging_mixin.py:109} INFO - [2022-06-17 01:00:44,678] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-17 01:00:44,688] {logging_mixin.py:109} INFO - [2022-06-17 01:00:44,688] {dag.py:2937} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-06-17 01:00:44,699] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.052 seconds
+[2022-06-17 01:02:39,028] {processor.py:163} INFO - Started process (PID=28713) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-06-17 01:02:39,033] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-06-17 01:02:39,035] {logging_mixin.py:109} INFO - [2022-06-17 01:02:39,035] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-06-17 01:02:39,104] {processor.py:652} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-06-17 01:02:39,153] {logging_mixin.py:109} INFO - [2022-06-17 01:02:39,152] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-17 01:02:39,190] {logging_mixin.py:109} INFO - [2022-06-17 01:02:39,190] {dag.py:2937} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-06-17 01:02:39,211] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.193 seconds

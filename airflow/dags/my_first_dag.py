@@ -72,15 +72,7 @@ with DAG(
        op_kwargs={'task_number': 'task5'}
    )
 
-   index_to_elastic = PythonOperator(
-       task_id='index_to_elastic',
-       python_callable=launch_task,
-       provide_context=True,
-       op_kwargs={'task_number': 'task6'}
-   )
-
    source_to_raw_1.set_downstream(raw_to_formatted_1)
    source_to_raw_2.set_downstream(raw_to_formatted_2)
    raw_to_formatted_1.set_downstream(produce_usage)
    raw_to_formatted_2.set_downstream(produce_usage)
-   produce_usage.set_downstream(index_to_elastic)

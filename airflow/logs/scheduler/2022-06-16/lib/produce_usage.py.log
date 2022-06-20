@@ -1,0 +1,15 @@
+[2022-06-17 01:00:06,190] {processor.py:163} INFO - Started process (PID=26074) to work on /home/leizo/airflow/dags/lib/produce_usage.py
+[2022-06-17 01:00:06,192] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/produce_usage.py for tasks to queue
+[2022-06-17 01:00:06,193] {logging_mixin.py:109} INFO - [2022-06-17 01:00:06,193] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/produce_usage.py
+[2022-06-17 01:00:06,456] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/produce_usage.py
+[2022-06-17 01:00:06,466] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/produce_usage.py took 0.279 seconds
+[2022-06-17 01:01:10,358] {processor.py:163} INFO - Started process (PID=26694) to work on /home/leizo/airflow/dags/lib/produce_usage.py
+[2022-06-17 01:01:10,362] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/produce_usage.py for tasks to queue
+[2022-06-17 01:01:10,363] {logging_mixin.py:109} INFO - [2022-06-17 01:01:10,362] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/produce_usage.py
+[2022-06-17 01:01:10,772] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/produce_usage.py
+[2022-06-17 01:01:10,789] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/produce_usage.py took 0.438 seconds
+[2022-06-17 01:02:06,602] {processor.py:163} INFO - Started process (PID=27646) to work on /home/leizo/airflow/dags/lib/produce_usage.py
+[2022-06-17 01:02:06,605] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/lib/produce_usage.py for tasks to queue
+[2022-06-17 01:02:06,606] {logging_mixin.py:109} INFO - [2022-06-17 01:02:06,606] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/lib/produce_usage.py
+[2022-06-17 01:02:06,928] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/airflow/dags/lib/produce_usage.py
+[2022-06-17 01:02:06,943] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/lib/produce_usage.py took 0.346 seconds

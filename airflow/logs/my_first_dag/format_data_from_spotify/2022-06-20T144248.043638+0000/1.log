@@ -1,0 +1,33 @@
+[2022-06-20 16:44:50,629] {taskinstance.py:1043} INFO - Dependencies all met for <TaskInstance: my_first_dag.format_data_from_spotify manual__2022-06-20T14:42:48.043638+00:00 [queued]>
+[2022-06-20 16:44:50,636] {taskinstance.py:1043} INFO - Dependencies all met for <TaskInstance: my_first_dag.format_data_from_spotify manual__2022-06-20T14:42:48.043638+00:00 [queued]>
+[2022-06-20 16:44:50,636] {taskinstance.py:1249} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-20 16:44:50,637] {taskinstance.py:1250} INFO - Starting attempt 1 of 2
+[2022-06-20 16:44:50,637] {taskinstance.py:1251} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-20 16:44:50,650] {taskinstance.py:1270} INFO - Executing <Task(PythonOperator): format_data_from_spotify> on 2022-06-20 14:42:48.043638+00:00
+[2022-06-20 16:44:50,652] {standard_task_runner.py:52} INFO - Started process 13516 to run task
+[2022-06-20 16:44:50,656] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'my_first_dag', 'format_data_from_spotify', 'manual__2022-06-20T14:42:48.043638+00:00', '--job-id', '97', '--raw', '--subdir', 'DAGS_FOLDER/my_first_dag.py', '--cfg-path', '/tmp/tmpbkkasjlf', '--error-file', '/tmp/tmpva96mpy_']
+[2022-06-20 16:44:50,657] {standard_task_runner.py:80} INFO - Job 97: Subtask format_data_from_spotify
+[2022-06-20 16:44:50,704] {logging_mixin.py:109} INFO - Running <TaskInstance: my_first_dag.format_data_from_spotify manual__2022-06-20T14:42:48.043638+00:00 [running]> on host LAPTOP-M1F9EL62.localdomain
+[2022-06-20 16:44:50,756] {taskinstance.py:1446} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=my_first_dag
+AIRFLOW_CTX_TASK_ID=format_data_from_spotify
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-20T14:42:48.043638+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-06-20T14:42:48.043638+00:00
+[2022-06-20 16:44:51,534] {logging_mixin.py:109} INFO - paquet already exists dailyMix1 20220620
+[2022-06-20 16:44:51,901] {logging_mixin.py:109} INFO - paquet already exists dailyMix2 20220620
+[2022-06-20 16:44:52,321] {logging_mixin.py:109} INFO - paquet already exists dailyMix3 20220620
+[2022-06-20 16:44:52,760] {logging_mixin.py:109} INFO - paquet already exists dailyMix4 20220620
+[2022-06-20 16:44:53,206] {logging_mixin.py:109} INFO - paquet already exists dailyMix5 20220620
+[2022-06-20 16:44:53,573] {logging_mixin.py:109} INFO - paquet already exists dailyMix6 20220620
+[2022-06-20 16:44:53,911] {logging_mixin.py:109} INFO - paquet already exists mixRock 20220620
+[2022-06-20 16:44:54,262] {logging_mixin.py:109} INFO - paquet already exists mixIndie 20220620
+[2022-06-20 16:44:54,649] {logging_mixin.py:109} INFO - paquet already exists feelGoodIndieRock 20220620
+[2022-06-20 16:44:54,931] {logging_mixin.py:109} INFO - paquet already exists topAlternative 20220620
+[2022-06-20 16:44:54,932] {python.py:175} INFO - Done. Returned value was: None
+[2022-06-20 16:44:54,939] {taskinstance.py:1278} INFO - Marking task as SUCCESS. dag_id=my_first_dag, task_id=format_data_from_spotify, execution_date=20220620T144248, start_date=20220620T144450, end_date=20220620T144454
+[2022-06-20 16:44:54,990] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-06-20 16:44:55,013] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

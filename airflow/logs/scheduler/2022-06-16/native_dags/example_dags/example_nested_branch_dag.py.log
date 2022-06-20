@@ -1,0 +1,14 @@
+[2022-06-17 01:00:54,954] {processor.py:163} INFO - Started process (PID=26582) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-06-17 01:00:54,955] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-06-17 01:00:54,955] {logging_mixin.py:109} INFO - [2022-06-17 01:00:54,955] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-06-17 01:00:54,979] {processor.py:652} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-06-17 01:00:55,005] {logging_mixin.py:109} INFO - [2022-06-17 01:00:55,005] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-17 01:00:55,028] {logging_mixin.py:109} INFO - [2022-06-17 01:00:55,028] {dag.py:2937} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-06-15 00:00:00+00:00
+[2022-06-17 01:00:55,046] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.095 seconds
+[2022-06-17 01:02:52,474] {processor.py:163} INFO - Started process (PID=29109) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-06-17 01:02:52,478] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-06-17 01:02:52,480] {logging_mixin.py:109} INFO - [2022-06-17 01:02:52,479] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-06-17 01:02:52,508] {processor.py:652} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-06-17 01:02:52,530] {logging_mixin.py:109} INFO - [2022-06-17 01:02:52,530] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-17 01:02:52,561] {logging_mixin.py:109} INFO - [2022-06-17 01:02:52,561] {dag.py:2937} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-06-15 00:00:00+00:00
+[2022-06-17 01:02:52,598] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.130 seconds

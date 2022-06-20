@@ -1,12 +1,10 @@
 
+from copyreg import add_extension
 from datetime import date
 import os
-from pendulum import duration
-from pyrsistent import s
 from pyspark.sql import SparkSession
-from sqlalchemy import true
+from pyspark.sql.functions import to_json
 import json
-
 
 HOME = os.path.expanduser('~')
 JSON_PATH = HOME + "/airflow/dags/lib/"
@@ -60,8 +58,7 @@ def produce_usage() :
 
     for i in range(len(list_lastfm_tracks)) :
         df_joined_bytracks_fromtag(list_lastfm_tracks[i], tags_to_parse[i], current_day, list_spotify_playlists)
-        df_joined_byartist_fromtag(list_lastfm_artists[i], tags_to_parse[i], current_day, list_spotify_playlists)
-        
+        df_joined_byartist_fromtag(list_lastfm_artists[i], tags_to_parse[i], current_day, list_spotify_playlists)    
 
 def df_joined_bytracks_fromtag(lastfm_tracks, tag, date, list_spotify_playlists) :
     DF_tag_playlists = lastfm_tracks.join(list_spotify_playlists[0],"name")
@@ -117,5 +114,48 @@ def show_formatted(by, tag, date) :
     parDF.printSchema()
     parDF.show()
 
+def transform_to_json_for_elastic(by, tag, date) :
+    spark = SparkSession \
+            .builder \
+            .appName("Python Spark SQL basic example") \
+            .config("spark.some.config.option", "some-value") \
+            .getOrCreate()
+
+    parDF=spark.read.parquet(HOME + "/datalake/usage/recommendation/" + by + "/" + tag + "/" + date + "/usage.parquet")
+    parDF.show(vertical=True)
+    try : 
+        parDF.coalesce(1).write.format('json').save(HOME + "/datalake/usage/recommendation/" + by + "/" + tag + "/" + date + "/usage.json")
+    except :
+        print("already exist")
+
+"""
+
+def transform_to_json_for_elastic(by, tag, date) :
+    spark = SparkSession \
+            .builder \
+            .appName("Python Spark SQL basic example") \
+            .config("spark.some.config.option", "some-value") \
+            .getOrCreate()
+
+    parDF=spark.read.parquet(HOME + "/datalake/usage/recommendation/" + by + "/" + tag + "/" + date + "/usage.parquet")
+    parDF.show(vertical=True)
+    #try : 
+    #    parDF.coalesce(1).write.format('json').save(HOME + "/datalake/usage/recommendation/" + by + "/" + tag + "/" + date + "/usage.json")
+    #except :
+    #    print("already exist")
+
+    res = requests.get('http://localhost:9200')
+    print (res.content)
+    es = Elasticsearch([{'host': 'localhost', 'port': '9200'}])
+    es.index(index='myindex', ignore=400, doc_type='json', 
+        id=i, body=json.loads(parDF.toJSON().first()))
+    #parDFjson = parDF.to_json()
+    #print(parDFjson)
+   # open(HOME + "/datalake/usage/recommendation/" + by + "/" + tag + "/" + date + "/usage.json", 'wb').write(parDFjson)
+"""
+
 #show_formatted("byartist", "rock", current_day)
 #produce_usage()
+
+#transform_to_json_for_elastic("byartist", "alternative", current_day)
+#transform_to_json_for_elastic("byartist", "pop", current_day)

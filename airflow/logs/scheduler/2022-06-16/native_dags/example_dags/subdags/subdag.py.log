@@ -1,0 +1,5 @@
+[2022-06-17 01:01:09,434] {processor.py:163} INFO - Started process (PID=26667) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-06-17 01:01:09,444] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-06-17 01:01:09,447] {logging_mixin.py:109} INFO - [2022-06-17 01:01:09,446] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-06-17 01:01:09,466] {processor.py:654} WARNING - No viable dags retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-06-17 01:01:09,499] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.091 seconds

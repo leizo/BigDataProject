@@ -1,0 +1,34 @@
+[2022-06-17 01:00:16,680] {processor.py:163} INFO - Started process (PID=26244) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-17 01:00:16,680] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-17 01:00:16,681] {logging_mixin.py:109} INFO - [2022-06-17 01:00:16,681] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-17 01:00:24,241] {logging_mixin.py:109} INFO - doesn't exist topArtist rock 20220617
+[2022-06-17 01:00:24,241] {logging_mixin.py:109} INFO - doesn't exist topArtist indie 20220617
+[2022-06-17 01:00:24,242] {logging_mixin.py:109} INFO - doesn't exist topArtist indie rock 20220617
+[2022-06-17 01:00:24,242] {logging_mixin.py:109} INFO - doesn't exist topArtist alternative 20220617
+[2022-06-17 01:00:24,242] {logging_mixin.py:109} INFO - doesn't exist topArtist pop 20220617
+[2022-06-17 01:00:24,242] {logging_mixin.py:109} INFO - doesn't exist topTracks rock 20220617
+[2022-06-17 01:00:24,242] {logging_mixin.py:109} INFO - doesn't exist topTracks indie 20220617
+[2022-06-17 01:00:24,243] {logging_mixin.py:109} INFO - doesn't exist topTracks indie rock 20220617
+[2022-06-17 01:00:24,243] {logging_mixin.py:109} INFO - doesn't exist topTracks alternative 20220617
+[2022-06-17 01:00:24,243] {logging_mixin.py:109} INFO - doesn't exist topTracks pop 20220617
+[2022-06-17 01:00:24,258] {processor.py:652} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-17 01:00:24,282] {logging_mixin.py:109} INFO - [2022-06-17 01:00:24,280] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-17 01:00:24,303] {logging_mixin.py:109} INFO - [2022-06-17 01:00:24,303] {dag.py:2937} INFO - Setting next_dagrun for my_first_dag to None
+[2022-06-17 01:00:24,323] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 7.646 seconds
+[2022-06-17 01:01:27,816] {processor.py:163} INFO - Started process (PID=27085) to work on /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-17 01:01:27,819] {processor.py:642} INFO - Processing file /home/leizo/airflow/dags/my_first_dag.py for tasks to queue
+[2022-06-17 01:01:27,821] {logging_mixin.py:109} INFO - [2022-06-17 01:01:27,821] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-17 01:01:44,577] {logging_mixin.py:109} INFO - doesn't exist topArtist rock 20220617
+[2022-06-17 01:01:44,578] {logging_mixin.py:109} INFO - doesn't exist topArtist indie 20220617
+[2022-06-17 01:01:44,578] {logging_mixin.py:109} INFO - doesn't exist topArtist indie rock 20220617
+[2022-06-17 01:01:44,579] {logging_mixin.py:109} INFO - doesn't exist topArtist alternative 20220617
+[2022-06-17 01:01:44,579] {logging_mixin.py:109} INFO - doesn't exist topArtist pop 20220617
+[2022-06-17 01:01:44,580] {logging_mixin.py:109} INFO - doesn't exist topTracks rock 20220617
+[2022-06-17 01:01:44,580] {logging_mixin.py:109} INFO - doesn't exist topTracks indie 20220617
+[2022-06-17 01:01:44,580] {logging_mixin.py:109} INFO - doesn't exist topTracks indie rock 20220617
+[2022-06-17 01:01:44,581] {logging_mixin.py:109} INFO - doesn't exist topTracks alternative 20220617
+[2022-06-17 01:01:44,581] {logging_mixin.py:109} INFO - doesn't exist topTracks pop 20220617
+[2022-06-17 01:01:44,611] {processor.py:652} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /home/leizo/airflow/dags/my_first_dag.py
+[2022-06-17 01:01:44,646] {logging_mixin.py:109} INFO - [2022-06-17 01:01:44,645] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-17 01:01:44,685] {logging_mixin.py:109} INFO - [2022-06-17 01:01:44,685] {dag.py:2937} INFO - Setting next_dagrun for my_first_dag to None
+[2022-06-17 01:01:44,715] {processor.py:171} INFO - Processing /home/leizo/airflow/dags/my_first_dag.py took 16.908 seconds

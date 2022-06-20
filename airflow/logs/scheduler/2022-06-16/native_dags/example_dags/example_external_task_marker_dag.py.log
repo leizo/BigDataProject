@@ -1,0 +1,8 @@
+[2022-06-17 01:01:06,363] {processor.py:163} INFO - Started process (PID=26592) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-06-17 01:01:06,364] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-06-17 01:01:06,365] {logging_mixin.py:109} INFO - [2022-06-17 01:01:06,365] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-06-17 01:01:06,396] {processor.py:652} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-06-17 01:01:06,436] {logging_mixin.py:109} INFO - [2022-06-17 01:01:06,436] {dag.py:2398} INFO - Sync 2 DAGs
+[2022-06-17 01:01:06,484] {logging_mixin.py:109} INFO - [2022-06-17 01:01:06,484] {dag.py:2937} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-06-17 01:01:06,485] {logging_mixin.py:109} INFO - [2022-06-17 01:01:06,485] {dag.py:2937} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-06-17 01:01:06,508] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.148 seconds

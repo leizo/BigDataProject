@@ -1,0 +1,686 @@
+[2022-06-20 11:07:00,347] {processor.py:163} INFO - Started process (PID=6157) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:07:00,349] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:07:00,350] {logging_mixin.py:109} INFO - [2022-06-20 11:07:00,350] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:07:00,370] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:07:00,387] {logging_mixin.py:109} INFO - [2022-06-20 11:07:00,386] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:07:00,398] {logging_mixin.py:109} INFO - [2022-06-20 11:07:00,398] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:07:00.398396+00:00
+[2022-06-20 11:07:00,416] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.073 seconds
+[2022-06-20 11:09:09,007] {processor.py:163} INFO - Started process (PID=7453) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:09:09,010] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:09:09,011] {logging_mixin.py:109} INFO - [2022-06-20 11:09:09,011] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:09:09,031] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:09:09,045] {logging_mixin.py:109} INFO - [2022-06-20 11:09:09,045] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:09:09,062] {logging_mixin.py:109} INFO - [2022-06-20 11:09:09,062] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:09:09.062086+00:00
+[2022-06-20 11:09:09,081] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2022-06-20 11:11:37,746] {processor.py:163} INFO - Started process (PID=9004) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:11:37,748] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:11:37,749] {logging_mixin.py:109} INFO - [2022-06-20 11:11:37,749] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:11:37,761] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:11:37,772] {logging_mixin.py:109} INFO - [2022-06-20 11:11:37,772] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:11:37,784] {logging_mixin.py:109} INFO - [2022-06-20 11:11:37,783] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:11:37.783626+00:00
+[2022-06-20 11:11:37,803] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.061 seconds
+[2022-06-20 11:13:44,298] {processor.py:163} INFO - Started process (PID=10359) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:13:44,301] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:13:44,302] {logging_mixin.py:109} INFO - [2022-06-20 11:13:44,302] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:13:44,318] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:13:44,332] {logging_mixin.py:109} INFO - [2022-06-20 11:13:44,332] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:13:44,344] {logging_mixin.py:109} INFO - [2022-06-20 11:13:44,344] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:13:44.343747+00:00
+[2022-06-20 11:13:44,360] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.065 seconds
+[2022-06-20 11:15:55,033] {processor.py:163} INFO - Started process (PID=11651) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:15:55,035] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:15:55,036] {logging_mixin.py:109} INFO - [2022-06-20 11:15:55,036] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:15:55,049] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:15:55,060] {logging_mixin.py:109} INFO - [2022-06-20 11:15:55,060] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:15:55,072] {logging_mixin.py:109} INFO - [2022-06-20 11:15:55,072] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:15:55.072484+00:00
+[2022-06-20 11:15:55,089] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.059 seconds
+[2022-06-20 11:18:28,374] {processor.py:163} INFO - Started process (PID=13065) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:18:28,377] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:18:28,378] {logging_mixin.py:109} INFO - [2022-06-20 11:18:28,378] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:18:28,408] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:18:28,430] {logging_mixin.py:109} INFO - [2022-06-20 11:18:28,430] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:18:28,443] {logging_mixin.py:109} INFO - [2022-06-20 11:18:28,443] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:18:28.443371+00:00
+[2022-06-20 11:18:28,462] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.090 seconds
+[2022-06-20 11:20:47,891] {processor.py:163} INFO - Started process (PID=14412) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:20:47,893] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:20:47,893] {logging_mixin.py:109} INFO - [2022-06-20 11:20:47,893] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:20:47,908] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:20:47,921] {logging_mixin.py:109} INFO - [2022-06-20 11:20:47,921] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:20:47,931] {logging_mixin.py:109} INFO - [2022-06-20 11:20:47,931] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:20:47.931472+00:00
+[2022-06-20 11:20:47,950] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.063 seconds
+[2022-06-20 11:23:01,139] {processor.py:163} INFO - Started process (PID=15723) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:23:01,141] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:23:01,142] {logging_mixin.py:109} INFO - [2022-06-20 11:23:01,141] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:23:01,157] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:23:01,173] {logging_mixin.py:109} INFO - [2022-06-20 11:23:01,172] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:23:01,188] {logging_mixin.py:109} INFO - [2022-06-20 11:23:01,188] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:23:01.188233+00:00
+[2022-06-20 11:23:01,204] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.067 seconds
+[2022-06-20 11:25:27,226] {processor.py:163} INFO - Started process (PID=17038) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:25:27,228] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:25:27,229] {logging_mixin.py:109} INFO - [2022-06-20 11:25:27,229] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:25:27,244] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:25:27,258] {logging_mixin.py:109} INFO - [2022-06-20 11:25:27,258] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:25:27,281] {logging_mixin.py:109} INFO - [2022-06-20 11:25:27,281] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:25:27.280838+00:00
+[2022-06-20 11:25:27,300] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2022-06-20 11:27:55,626] {processor.py:163} INFO - Started process (PID=18339) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:27:55,631] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:27:55,634] {logging_mixin.py:109} INFO - [2022-06-20 11:27:55,633] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:27:55,658] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:27:55,679] {logging_mixin.py:109} INFO - [2022-06-20 11:27:55,679] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:27:55,709] {logging_mixin.py:109} INFO - [2022-06-20 11:27:55,709] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:27:55.708637+00:00
+[2022-06-20 11:27:55,727] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.109 seconds
+[2022-06-20 11:30:07,484] {processor.py:163} INFO - Started process (PID=19629) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:30:07,487] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:30:07,488] {logging_mixin.py:109} INFO - [2022-06-20 11:30:07,488] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:30:07,522] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:30:07,554] {logging_mixin.py:109} INFO - [2022-06-20 11:30:07,554] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:30:07,578] {logging_mixin.py:109} INFO - [2022-06-20 11:30:07,578] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:30:07.578209+00:00
+[2022-06-20 11:30:07,591] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.112 seconds
+[2022-06-20 11:32:13,396] {processor.py:163} INFO - Started process (PID=21000) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:32:13,399] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:32:13,400] {logging_mixin.py:109} INFO - [2022-06-20 11:32:13,400] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:32:13,416] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:32:13,431] {logging_mixin.py:109} INFO - [2022-06-20 11:32:13,431] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:32:13,442] {logging_mixin.py:109} INFO - [2022-06-20 11:32:13,442] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:32:13.441963+00:00
+[2022-06-20 11:32:13,460] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.067 seconds
+[2022-06-20 11:33:47,241] {processor.py:163} INFO - Started process (PID=21935) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:33:47,246] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:33:47,247] {logging_mixin.py:109} INFO - [2022-06-20 11:33:47,247] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:33:47,276] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:33:47,320] {logging_mixin.py:109} INFO - [2022-06-20 11:33:47,319] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:33:47,345] {logging_mixin.py:109} INFO - [2022-06-20 11:33:47,344] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:33:47.344360+00:00
+[2022-06-20 11:33:47,368] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.134 seconds
+[2022-06-20 11:35:24,446] {processor.py:163} INFO - Started process (PID=22898) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:35:24,449] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:35:24,450] {logging_mixin.py:109} INFO - [2022-06-20 11:35:24,450] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:35:24,463] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:35:24,477] {logging_mixin.py:109} INFO - [2022-06-20 11:35:24,477] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:35:24,493] {logging_mixin.py:109} INFO - [2022-06-20 11:35:24,493] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:35:24.493254+00:00
+[2022-06-20 11:35:24,511] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.067 seconds
+[2022-06-20 11:37:08,974] {processor.py:163} INFO - Started process (PID=23937) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:37:08,977] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:37:08,979] {logging_mixin.py:109} INFO - [2022-06-20 11:37:08,978] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:37:09,005] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:37:09,027] {logging_mixin.py:109} INFO - [2022-06-20 11:37:09,027] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:37:09,040] {logging_mixin.py:109} INFO - [2022-06-20 11:37:09,040] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:37:09.040275+00:00
+[2022-06-20 11:37:09,051] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.084 seconds
+[2022-06-20 11:38:43,655] {processor.py:163} INFO - Started process (PID=24858) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:38:43,658] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:38:43,659] {logging_mixin.py:109} INFO - [2022-06-20 11:38:43,659] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:38:43,671] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:38:43,682] {logging_mixin.py:109} INFO - [2022-06-20 11:38:43,682] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:38:43,694] {logging_mixin.py:109} INFO - [2022-06-20 11:38:43,694] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:38:43.694239+00:00
+[2022-06-20 11:38:43,716] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.064 seconds
+[2022-06-20 11:40:27,103] {processor.py:163} INFO - Started process (PID=25894) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:40:27,105] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:40:27,108] {logging_mixin.py:109} INFO - [2022-06-20 11:40:27,108] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:40:27,129] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:40:27,141] {logging_mixin.py:109} INFO - [2022-06-20 11:40:27,141] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:40:27,156] {logging_mixin.py:109} INFO - [2022-06-20 11:40:27,156] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:40:27.156313+00:00
+[2022-06-20 11:40:27,176] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2022-06-20 11:41:51,177] {processor.py:163} INFO - Started process (PID=26658) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:41:51,179] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:41:51,180] {logging_mixin.py:109} INFO - [2022-06-20 11:41:51,180] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:41:51,194] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:41:51,212] {logging_mixin.py:109} INFO - [2022-06-20 11:41:51,212] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:41:51,224] {logging_mixin.py:109} INFO - [2022-06-20 11:41:51,224] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:41:51.224523+00:00
+[2022-06-20 11:41:51,236] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.062 seconds
+[2022-06-20 11:43:41,225] {processor.py:163} INFO - Started process (PID=27607) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:43:41,227] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:43:41,228] {logging_mixin.py:109} INFO - [2022-06-20 11:43:41,228] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:43:41,245] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:43:41,273] {logging_mixin.py:109} INFO - [2022-06-20 11:43:41,273] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:43:41,324] {logging_mixin.py:109} INFO - [2022-06-20 11:43:41,324] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:43:41.324098+00:00
+[2022-06-20 11:43:41,346] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.123 seconds
+[2022-06-20 11:45:23,758] {processor.py:163} INFO - Started process (PID=28543) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:45:23,760] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:45:23,761] {logging_mixin.py:109} INFO - [2022-06-20 11:45:23,761] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:45:23,779] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:45:23,791] {logging_mixin.py:109} INFO - [2022-06-20 11:45:23,791] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:45:23,800] {logging_mixin.py:109} INFO - [2022-06-20 11:45:23,800] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:45:23.800645+00:00
+[2022-06-20 11:45:23,817] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.064 seconds
+[2022-06-20 11:46:56,194] {processor.py:163} INFO - Started process (PID=29532) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:46:56,196] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:46:56,198] {logging_mixin.py:109} INFO - [2022-06-20 11:46:56,197] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:46:56,213] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:46:56,227] {logging_mixin.py:109} INFO - [2022-06-20 11:46:56,227] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:46:56,240] {logging_mixin.py:109} INFO - [2022-06-20 11:46:56,240] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:46:56.240289+00:00
+[2022-06-20 11:46:56,254] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.063 seconds
+[2022-06-20 11:48:38,301] {processor.py:163} INFO - Started process (PID=30584) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:48:38,303] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:48:38,304] {logging_mixin.py:109} INFO - [2022-06-20 11:48:38,304] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:48:38,318] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:48:38,344] {logging_mixin.py:109} INFO - [2022-06-20 11:48:38,344] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:48:38,364] {logging_mixin.py:109} INFO - [2022-06-20 11:48:38,364] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:48:38.363768+00:00
+[2022-06-20 11:48:38,380] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.082 seconds
+[2022-06-20 11:50:18,900] {processor.py:163} INFO - Started process (PID=31557) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:50:18,903] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:50:18,904] {logging_mixin.py:109} INFO - [2022-06-20 11:50:18,903] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:50:18,919] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:50:18,931] {logging_mixin.py:109} INFO - [2022-06-20 11:50:18,931] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:50:18,941] {logging_mixin.py:109} INFO - [2022-06-20 11:50:18,941] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:50:18.941606+00:00
+[2022-06-20 11:50:18,954] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2022-06-20 11:52:24,504] {processor.py:163} INFO - Started process (PID=334) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:52:24,506] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:52:24,507] {logging_mixin.py:109} INFO - [2022-06-20 11:52:24,507] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:52:24,524] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:52:24,550] {logging_mixin.py:109} INFO - [2022-06-20 11:52:24,550] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:52:24,577] {logging_mixin.py:109} INFO - [2022-06-20 11:52:24,577] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:52:24.576803+00:00
+[2022-06-20 11:52:24,591] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.090 seconds
+[2022-06-20 11:54:05,563] {processor.py:163} INFO - Started process (PID=1254) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:54:05,566] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:54:05,567] {logging_mixin.py:109} INFO - [2022-06-20 11:54:05,567] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:54:05,579] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:54:05,594] {logging_mixin.py:109} INFO - [2022-06-20 11:54:05,594] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:54:05,611] {logging_mixin.py:109} INFO - [2022-06-20 11:54:05,610] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:54:05.610452+00:00
+[2022-06-20 11:54:05,627] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
+[2022-06-20 11:55:47,894] {processor.py:163} INFO - Started process (PID=2193) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:55:47,897] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:55:47,898] {logging_mixin.py:109} INFO - [2022-06-20 11:55:47,898] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:55:47,913] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:55:47,928] {logging_mixin.py:109} INFO - [2022-06-20 11:55:47,928] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:55:47,942] {logging_mixin.py:109} INFO - [2022-06-20 11:55:47,942] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:55:47.941869+00:00
+[2022-06-20 11:55:47,957] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
+[2022-06-20 11:57:20,639] {processor.py:163} INFO - Started process (PID=2964) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:57:20,642] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:57:20,643] {logging_mixin.py:109} INFO - [2022-06-20 11:57:20,643] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:57:20,657] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:57:20,669] {logging_mixin.py:109} INFO - [2022-06-20 11:57:20,669] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:57:20,678] {logging_mixin.py:109} INFO - [2022-06-20 11:57:20,678] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:57:20.678523+00:00
+[2022-06-20 11:57:20,692] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2022-06-20 11:59:12,511] {processor.py:163} INFO - Started process (PID=3887) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:59:12,515] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 11:59:12,516] {logging_mixin.py:109} INFO - [2022-06-20 11:59:12,516] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:59:12,533] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 11:59:12,545] {logging_mixin.py:109} INFO - [2022-06-20 11:59:12,545] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 11:59:12,560] {logging_mixin.py:109} INFO - [2022-06-20 11:59:12,560] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T09:59:12.559984+00:00
+[2022-06-20 11:59:12,577] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.075 seconds
+[2022-06-20 12:01:31,798] {processor.py:163} INFO - Started process (PID=5262) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:01:31,812] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 12:01:31,815] {logging_mixin.py:109} INFO - [2022-06-20 12:01:31,814] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:01:31,883] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:01:31,960] {logging_mixin.py:109} INFO - [2022-06-20 12:01:31,960] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:01:32,071] {logging_mixin.py:109} INFO - [2022-06-20 12:01:32,070] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T10:01:32.069591+00:00
+[2022-06-20 12:01:32,124] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.341 seconds
+[2022-06-20 12:04:52,945] {processor.py:163} INFO - Started process (PID=7137) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:04:52,946] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 12:04:52,947] {logging_mixin.py:109} INFO - [2022-06-20 12:04:52,947] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:04:52,965] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:04:52,980] {logging_mixin.py:109} INFO - [2022-06-20 12:04:52,979] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:04:52,992] {logging_mixin.py:109} INFO - [2022-06-20 12:04:52,992] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T10:04:52.992456+00:00
+[2022-06-20 12:04:53,007] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
+[2022-06-20 12:07:15,277] {processor.py:163} INFO - Started process (PID=8136) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:07:15,279] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 12:07:15,281] {logging_mixin.py:109} INFO - [2022-06-20 12:07:15,280] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:07:15,295] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:07:15,308] {logging_mixin.py:109} INFO - [2022-06-20 12:07:15,308] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:07:15,321] {logging_mixin.py:109} INFO - [2022-06-20 12:07:15,321] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T10:07:15.320682+00:00
+[2022-06-20 12:07:15,341] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.068 seconds
+[2022-06-20 12:10:37,966] {processor.py:163} INFO - Started process (PID=9748) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:10:37,969] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 12:10:37,969] {logging_mixin.py:109} INFO - [2022-06-20 12:10:37,969] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:10:37,985] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:10:37,998] {logging_mixin.py:109} INFO - [2022-06-20 12:10:37,998] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:10:38,010] {logging_mixin.py:109} INFO - [2022-06-20 12:10:38,010] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T10:10:38.010208+00:00
+[2022-06-20 12:10:38,025] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.062 seconds
+[2022-06-20 12:13:08,114] {processor.py:163} INFO - Started process (PID=11121) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:13:08,117] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 12:13:08,117] {logging_mixin.py:109} INFO - [2022-06-20 12:13:08,117] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:13:08,133] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:13:08,150] {logging_mixin.py:109} INFO - [2022-06-20 12:13:08,150] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:13:08,160] {logging_mixin.py:109} INFO - [2022-06-20 12:13:08,160] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T10:13:08.160027+00:00
+[2022-06-20 12:13:08,177] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
+[2022-06-20 12:15:34,026] {processor.py:163} INFO - Started process (PID=12471) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:15:34,030] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 12:15:34,033] {logging_mixin.py:109} INFO - [2022-06-20 12:15:34,032] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:15:34,060] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:15:34,075] {logging_mixin.py:109} INFO - [2022-06-20 12:15:34,075] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:15:34,089] {logging_mixin.py:109} INFO - [2022-06-20 12:15:34,088] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T10:15:34.088705+00:00
+[2022-06-20 12:15:34,106] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.086 seconds
+[2022-06-20 12:18:57,076] {processor.py:163} INFO - Started process (PID=13826) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:18:57,080] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 12:18:57,081] {logging_mixin.py:109} INFO - [2022-06-20 12:18:57,081] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:18:57,113] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:18:57,142] {logging_mixin.py:109} INFO - [2022-06-20 12:18:57,142] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:18:57,168] {logging_mixin.py:109} INFO - [2022-06-20 12:18:57,168] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T10:18:57.167338+00:00
+[2022-06-20 12:18:57,187] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.125 seconds
+[2022-06-20 12:22:39,451] {processor.py:163} INFO - Started process (PID=15477) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:22:39,454] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 12:22:39,455] {logging_mixin.py:109} INFO - [2022-06-20 12:22:39,455] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:22:39,492] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:22:39,520] {logging_mixin.py:109} INFO - [2022-06-20 12:22:39,520] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:22:39,540] {logging_mixin.py:109} INFO - [2022-06-20 12:22:39,540] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T10:22:39.540361+00:00
+[2022-06-20 12:22:39,559] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.122 seconds
+[2022-06-20 12:25:20,469] {processor.py:163} INFO - Started process (PID=16817) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:25:20,471] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 12:25:20,472] {logging_mixin.py:109} INFO - [2022-06-20 12:25:20,472] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:25:20,486] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:25:20,499] {logging_mixin.py:109} INFO - [2022-06-20 12:25:20,499] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:25:20,509] {logging_mixin.py:109} INFO - [2022-06-20 12:25:20,509] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T10:25:20.509382+00:00
+[2022-06-20 12:25:20,526] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.062 seconds
+[2022-06-20 12:28:13,844] {processor.py:163} INFO - Started process (PID=18141) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:28:13,847] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 12:28:13,848] {logging_mixin.py:109} INFO - [2022-06-20 12:28:13,848] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:28:13,864] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:28:13,878] {logging_mixin.py:109} INFO - [2022-06-20 12:28:13,878] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:28:13,897] {logging_mixin.py:109} INFO - [2022-06-20 12:28:13,897] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T10:28:13.897089+00:00
+[2022-06-20 12:28:13,917] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2022-06-20 12:31:23,279] {processor.py:163} INFO - Started process (PID=19496) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:31:23,283] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 12:31:23,284] {logging_mixin.py:109} INFO - [2022-06-20 12:31:23,284] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:31:23,361] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:31:23,458] {logging_mixin.py:109} INFO - [2022-06-20 12:31:23,457] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:31:23,554] {logging_mixin.py:109} INFO - [2022-06-20 12:31:23,554] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T10:31:23.553594+00:00
+[2022-06-20 12:31:23,634] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.373 seconds
+[2022-06-20 12:34:48,305] {processor.py:163} INFO - Started process (PID=20865) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:34:48,307] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 12:34:48,308] {logging_mixin.py:109} INFO - [2022-06-20 12:34:48,308] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:34:48,322] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:34:48,337] {logging_mixin.py:109} INFO - [2022-06-20 12:34:48,337] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:34:48,349] {logging_mixin.py:109} INFO - [2022-06-20 12:34:48,349] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T10:34:48.349245+00:00
+[2022-06-20 12:34:48,367] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.064 seconds
+[2022-06-20 12:38:19,170] {processor.py:163} INFO - Started process (PID=22477) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:38:19,173] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 12:38:19,174] {logging_mixin.py:109} INFO - [2022-06-20 12:38:19,173] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:38:19,189] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:38:19,211] {logging_mixin.py:109} INFO - [2022-06-20 12:38:19,211] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:38:19,224] {logging_mixin.py:109} INFO - [2022-06-20 12:38:19,224] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T10:38:19.224345+00:00
+[2022-06-20 12:38:19,237] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.069 seconds
+[2022-06-20 12:41:09,606] {processor.py:163} INFO - Started process (PID=23817) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:41:09,609] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 12:41:09,610] {logging_mixin.py:109} INFO - [2022-06-20 12:41:09,610] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:41:09,622] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:41:09,635] {logging_mixin.py:109} INFO - [2022-06-20 12:41:09,635] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:41:09,652] {logging_mixin.py:109} INFO - [2022-06-20 12:41:09,652] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T10:41:09.651719+00:00
+[2022-06-20 12:41:09,669] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
+[2022-06-20 12:43:16,884] {processor.py:163} INFO - Started process (PID=25130) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:43:16,886] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 12:43:16,887] {logging_mixin.py:109} INFO - [2022-06-20 12:43:16,887] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:43:16,904] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:43:16,918] {logging_mixin.py:109} INFO - [2022-06-20 12:43:16,917] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:43:16,928] {logging_mixin.py:109} INFO - [2022-06-20 12:43:16,928] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T10:43:16.928035+00:00
+[2022-06-20 12:43:16,943] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.061 seconds
+[2022-06-20 12:45:19,171] {processor.py:163} INFO - Started process (PID=26448) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:45:19,174] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 12:45:19,175] {logging_mixin.py:109} INFO - [2022-06-20 12:45:19,175] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:45:19,188] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:45:19,201] {logging_mixin.py:109} INFO - [2022-06-20 12:45:19,201] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:45:19,218] {logging_mixin.py:109} INFO - [2022-06-20 12:45:19,217] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T10:45:19.217697+00:00
+[2022-06-20 12:45:19,235] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.067 seconds
+[2022-06-20 12:47:23,216] {processor.py:163} INFO - Started process (PID=27743) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:47:23,220] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 12:47:23,221] {logging_mixin.py:109} INFO - [2022-06-20 12:47:23,221] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:47:23,234] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:47:23,249] {logging_mixin.py:109} INFO - [2022-06-20 12:47:23,249] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:47:23,264] {logging_mixin.py:109} INFO - [2022-06-20 12:47:23,264] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T10:47:23.264041+00:00
+[2022-06-20 12:47:23,280] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
+[2022-06-20 12:49:31,460] {processor.py:163} INFO - Started process (PID=29050) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:49:31,462] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 12:49:31,462] {logging_mixin.py:109} INFO - [2022-06-20 12:49:31,462] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:49:31,476] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:49:31,489] {logging_mixin.py:109} INFO - [2022-06-20 12:49:31,489] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:49:31,510] {logging_mixin.py:109} INFO - [2022-06-20 12:49:31,510] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T10:49:31.509102+00:00
+[2022-06-20 12:49:31,525] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.068 seconds
+[2022-06-20 12:51:40,544] {processor.py:163} INFO - Started process (PID=30490) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:51:40,546] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 12:51:40,547] {logging_mixin.py:109} INFO - [2022-06-20 12:51:40,547] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:51:40,558] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:51:40,569] {logging_mixin.py:109} INFO - [2022-06-20 12:51:40,569] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:51:40,583] {logging_mixin.py:109} INFO - [2022-06-20 12:51:40,583] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T10:51:40.583310+00:00
+[2022-06-20 12:51:40,601] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.059 seconds
+[2022-06-20 12:54:16,544] {processor.py:163} INFO - Started process (PID=31784) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:54:16,549] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 12:54:16,552] {logging_mixin.py:109} INFO - [2022-06-20 12:54:16,551] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:54:16,605] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:54:16,647] {logging_mixin.py:109} INFO - [2022-06-20 12:54:16,647] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:54:16,680] {logging_mixin.py:109} INFO - [2022-06-20 12:54:16,680] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T10:54:16.678845+00:00
+[2022-06-20 12:54:16,705] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.167 seconds
+[2022-06-20 12:57:37,810] {processor.py:163} INFO - Started process (PID=641) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:57:37,817] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 12:57:37,827] {logging_mixin.py:109} INFO - [2022-06-20 12:57:37,827] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:57:37,959] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 12:57:38,051] {logging_mixin.py:109} INFO - [2022-06-20 12:57:38,050] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 12:57:38,137] {logging_mixin.py:109} INFO - [2022-06-20 12:57:38,137] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T10:57:38.136278+00:00
+[2022-06-20 12:57:38,199] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.420 seconds
+[2022-06-20 13:02:16,713] {processor.py:163} INFO - Started process (PID=2315) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 13:02:16,715] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 13:02:16,715] {logging_mixin.py:109} INFO - [2022-06-20 13:02:16,715] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 13:02:16,728] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 13:02:16,740] {logging_mixin.py:109} INFO - [2022-06-20 13:02:16,740] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 13:02:16,759] {logging_mixin.py:109} INFO - [2022-06-20 13:02:16,759] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T11:02:16.759385+00:00
+[2022-06-20 13:02:16,780] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.070 seconds
+[2022-06-20 15:43:54,822] {processor.py:163} INFO - Started process (PID=2385) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:43:54,824] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 15:43:54,826] {logging_mixin.py:109} INFO - [2022-06-20 15:43:54,825] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:43:54,851] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:43:54,873] {logging_mixin.py:109} INFO - [2022-06-20 15:43:54,873] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 15:43:54,889] {logging_mixin.py:109} INFO - [2022-06-20 15:43:54,889] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T13:43:54.889509+00:00
+[2022-06-20 15:43:54,903] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.086 seconds
+[2022-06-20 15:45:51,130] {processor.py:163} INFO - Started process (PID=3759) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:45:51,134] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 15:45:51,135] {logging_mixin.py:109} INFO - [2022-06-20 15:45:51,135] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:45:51,157] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:45:51,168] {logging_mixin.py:109} INFO - [2022-06-20 15:45:51,168] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 15:45:51,179] {logging_mixin.py:109} INFO - [2022-06-20 15:45:51,179] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T13:45:51.179365+00:00
+[2022-06-20 15:45:51,192] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.069 seconds
+[2022-06-20 15:47:47,925] {processor.py:163} INFO - Started process (PID=5138) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:47:47,928] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 15:47:47,928] {logging_mixin.py:109} INFO - [2022-06-20 15:47:47,928] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:47:47,944] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:47:47,956] {logging_mixin.py:109} INFO - [2022-06-20 15:47:47,956] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 15:47:47,968] {logging_mixin.py:109} INFO - [2022-06-20 15:47:47,968] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T13:47:47.968420+00:00
+[2022-06-20 15:47:47,981] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.062 seconds
+[2022-06-20 15:49:36,762] {processor.py:163} INFO - Started process (PID=6473) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:49:36,764] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 15:49:36,765] {logging_mixin.py:109} INFO - [2022-06-20 15:49:36,765] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:49:36,784] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:49:36,795] {logging_mixin.py:109} INFO - [2022-06-20 15:49:36,795] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 15:49:36,803] {logging_mixin.py:109} INFO - [2022-06-20 15:49:36,803] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T13:49:36.803566+00:00
+[2022-06-20 15:49:36,815] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2022-06-20 15:51:25,313] {processor.py:163} INFO - Started process (PID=7838) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:51:25,315] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 15:51:25,316] {logging_mixin.py:109} INFO - [2022-06-20 15:51:25,316] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:51:25,339] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:51:25,354] {logging_mixin.py:109} INFO - [2022-06-20 15:51:25,354] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 15:51:25,364] {logging_mixin.py:109} INFO - [2022-06-20 15:51:25,363] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T13:51:25.363663+00:00
+[2022-06-20 15:51:25,374] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
+[2022-06-20 15:53:17,144] {processor.py:163} INFO - Started process (PID=9213) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:53:17,147] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 15:53:17,148] {logging_mixin.py:109} INFO - [2022-06-20 15:53:17,148] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:53:17,171] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:53:17,189] {logging_mixin.py:109} INFO - [2022-06-20 15:53:17,189] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 15:53:17,199] {logging_mixin.py:109} INFO - [2022-06-20 15:53:17,199] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T13:53:17.199473+00:00
+[2022-06-20 15:53:17,211] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.071 seconds
+[2022-06-20 15:55:12,608] {processor.py:163} INFO - Started process (PID=10539) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:55:12,611] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 15:55:12,612] {logging_mixin.py:109} INFO - [2022-06-20 15:55:12,612] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:55:12,634] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:55:12,646] {logging_mixin.py:109} INFO - [2022-06-20 15:55:12,646] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 15:55:12,656] {logging_mixin.py:109} INFO - [2022-06-20 15:55:12,656] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T13:55:12.656455+00:00
+[2022-06-20 15:55:12,670] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.067 seconds
+[2022-06-20 15:57:08,952] {processor.py:163} INFO - Started process (PID=11883) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:57:08,954] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 15:57:08,955] {logging_mixin.py:109} INFO - [2022-06-20 15:57:08,955] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:57:08,977] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:57:08,989] {logging_mixin.py:109} INFO - [2022-06-20 15:57:08,989] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 15:57:08,998] {logging_mixin.py:109} INFO - [2022-06-20 15:57:08,998] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T13:57:08.998387+00:00
+[2022-06-20 15:57:09,009] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.062 seconds
+[2022-06-20 15:59:00,040] {processor.py:163} INFO - Started process (PID=13243) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:59:00,042] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 15:59:00,043] {logging_mixin.py:109} INFO - [2022-06-20 15:59:00,043] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:59:00,065] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 15:59:00,081] {logging_mixin.py:109} INFO - [2022-06-20 15:59:00,081] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 15:59:00,099] {logging_mixin.py:109} INFO - [2022-06-20 15:59:00,099] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T13:59:00.099036+00:00
+[2022-06-20 15:59:00,119] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.086 seconds
+[2022-06-20 16:00:43,160] {processor.py:163} INFO - Started process (PID=14441) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:00:43,164] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:00:43,165] {logging_mixin.py:109} INFO - [2022-06-20 16:00:43,165] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:00:43,189] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:00:43,203] {logging_mixin.py:109} INFO - [2022-06-20 16:00:43,203] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:00:43,213] {logging_mixin.py:109} INFO - [2022-06-20 16:00:43,213] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:00:43.213319+00:00
+[2022-06-20 16:00:43,225] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.070 seconds
+[2022-06-20 16:03:19,528] {processor.py:163} INFO - Started process (PID=16732) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:03:19,531] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:03:19,533] {logging_mixin.py:109} INFO - [2022-06-20 16:03:19,533] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:03:19,557] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:03:19,574] {logging_mixin.py:109} INFO - [2022-06-20 16:03:19,574] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:03:19,585] {logging_mixin.py:109} INFO - [2022-06-20 16:03:19,585] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:03:19.585179+00:00
+[2022-06-20 16:03:19,598] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.074 seconds
+[2022-06-20 16:05:17,464] {processor.py:163} INFO - Started process (PID=18252) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:05:17,468] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:05:17,469] {logging_mixin.py:109} INFO - [2022-06-20 16:05:17,469] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:05:17,493] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:05:17,516] {logging_mixin.py:109} INFO - [2022-06-20 16:05:17,516] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:05:17,528] {logging_mixin.py:109} INFO - [2022-06-20 16:05:17,528] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:05:17.527878+00:00
+[2022-06-20 16:05:17,541] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.081 seconds
+[2022-06-20 16:08:17,666] {processor.py:163} INFO - Started process (PID=20152) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:08:17,668] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:08:17,669] {logging_mixin.py:109} INFO - [2022-06-20 16:08:17,669] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:08:17,681] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:08:17,691] {logging_mixin.py:109} INFO - [2022-06-20 16:08:17,691] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:08:17,701] {logging_mixin.py:109} INFO - [2022-06-20 16:08:17,701] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:08:17.701035+00:00
+[2022-06-20 16:08:17,713] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.049 seconds
+[2022-06-20 16:10:10,851] {processor.py:163} INFO - Started process (PID=21578) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:10:10,854] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:10:10,855] {logging_mixin.py:109} INFO - [2022-06-20 16:10:10,855] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:10:10,865] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:10:10,875] {logging_mixin.py:109} INFO - [2022-06-20 16:10:10,875] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:10:10,884] {logging_mixin.py:109} INFO - [2022-06-20 16:10:10,884] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:10:10.884379+00:00
+[2022-06-20 16:10:10,895] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.046 seconds
+[2022-06-20 16:12:04,105] {processor.py:163} INFO - Started process (PID=23025) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:12:04,107] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:12:04,108] {logging_mixin.py:109} INFO - [2022-06-20 16:12:04,108] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:12:04,125] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:12:04,145] {logging_mixin.py:109} INFO - [2022-06-20 16:12:04,145] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:12:04,163] {logging_mixin.py:109} INFO - [2022-06-20 16:12:04,163] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:12:04.163305+00:00
+[2022-06-20 16:12:04,179] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2022-06-20 16:16:19,778] {processor.py:163} INFO - Started process (PID=26499) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:16:19,781] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:16:19,782] {logging_mixin.py:109} INFO - [2022-06-20 16:16:19,782] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:16:19,795] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:16:19,807] {logging_mixin.py:109} INFO - [2022-06-20 16:16:19,807] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:16:19,821] {logging_mixin.py:109} INFO - [2022-06-20 16:16:19,821] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:16:19.820949+00:00
+[2022-06-20 16:16:19,836] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.060 seconds
+[2022-06-20 16:18:05,506] {processor.py:163} INFO - Started process (PID=27780) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:18:05,508] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:18:05,509] {logging_mixin.py:109} INFO - [2022-06-20 16:18:05,509] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:18:05,520] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:18:05,532] {logging_mixin.py:109} INFO - [2022-06-20 16:18:05,531] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:18:05,543] {logging_mixin.py:109} INFO - [2022-06-20 16:18:05,542] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:18:05.542672+00:00
+[2022-06-20 16:18:05,555] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.052 seconds
+[2022-06-20 16:19:55,744] {processor.py:163} INFO - Started process (PID=29047) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:19:55,747] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:19:55,747] {logging_mixin.py:109} INFO - [2022-06-20 16:19:55,747] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:19:55,759] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:19:55,769] {logging_mixin.py:109} INFO - [2022-06-20 16:19:55,769] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:19:55,779] {logging_mixin.py:109} INFO - [2022-06-20 16:19:55,779] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:19:55.778844+00:00
+[2022-06-20 16:19:55,792] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.050 seconds
+[2022-06-20 16:21:42,983] {processor.py:163} INFO - Started process (PID=30313) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:21:42,985] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:21:42,985] {logging_mixin.py:109} INFO - [2022-06-20 16:21:42,985] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:21:42,997] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:21:43,007] {logging_mixin.py:109} INFO - [2022-06-20 16:21:43,006] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:21:43,017] {logging_mixin.py:109} INFO - [2022-06-20 16:21:43,016] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:21:43.016738+00:00
+[2022-06-20 16:21:43,029] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.049 seconds
+[2022-06-20 16:23:27,992] {processor.py:163} INFO - Started process (PID=31578) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:23:27,994] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:23:27,995] {logging_mixin.py:109} INFO - [2022-06-20 16:23:27,995] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:23:28,007] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:23:28,018] {logging_mixin.py:109} INFO - [2022-06-20 16:23:28,018] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:23:28,030] {logging_mixin.py:109} INFO - [2022-06-20 16:23:28,030] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:23:28.030428+00:00
+[2022-06-20 16:23:28,042] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.053 seconds
+[2022-06-20 16:25:14,363] {processor.py:163} INFO - Started process (PID=376) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:25:14,365] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:25:14,366] {logging_mixin.py:109} INFO - [2022-06-20 16:25:14,365] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:25:14,376] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:25:14,389] {logging_mixin.py:109} INFO - [2022-06-20 16:25:14,388] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:25:14,398] {logging_mixin.py:109} INFO - [2022-06-20 16:25:14,398] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:25:14.398494+00:00
+[2022-06-20 16:25:14,410] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.050 seconds
+[2022-06-20 16:27:08,341] {processor.py:163} INFO - Started process (PID=1770) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:27:08,343] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:27:08,343] {logging_mixin.py:109} INFO - [2022-06-20 16:27:08,343] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:27:08,357] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:27:08,369] {logging_mixin.py:109} INFO - [2022-06-20 16:27:08,369] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:27:08,381] {logging_mixin.py:109} INFO - [2022-06-20 16:27:08,381] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:27:08.381115+00:00
+[2022-06-20 16:27:08,392] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.053 seconds
+[2022-06-20 16:29:01,566] {processor.py:163} INFO - Started process (PID=3030) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:29:01,567] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:29:01,568] {logging_mixin.py:109} INFO - [2022-06-20 16:29:01,568] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:29:01,581] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:29:01,591] {logging_mixin.py:109} INFO - [2022-06-20 16:29:01,591] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:29:01,601] {logging_mixin.py:109} INFO - [2022-06-20 16:29:01,601] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:29:01.601222+00:00
+[2022-06-20 16:29:01,614] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.051 seconds
+[2022-06-20 16:30:46,845] {processor.py:163} INFO - Started process (PID=4267) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:30:46,847] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:30:46,848] {logging_mixin.py:109} INFO - [2022-06-20 16:30:46,848] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:30:46,860] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:30:46,872] {logging_mixin.py:109} INFO - [2022-06-20 16:30:46,872] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:30:46,886] {logging_mixin.py:109} INFO - [2022-06-20 16:30:46,886] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:30:46.886181+00:00
+[2022-06-20 16:30:46,900] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2022-06-20 16:32:31,319] {processor.py:163} INFO - Started process (PID=5518) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:32:31,321] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:32:31,322] {logging_mixin.py:109} INFO - [2022-06-20 16:32:31,322] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:32:31,334] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:32:31,346] {logging_mixin.py:109} INFO - [2022-06-20 16:32:31,346] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:32:31,357] {logging_mixin.py:109} INFO - [2022-06-20 16:32:31,356] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:32:31.356691+00:00
+[2022-06-20 16:32:31,369] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.052 seconds
+[2022-06-20 16:34:15,381] {processor.py:163} INFO - Started process (PID=6788) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:34:15,383] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:34:15,383] {logging_mixin.py:109} INFO - [2022-06-20 16:34:15,383] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:34:15,396] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:34:15,411] {logging_mixin.py:109} INFO - [2022-06-20 16:34:15,410] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:34:15,427] {logging_mixin.py:109} INFO - [2022-06-20 16:34:15,427] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:34:15.427360+00:00
+[2022-06-20 16:34:15,441] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.062 seconds
+[2022-06-20 16:36:00,038] {processor.py:163} INFO - Started process (PID=8071) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:36:00,040] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:36:00,041] {logging_mixin.py:109} INFO - [2022-06-20 16:36:00,041] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:36:00,055] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:36:00,065] {logging_mixin.py:109} INFO - [2022-06-20 16:36:00,065] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:36:00,076] {logging_mixin.py:109} INFO - [2022-06-20 16:36:00,075] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:36:00.075703+00:00
+[2022-06-20 16:36:00,089] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.054 seconds
+[2022-06-20 16:37:58,553] {processor.py:163} INFO - Started process (PID=9332) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:37:58,555] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:37:58,556] {logging_mixin.py:109} INFO - [2022-06-20 16:37:58,555] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:37:58,570] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:37:58,582] {logging_mixin.py:109} INFO - [2022-06-20 16:37:58,582] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:37:58,593] {logging_mixin.py:109} INFO - [2022-06-20 16:37:58,593] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:37:58.593307+00:00
+[2022-06-20 16:37:58,606] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2022-06-20 16:42:21,101] {processor.py:163} INFO - Started process (PID=12221) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:42:21,104] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:42:21,105] {logging_mixin.py:109} INFO - [2022-06-20 16:42:21,105] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:42:21,118] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:42:21,128] {logging_mixin.py:109} INFO - [2022-06-20 16:42:21,128] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:42:21,138] {logging_mixin.py:109} INFO - [2022-06-20 16:42:21,138] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:42:21.138472+00:00
+[2022-06-20 16:42:21,151] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.052 seconds
+[2022-06-20 16:46:06,144] {processor.py:163} INFO - Started process (PID=14627) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:46:06,146] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:46:06,147] {logging_mixin.py:109} INFO - [2022-06-20 16:46:06,147] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:46:06,155] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:46:06,165] {logging_mixin.py:109} INFO - [2022-06-20 16:46:06,165] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:46:06,178] {logging_mixin.py:109} INFO - [2022-06-20 16:46:06,177] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:46:06.177662+00:00
+[2022-06-20 16:46:06,192] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.050 seconds
+[2022-06-20 16:48:19,709] {processor.py:163} INFO - Started process (PID=15900) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:48:19,711] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:48:19,712] {logging_mixin.py:109} INFO - [2022-06-20 16:48:19,711] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:48:19,717] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:48:19,730] {logging_mixin.py:109} INFO - [2022-06-20 16:48:19,730] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:48:19,742] {logging_mixin.py:109} INFO - [2022-06-20 16:48:19,742] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:48:19.741987+00:00
+[2022-06-20 16:48:19,756] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.050 seconds
+[2022-06-20 16:50:35,444] {processor.py:163} INFO - Started process (PID=17640) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:50:35,447] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:50:35,449] {logging_mixin.py:109} INFO - [2022-06-20 16:50:35,448] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:50:35,456] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:50:35,473] {logging_mixin.py:109} INFO - [2022-06-20 16:50:35,473] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:50:35,491] {logging_mixin.py:109} INFO - [2022-06-20 16:50:35,491] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:50:35.491345+00:00
+[2022-06-20 16:50:35,506] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.064 seconds
+[2022-06-20 16:52:46,108] {processor.py:163} INFO - Started process (PID=19236) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:52:46,109] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:52:46,110] {logging_mixin.py:109} INFO - [2022-06-20 16:52:46,110] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:52:46,117] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:52:46,133] {logging_mixin.py:109} INFO - [2022-06-20 16:52:46,133] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:52:46,152] {logging_mixin.py:109} INFO - [2022-06-20 16:52:46,152] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:52:46.152020+00:00
+[2022-06-20 16:52:46,168] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.062 seconds
+[2022-06-20 16:55:13,000] {processor.py:163} INFO - Started process (PID=20490) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:55:13,002] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:55:13,003] {logging_mixin.py:109} INFO - [2022-06-20 16:55:13,003] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:55:13,008] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:55:13,023] {logging_mixin.py:109} INFO - [2022-06-20 16:55:13,023] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:55:13,034] {logging_mixin.py:109} INFO - [2022-06-20 16:55:13,034] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:55:13.033738+00:00
+[2022-06-20 16:55:13,046] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.049 seconds
+[2022-06-20 16:57:33,607] {processor.py:163} INFO - Started process (PID=21753) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:57:33,610] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 16:57:33,610] {logging_mixin.py:109} INFO - [2022-06-20 16:57:33,610] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:57:33,615] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 16:57:33,630] {logging_mixin.py:109} INFO - [2022-06-20 16:57:33,630] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 16:57:33,644] {logging_mixin.py:109} INFO - [2022-06-20 16:57:33,644] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T14:57:33.644318+00:00
+[2022-06-20 16:57:33,660] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2022-06-20 17:00:16,251] {processor.py:163} INFO - Started process (PID=23049) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:00:16,254] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 17:00:16,254] {logging_mixin.py:109} INFO - [2022-06-20 17:00:16,254] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:00:16,268] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:00:16,284] {logging_mixin.py:109} INFO - [2022-06-20 17:00:16,284] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:00:16,306] {logging_mixin.py:109} INFO - [2022-06-20 17:00:16,306] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T15:00:16.305742+00:00
+[2022-06-20 17:00:16,337] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.088 seconds
+[2022-06-20 17:02:46,076] {processor.py:163} INFO - Started process (PID=24346) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:02:46,080] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 17:02:46,082] {logging_mixin.py:109} INFO - [2022-06-20 17:02:46,082] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:02:46,100] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:02:46,129] {logging_mixin.py:109} INFO - [2022-06-20 17:02:46,129] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:02:46,157] {logging_mixin.py:109} INFO - [2022-06-20 17:02:46,157] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T15:02:46.156381+00:00
+[2022-06-20 17:02:46,184] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.114 seconds
+[2022-06-20 17:05:57,064] {processor.py:163} INFO - Started process (PID=25638) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:05:57,067] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 17:05:57,068] {logging_mixin.py:109} INFO - [2022-06-20 17:05:57,068] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:05:57,082] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:05:57,110] {logging_mixin.py:109} INFO - [2022-06-20 17:05:57,110] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:05:57,137] {logging_mixin.py:109} INFO - [2022-06-20 17:05:57,137] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T15:05:57.136582+00:00
+[2022-06-20 17:05:57,160] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.103 seconds
+[2022-06-20 17:09:16,342] {processor.py:163} INFO - Started process (PID=26903) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:09:16,345] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 17:09:16,347] {logging_mixin.py:109} INFO - [2022-06-20 17:09:16,347] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:09:16,361] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:09:16,445] {logging_mixin.py:109} INFO - [2022-06-20 17:09:16,444] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:09:16,548] {logging_mixin.py:109} INFO - [2022-06-20 17:09:16,548] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T15:09:16.547721+00:00
+[2022-06-20 17:09:16,578] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.245 seconds
+[2022-06-20 17:11:38,260] {processor.py:163} INFO - Started process (PID=27651) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:11:38,263] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 17:11:38,264] {logging_mixin.py:109} INFO - [2022-06-20 17:11:38,264] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:11:38,276] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:11:38,300] {logging_mixin.py:109} INFO - [2022-06-20 17:11:38,299] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:11:38,324] {logging_mixin.py:109} INFO - [2022-06-20 17:11:38,323] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T15:11:38.322302+00:00
+[2022-06-20 17:11:38,347] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.092 seconds
+[2022-06-20 17:15:05,340] {processor.py:163} INFO - Started process (PID=28917) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:15:05,344] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 17:15:05,346] {logging_mixin.py:109} INFO - [2022-06-20 17:15:05,345] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:15:05,355] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:15:05,374] {logging_mixin.py:109} INFO - [2022-06-20 17:15:05,374] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:15:05,388] {logging_mixin.py:109} INFO - [2022-06-20 17:15:05,388] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T15:15:05.388199+00:00
+[2022-06-20 17:15:05,403] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
+[2022-06-20 17:18:12,032] {processor.py:163} INFO - Started process (PID=30213) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:18:12,037] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 17:18:12,038] {logging_mixin.py:109} INFO - [2022-06-20 17:18:12,038] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:18:12,053] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:18:12,072] {logging_mixin.py:109} INFO - [2022-06-20 17:18:12,072] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:18:12,088] {logging_mixin.py:109} INFO - [2022-06-20 17:18:12,088] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T15:18:12.088020+00:00
+[2022-06-20 17:18:12,103] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2022-06-20 17:21:17,661] {processor.py:163} INFO - Started process (PID=31551) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:21:17,666] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 17:21:17,667] {logging_mixin.py:109} INFO - [2022-06-20 17:21:17,667] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:21:17,681] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:21:17,711] {logging_mixin.py:109} INFO - [2022-06-20 17:21:17,711] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:21:17,737] {logging_mixin.py:109} INFO - [2022-06-20 17:21:17,737] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T15:21:17.736737+00:00
+[2022-06-20 17:21:17,762] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.107 seconds
+[2022-06-20 17:24:15,108] {processor.py:163} INFO - Started process (PID=391) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:24:15,111] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 17:24:15,113] {logging_mixin.py:109} INFO - [2022-06-20 17:24:15,112] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:24:15,121] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:24:15,147] {logging_mixin.py:109} INFO - [2022-06-20 17:24:15,147] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:24:15,188] {logging_mixin.py:109} INFO - [2022-06-20 17:24:15,188] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T15:24:15.187407+00:00
+[2022-06-20 17:24:15,245] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.142 seconds
+[2022-06-20 17:27:17,142] {processor.py:163} INFO - Started process (PID=1824) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:27:17,148] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 17:27:17,149] {logging_mixin.py:109} INFO - [2022-06-20 17:27:17,149] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:27:17,160] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:27:17,189] {logging_mixin.py:109} INFO - [2022-06-20 17:27:17,188] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:27:17,216] {logging_mixin.py:109} INFO - [2022-06-20 17:27:17,216] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T15:27:17.215441+00:00
+[2022-06-20 17:27:17,245] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.107 seconds
+[2022-06-20 17:30:24,750] {processor.py:163} INFO - Started process (PID=3107) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:30:24,753] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 17:30:24,755] {logging_mixin.py:109} INFO - [2022-06-20 17:30:24,754] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:30:24,782] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:30:24,816] {logging_mixin.py:109} INFO - [2022-06-20 17:30:24,816] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:30:24,918] {logging_mixin.py:109} INFO - [2022-06-20 17:30:24,918] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T15:30:24.908706+00:00
+[2022-06-20 17:30:24,991] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.248 seconds
+[2022-06-20 17:33:42,675] {processor.py:163} INFO - Started process (PID=4384) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:33:42,681] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 17:33:42,682] {logging_mixin.py:109} INFO - [2022-06-20 17:33:42,682] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:33:42,697] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:33:42,732] {logging_mixin.py:109} INFO - [2022-06-20 17:33:42,732] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:33:42,763] {logging_mixin.py:109} INFO - [2022-06-20 17:33:42,762] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T15:33:42.762481+00:00
+[2022-06-20 17:33:42,785] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.119 seconds
+[2022-06-20 17:35:47,558] {processor.py:163} INFO - Started process (PID=5523) to work on /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:35:47,560] {processor.py:642} INFO - Processing file /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-06-20 17:35:47,562] {logging_mixin.py:109} INFO - [2022-06-20 17:35:47,561] {dagbag.py:500} INFO - Filling up the DagBag from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:35:47,570] {processor.py:652} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-06-20 17:35:47,592] {logging_mixin.py:109} INFO - [2022-06-20 17:35:47,592] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-20 17:35:47,614] {logging_mixin.py:109} INFO - [2022-06-20 17:35:47,614] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-06-19T15:35:47.613781+00:00
+[2022-06-20 17:35:47,636] {processor.py:171} INFO - Processing /home/leizo/.local/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.082 seconds
